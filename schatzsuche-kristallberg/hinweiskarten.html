@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Tatatucks Reise zum Kristallberg – Hinweiskarten</title>
+<style>
+  @page { size: A4; margin: 0; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: Georgia, "Times New Roman", serif;
+    color: #4a3220;
+    background: #e8e0d0;
+  }
+  .page {
+    width: 210mm;
+    height: 296mm;
+    padding: 14mm;
+    margin: 0 auto;
+    background:
+      radial-gradient(ellipse at 20% 10%, rgba(255,255,255,0.35), transparent 60%),
+      radial-gradient(ellipse at 80% 90%, rgba(160,120,60,0.18), transparent 55%),
+      linear-gradient(160deg, #f6ecd3 0%, #f0e2c0 45%, #ecd9ae 100%);
+    page-break-after: always;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+  }
+  .frame {
+    flex: 1;
+    border: 3px double #8a6a3c;
+    border-radius: 6px;
+    padding: 12mm 14mm;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .corner { position: absolute; font-size: 22pt; color: #8a6a3c; }
+  .c1 { top: 16mm; left: 18mm; }
+  .c2 { top: 16mm; right: 18mm; }
+  .c3 { bottom: 16mm; left: 18mm; }
+  .c4 { bottom: 16mm; right: 18mm; }
+  .kicker {
+    text-align: center;
+    font-size: 12pt;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #8a6a3c;
+    margin-bottom: 4mm;
+  }
+  h1 {
+    text-align: center;
+    font-size: 26pt;
+    font-weight: normal;
+    font-variant: small-caps;
+    margin: 0 0 8mm 0;
+    letter-spacing: 1px;
+  }
+  .ornament { text-align: center; font-size: 16pt; color: #8a6a3c; margin: 4mm 0; }
+  p, li { font-size: 15pt; line-height: 1.65; margin: 0 0 5mm 0; }
+  .verse {
+    text-align: center;
+    font-style: italic;
+    font-size: 16pt;
+    line-height: 1.8;
+    margin: 6mm 0;
+  }
+  .sign { text-align: right; font-style: italic; font-size: 15pt; margin-top: 8mm; }
+  .big {
+    text-align: center;
+    font-size: 22pt;
+    font-variant: small-caps;
+    letter-spacing: 2px;
+    margin: 8mm 0;
+  }
+  .mirror {
+    transform: scaleX(-1);
+    text-align: center;
+    font-size: 30pt;
+    font-weight: bold;
+    letter-spacing: 3px;
+    line-height: 1.7;
+    margin: 14mm 0;
+  }
+  .hint { text-align: center; font-size: 11pt; color: #8a6a3c; font-style: italic; }
+  .spell {
+    text-align: center;
+    font-size: 24pt;
+    font-style: italic;
+    line-height: 1.9;
+    margin: 10mm 0;
+  }
+  /* Buchstabenkarten */
+  .lettergrid {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 6mm;
+  }
+  .lettercard {
+    border: 3px double #8a6a3c;
+    border-radius: 6px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255,255,255,0.25);
+  }
+  .lettercard .letter { font-size: 110pt; font-weight: bold; }
+  .lettercard .num {
+    position: absolute;
+    top: 5mm; left: 7mm;
+    font-size: 20pt;
+    color: #8a6a3c;
+    border: 1.5pt solid #8a6a3c;
+    border-radius: 50%;
+    width: 12mm; height: 12mm;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .cutnote {
+    text-align: center;
+    font-size: 10pt;
+    color: #8a6a3c;
+    font-style: italic;
+    margin-bottom: 4mm;
+  }
+  /* Urkunde */
+  .nameline {
+    display: block;
+    text-align: center;
+    font-size: 24pt;
+    border-bottom: 1.5pt solid #8a6a3c;
+    width: 70%;
+    margin: 10mm auto 3mm auto;
+    min-height: 14mm;
+  }
+  .datelines { display: flex; justify-content: space-between; margin-top: 16mm; font-size: 13pt; }
+  .datelines span { border-top: 1pt solid #8a6a3c; padding-top: 2mm; width: 42%; text-align: center; }
+  @media screen {
+    body { padding: 10mm 0; }
+    .page { margin-bottom: 10mm; box-shadow: 0 4px 18px rgba(0,0,0,0.25); }
+  }
+</style>
+</head>
+<body>
+
+<!-- ═══ Tatatucks Brief ═══ -->
+<div class="page">
+  <span class="corner c1">❧</span><span class="corner c2">❧</span>
+  <span class="corner c3">❧</span><span class="corner c4">❧</span>
+  <div class="frame">
+    <div class="kicker">Ein Brief aus dem Zwergenreich</div>
+    <h1>Liebe Kinder!</h1>
+    <div class="ornament">✦ ✦ ✦</div>
+    <p>Ich bin <strong>Tatatuck, der Zwerg</strong>. Der Zwergenkönig hat mich
+    ausgesandt: Ich soll zum <strong>Kristallberg</strong> wandern und funkelnde
+    Kristalle für seinen Palast holen.</p>
+    <p>Doch der Weg führt <strong>über sieben Berge und sieben Täler</strong> –
+    und überall treiben üble <strong>Kobolde</strong> ihr Unwesen! Sie haben mir
+    Fallen gestellt und meine Sachen versteckt. Ganz allein schaffe ich das nie.</p>
+    <p><strong>Helft ihr mir?</strong></p>
+    <p>Zuerst braucht ihr echte <strong>Zwergenmützen</strong> – ohne Mütze erkennt
+    euch der Zwergenkönig nicht als Zwerge an! Die Kobolde haben sie gestohlen und
+    dort versteckt, wo die Tiere wohnen und es nach Heu und Stroh duftet.</p>
+    <p class="big">Lauft zum Stall – jeder von euch findet genau eine Mütze!</p>
+    <div class="sign">Euer Tatatuck</div>
+  </div>
+</div>
+
+<!-- ═══ Karte 1: Stall ═══ -->
+<div class="page">
+  <span class="corner c1">❧</span><span class="corner c2">❧</span>
+  <span class="corner c3">❧</span><span class="corner c4">❧</span>
+  <div class="frame">
+    <div class="kicker">Der erste Berg · Im Stall</div>
+    <h1>Karte 1</h1>
+    <div class="ornament">✦ ✦ ✦</div>
+    <div class="verse">
+      Ihr habt die Mützen aufgespürt,<br>
+      wie es sich für Zwerge gebührt!<br>
+      Nun wandert weiter, tapf’re Schar,<br>
+      zum Berg aus Heu, so wunderbar.<br>
+      Tief im Stroh, da liegt versteckt<br>
+      ein Bild, das euch den Weg entdeckt.
+    </div>
+    <div class="ornament">✦</div>
+    <p class="hint">Für die Erwachsenen: führt in den Stadl, wo die Puzzleteile im Heu versteckt sind.</p>
+  </div>
+</div>
+
+<!-- ═══ Karte 2: Stadl ═══ -->
+<div class="page">
+  <span class="corner c1">❧</span><span class="corner c2">❧</span>
+  <span class="corner c3">❧</span><span class="corner c4">❧</span>
+  <div class="frame">
+    <div class="kicker">Der Berg aus Heu · Im Stadl</div>
+    <h1>Karte 2</h1>
+    <div class="ornament">✦ ✦ ✦</div>
+    <p>Oje! Die Kobolde haben das Bild von Tatatucks nächstem Rastplatz
+    <strong>zerrissen</strong> und die Fetzen im Heu verstreut!</p>
+    <p class="big">Sucht alle Teile und setzt das Bild zusammen –<br>
+    dann wisst ihr, wohin Tatatuck weitergewandert ist.</p>
+    <div class="ornament">✦</div>
+    <p class="hint">Für die Erwachsenen: das zusammengesetzte Foto zeigt die Hochbeete im Gemüsegarten.</p>
+  </div>
+</div>
+
+<!-- ═══ Karte 3: Hochbeete ═══ -->
+<div class="page">
+  <span class="corner c1">❧</span><span class="corner c2">❧</span>
+  <span class="corner c3">❧</span><span class="corner c4">❧</span>
+  <div class="frame">
+    <div class="kicker">Das Tal der Riesenwurzeln · Bei den Hochbeeten</div>
+    <h1>Karte 3</h1>
+    <div class="ornament">✦ ✦ ✦</div>
+    <p>Im Tal der Riesenwurzeln haben die Kobolde <strong>neun Zauberbuchstaben</strong>
+    verstreut – einen für jedes Zwergenkind!</p>
+    <p>Sucht zwischen den Beeten. Jeder Buchstabe trägt eine <strong>Zahl</strong>.</p>
+    <p class="big">Legt die Buchstaben in die richtige Reihenfolge<br>
+    (1 bis 9) – dann lest ihr, wo der nächste Berg wartet!</p>
+    <div class="ornament">✦</div>
+    <p class="hint">Für die Erwachsenen: Lösung „SPIELTURM“ – die Buchstabenkarten sind hinten in diesem Dokument.</p>
+  </div>
+</div>
+
+<!-- ═══ Karte 4: Spielturm ═══ -->
+<div class="page">
+  <span class="corner c1">❧</span><span class="corner c2">❧</span>
+  <span class="corner c3">❧</span><span class="corner c4">❧</span>
+  <div class="frame">
+    <div class="kicker">Der steile Berg · Am Spielturm</div>
+    <h1>Karte 4</h1>
+    <div class="ornament">✦ ✦ ✦</div>
+    <p>Der steile Berg! Rundherum liegt der <strong>Koboldsumpf</strong>,
+    in dem die Kobolde lauern.</p>
+    <p>Jedes Zwergenkind muss den Berg <strong>erklimmen</strong> und auf der
+    anderen Seite <strong>hinuntersausen</strong>, ohne in den Sumpf zu fallen.
+    Die großen Zwerge helfen den kleinen!</p>
+    <p class="big">Wenn es alle geschafft haben:<br>Blatt umdrehen!</p>
+    <div class="ornament">✦</div>
+    <p class="hint">Für die Erwachsenen: die nächste Seite (Spiegelschrift) auf die Rückseite dieser Karte kleben. Kleinen Spiegel bereithalten!</p>
+  </div>
+</div>
+
+<!-- ═══ Karte 4 Rückseite: Spiegelschrift ═══ -->
+<div class="page">
+  <span class="corner c1">❧</span><span class="corner c2">❧</span>
+  <span class="corner c3">❧</span><span class="corner c4">❧</span>
+  <div class="frame">
+    <div class="kicker">Koboldschrift · Rückseite von Karte 4</div>
+    <div class="ornament">✦ ✦ ✦</div>
+    <p style="text-align:center;">Die Kobolde schreiben alles verkehrt herum!<br>
+    Könnt ihr ihre Geheimschrift entziffern?</p>
+    <div class="mirror">GEHT IN DEN<br>OBSTGARTEN,<br>ZU DEN SÜSSEN<br>FRÜCHTEN!</div>
+    <p class="hint">Tipp für die Zwerge: Haltet einen Spiegel daneben!</p>
+  </div>
+</div>
+
+<!-- ═══ Karte 5: Obstgarten ═══ -->
+<div class="page">
+  <span class="corner c1">❧</span><span class="corner c2">❧</span>
+  <span class="corner c3">❧</span><span class="corner c4">❧</span>
+  <div class="frame">
+    <div class="kicker">Das Tal der Kröte · Im Obstgarten</div>
+    <h1>Karte 5</h1>
+    <div class="ornament">✦ ✦ ✦</div>
+    <p>Psst … hört ihr das leise <strong>Quaken</strong>?</p>
+    <p>Unter einem der Obstbäume sitzt eine <strong>Kröte in der Falle</strong> –
+    genau wie in Tatatucks Geschichte! Die Kobolde haben sie gefangen.</p>
+    <p class="big">Sucht die Kröte und befreit sie –<br>ganz vorsichtig und leise!</p>
+    <p style="text-align:center; font-style:italic;">Denn wer anderen hilft, dem wird geholfen …</p>
+    <div class="ornament">✦</div>
+    <p class="hint">Für die Erwachsenen: unter dem Korb mit der Kröte liegt die Karte „Der Dank der Kröte“.</p>
+  </div>
+</div>
+
+<!-- ═══ Karte 5b: Dank der Kröte ═══ -->
+<div class="page">
+  <span class="corner c1">❧</span><span class="corner c2">❧</span>
+  <span class="corner c3">❧</span><span class="corner c4">❧</span>
+  <div class="frame">
+    <div class="kicker">Unter dem Korb versteckt</div>
+    <h1>Der Dank der Kröte</h1>
+    <div class="ornament">✦ ✦ ✦</div>
+    <p><em>„Quaaak! Danke, liebe Zwergenkinder, dass ihr mich befreit habt!</em></p>
+    <p><em>Zum Dank verrate ich euch ein Geheimnis: Der Weg zum Kristallberg führt
+    durch die <strong>dunkle Koboldhöhle</strong> – dort, wo tagsüber die
+    Autos schlafen.</em></p>
+    <p class="big"><em>Aber Vorsicht: Seid mucksmäuschenstill –<br>
+    die Kobolde halten Mittagsschlaf!“</em></p>
+    <div class="ornament">✦</div>
+    <p class="hint">Für die Erwachsenen: führt zum Carport.</p>
+  </div>
+</div>
+
+<!-- ═══ Karte 6: Carport ═══ -->
+<div class="page">
+  <span class="corner c1">❧</span><span class="corner c2">❧</span>
+  <span class="corner c3">❧</span><span class="corner c4">❧</span>
+  <div class="frame">
+    <div class="kicker">Die Koboldhöhle · Im Carport</div>
+    <h1>Karte 6</h1>
+    <div class="ornament">✦ ✦ ✦</div>
+    <p>Ihr steht vor der <strong>Koboldhöhle</strong>! Die Kobolde schnarchen …
+    noch.</p>
+    <p><strong>Schleicht auf Zehenspitzen hindurch</strong> – wer laut ist, weckt
+    die Kobolde und muss noch einmal von vorn!</p>
+    <p>Sammelt unterwegs die <strong>Kristallsplitter</strong> ein, die die Kobolde
+    dem Tatatuck gestohlen haben. Jedes Zwergenkind trägt einen Splitter.</p>
+    <p class="big">Nehmt zuletzt die Kristallhacke mit –<br>
+    ohne sie könnt ihr am Kristallberg nichts schürfen!</p>
+    <p style="text-align:center;">Der Kristallberg ist hoch – so hoch, dass man
+    <strong>zwischen den Ästen der Bäume</strong> hinaufklettern muss …</p>
+    <div class="ornament">✦</div>
+    <p class="hint">Für die Erwachsenen: führt zum Baumhaus. Glasnuggets und Spielzeughammer hier auslegen.</p>
+  </div>
+</div>
+
+<!-- ═══ Karte 7: Kristallberg ═══ -->
+<div class="page">
+  <span class="corner c1">❧</span><span class="corner c2">❧</span>
+  <span class="corner c3">❧</span><span class="corner c4">❧</span>
+  <div class="frame">
+    <div class="kicker">Das Ziel · Am Baumhaus</div>
+    <h1>Der Kristallberg</h1>
+    <div class="ornament">✦ ✦ ✦</div>
+    <p style="text-align:center;">Ihr habt es geschafft: <strong>sieben Berge und
+    sieben Täler</strong> liegen hinter euch!</p>
+    <p style="text-align:center;">Doch der Kristallberg öffnet sein Schatzkämmerlein
+    nur, wenn <strong>alle Zwerge gemeinsam</strong> den Zauberspruch rufen –
+    dreimal, und dazu klopft ihr dreimal mit der Kristallhacke:</p>
+    <div class="spell">
+      „Hämmerlein, Hämmerlein,<br>
+      klopf ans Gestein –<br>
+      Kristallberg, Kristallberg,<br>
+      lass uns hinein!“
+    </div>
+    <div class="ornament">✦ ✦ ✦</div>
+    <p class="hint">Für die Erwachsenen: nach dem dritten Ruf dürfen die Kinder hinauf – dort wartet die Schatztruhe mit den Kristallen des Zwergenkönigs.</p>
+  </div>
+</div>
+
+<!-- ═══ Buchstabenkarten SPIELTURM ═══ -->
+<div class="page">
+  <div class="cutnote">Buchstabenkarten 1–4 („SPIELTURM“) – ausschneiden und zwischen den Hochbeeten verstecken</div>
+  <div class="lettergrid">
+    <div class="lettercard"><span class="num">1</span><span class="letter">S</span></div>
+    <div class="lettercard"><span class="num">2</span><span class="letter">P</span></div>
+    <div class="lettercard"><span class="num">3</span><span class="letter">I</span></div>
+    <div class="lettercard"><span class="num">4</span><span class="letter">E</span></div>
+  </div>
+</div>
+<div class="page">
+  <div class="cutnote">Buchstabenkarten 5–8</div>
+  <div class="lettergrid">
+    <div class="lettercard"><span class="num">5</span><span class="letter">L</span></div>
+    <div class="lettercard"><span class="num">6</span><span class="letter">T</span></div>
+    <div class="lettercard"><span class="num">7</span><span class="letter">U</span></div>
+    <div class="lettercard"><span class="num">8</span><span class="letter">R</span></div>
+  </div>
+</div>
+<div class="page">
+  <div class="cutnote">Buchstabenkarte 9</div>
+  <div class="lettergrid">
+    <div class="lettercard"><span class="num">9</span><span class="letter">M</span></div>
+    <div class="lettercard" style="border-style:dashed; opacity:0.45;"><span class="letter" style="font-size:16pt; font-style:italic;">leer</span></div>
+    <div class="lettercard" style="border-style:dashed; opacity:0.45;"><span class="letter" style="font-size:16pt; font-style:italic;">leer</span></div>
+    <div class="lettercard" style="border-style:dashed; opacity:0.45;"><span class="letter" style="font-size:16pt; font-style:italic;">leer</span></div>
+  </div>
+</div>
+
+<!-- ═══ Zwergen-Urkunde ═══ -->
+<div class="page">
+  <span class="corner c1">❧</span><span class="corner c2">❧</span>
+  <span class="corner c3">❧</span><span class="corner c4">❧</span>
+  <div class="frame">
+    <div class="kicker">Aus dem Palast des Zwergenkönigs</div>
+    <h1>Zwergen-Urkunde</h1>
+    <div class="ornament">✦ ✦ ✦</div>
+    <p style="text-align:center;">Hiermit wird feierlich bestätigt, dass</p>
+    <span class="nameline"></span>
+    <p style="text-align:center;">mit dem Zwerg <strong>Tatatuck</strong> über
+    <strong>sieben Berge und sieben Täler</strong> gewandert ist, die üblen
+    <strong>Kobolde</strong> überlistet, einer <strong>Kröte</strong> in Not
+    geholfen und die <strong>Kristalle des Zwergenkönigs</strong> gefunden hat.</p>
+    <div class="ornament">✦</div>
+    <p style="text-align:center; font-size:17pt; font-variant:small-caps;">
+      Ernannt zum Ehrenzwerg des Kristallberges!</p>
+    <div class="datelines">
+      <span>Ort, Datum</span>
+      <span>Der Zwergenkönig</span>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
