@@ -2,7 +2,8 @@
 
 **Fahrzeug:** VW T3 Syncro · BJ 1991 · 95 PS · 14″ · 2 Differentialsperren · Webasto · ehem. KDO-F (Feuerwehr)  
 **Kauf:** ca. 19.000 € · **Zielwert Erhalt:** Sammlerzustand (Markt 30–50.000 €)  
-**Stand dieses Dokuments:** 2026-09-19 · Fokus Phase 1: Campingbox + Innenraum
+**Stand dieses Dokuments:** 2026-09-19 · Fokus Phase 1: Campingbox + Innenraum  
+**Maße:** Literaturwerte für T3 Kombi/Bus 9-Sitzer + Syncro 14″ (Fahrzeug steht aktuell nicht zur Verfügung)
 
 ---
 
@@ -11,50 +12,106 @@
 1. **Reversibel:** Keine Bohrungen in Karosserie, Bodenblech oder Sitzschienen. Alles muss rückbaubar sein.
 2. **Sammlerwert schützen:** Originale Sitze, Gurte, Verkleidungen und Feuerwehr-Historie bleiben erhalten (Sitze ausbauen und einlagern, nicht verkaufen).
 3. **Alltagstauglich:** Mindestens **5 Sitzplätze** bleiben nutzbar und angegurtet.
-4. **Modular:** Campingbox per **Zurrgurte** fixiert; in <30 Min. ausbaubar für Transport / Verkauf / Werkstatt.
+4. **Modular:** Campingbox per **Zurrgurte** fixiert; in <30 Min. ausbaubar für Transport / Verkauf / Werkstatt. *(Zurrösen-Detail: später)*
 5. **Gewicht & Syncro:** Hecklast und Dachlast bewusst planen (Anhänger für sperriges Gepäck; Dachzelt nur wenn Zulassung/Achslasten passen).
 
 ---
 
-## 2. Fahrzeug-Steckbrief (bekannte Daten)
+## 2. Fahrzeug-Steckbrief & recherchierte Maße
 
-| Merkmal | Wert | Quelle / Hinweis |
+### 2.1 Identität
+
+| Merkmal | Wert | Quelle |
 | --- | --- | --- |
 | Typ | T3 Syncro 14″ | Nutzerangabe |
 | Baujahr | 1991 | Nutzerangabe |
-| Leistung | 95 PS | typ. 2,1 l (DG/DJ) – Papier prüfen |
-| Antrieb | Syncro, 2 Diff.-Sperren | Vorder- + Hinterachse |
-| Standheizung | Webasto | vorhanden |
-| Sitze aktuell | 9 | KDO-F / Kombi-Layout |
-| Außen L×B×H | 4570 × 1845 × ca. 1955–1990 mm | T3-Pedia Syncro 14″ |
-| Radstand | 2455 mm | T3-Pedia |
-| zul. Gesamtmasse (Benziner, Richtwert) | ca. 2500 kg | T3-Pedia – **Fahrzeugschein maßgeblich** |
-| zul. Anhängelast (Richtwert Syncro) | oft 1500 kg gebremst / 600 kg ungebremst | **Fahrzeugschein prüfen** |
-| Zustand | ~99 % rostfrei | Erhalt Priorität 1 |
+| Leistung | 95 PS / 70 kW | Nutzerangabe; typ. 2,1-l-Wasserboxer (z. B. MV/DJ) – Schein prüfen |
+| Antrieb | Syncro, 2 Diff.-Sperren | Nutzerangabe |
+| Standheizung | Webasto | Nutzerangabe |
+| Sitze | 9 (KDO-F / Kombi-Bus) | Nutzerangabe |
+| Zustand | ~99 % rostfrei | Nutzerangabe |
+| Kauf / Sammlerwert | ca. 19.000 € / Markt 30–50.000 € | Nutzerangabe |
 
-### 2.1 Noch am Fahrzeug zu klären (Mess- & Papiercheck)
+### 2.2 Außenmaße Syncro 14″
 
-Vor dem Bau ausfüllen – ohne diese Maße bleibt die Box eine Schätzung:
+| Maß | Wert | Quelle |
+| --- | --- | --- |
+| Länge × Breite × Höhe (leer) | **4570 × 1845 × ca. 1990 mm** | [T3-Pedia Syncro vs. 2WD](https://www.t3-pedia.de/index.php?title=Datenvergleich_Syncro_versus_2WD) |
+| Höhe beladen | ca. 1955 mm | T3-Pedia |
+| Radstand | **2455 mm** | T3-Pedia (2WD: 2460 mm) |
+| Spur vorn / hinten | 1568 / 1560 mm | T3-Pedia |
+| Überhang vorn / hinten | ca. 1160 / 950 mm | [militärfahrzeuge.ch T3 Kombi 9 Pl](https://militaerfahrzeuge.ch/unterkategorie_11_5_275.html) |
+| Wendekreis | ca. 10,9 m | T3-Pedia |
+| Reifen (Serie 14″) | 185 R 14 C / 205 R 14 C | T3-Pedia |
 
-| ID | Messung / Prüfung | Soll / Notiz | Ist |
-| --- | --- | --- | --- |
-| M01 | Sitzlayout skizzieren (Reihen, Bankbreiten) | Foto + Skizze | |
-| M02 | Welche Sitze sind herausnehmbar? (Schrauben / Schnellverschluss) | Liste | |
-| M03 | Boden: Zurrösen / Ösen / Sitzanker vorhanden? Positionen | Foto + Abstände | |
-| M04 | Lichte Innenbreite über Radkästen | mm | |
-| M05 | Breite zwischen Radkästen (Boden) | mm | |
-| M06 | Höhe Radkasten über Boden | mm | |
-| M07 | Länge Boden: Heckklappe → Vorderkante hinterste Sitzreihe | mm | |
-| M08 | Länge Boden: Heckklappe → Vorderkante mittlere Sitzreihe | mm | |
-| M09 | Lichte Innenhöhe über Boden (Mitte / über Motorabdeckung) | mm | |
-| M10 | Motorabdeckung: Höhe + Länge + Form | mm + Foto | |
-| M11 | Heckklappen-Öffnung Innenbreite / Höhe | mm | |
-| M12 | Leergewicht / zul. Gesamtgewicht / Achslasten aus Schein | kg | |
-| M13 | Anhängelast gebremst / ungebremst / Stützlast | kg | |
-| M14 | Dachlast / mögliche Querträger-Punkte | kg / Typ | |
-| M15 | Webasto: Auslässe, Bedienung, ob Durchzug durch Box nötig | Skizze | |
+### 2.3 Innen- / Laderaummaße (T3 Kombi / Bus, baugleicher Rohbau)
 
-> **Tipp:** Alle Längen mit zwei Personen messen (Bandmaß + Schablone aus Pappe für Radkästen/Motorhaube). Fotos in `docs/fotos/` ablegen und hier verlinken.
+Karosserieinnenraum von Kastenwagen, Kombi und Bus ist im Rohbau gleich; Sitze und Verkleidung reduzieren nutzbare Maße. Werte unten = **Werks-/Katalogangaben für T3 Kombi 9-Sitzer** (2WD-Referenz) bzw. Syncro-Kasten mit gleichem Bodenmaß. Syncro 14″ ändert den Innenraum praktisch nicht.
+
+| Maß | Wert | Quelle / Einordnung |
+| --- | --- | --- |
+| Laderaumlänge **ohne** Sitzbänke | **2780 mm** | militärfahrzeuge.ch Kombi 9 Pl; gleiches Maß Syncro-Reparaturwagen |
+| Laderaumlänge **mit** Sitzbänken (hinter letzter Reihe) | **1000 mm** | militärfahrzeuge.ch Kombi 9 Pl |
+| Laderaumbreite vorn (max.) | **1590 mm** | militärfahrzeuge.ch |
+| Laderaumbreite hinten (max.) | **1555 mm** | militärfahrzeuge.ch |
+| Schiebetür-Öffnung Breite | **1060 mm** | militärfahrzeuge.ch |
+| Schiebetür-Öffnung Höhe | **1315 mm** | militärfahrzeuge.ch |
+| Innenhöhe Laderaum (Normaldach) | **1465 mm** | Wikipedia T3 / militärfahrzeuge.ch |
+| Beladehöhe Heckklappe | ca. **820 mm** über Fahrbahn | militärfahrzeuge.ch |
+| Beladehöhe Schiebetür | ca. **445 mm** | militärfahrzeuge.ch |
+
+**Abgeleitet für Campingmodus (Reihe 3 ausgebaut, Reihe 2 bleibt):**
+
+| Abgeleitetes Maß | Planungswert | Herleitung |
+| --- | --- | --- |
+| Nutzlänge Heckklappe → Vorderkante Reihe 2 | **ca. 1500–1700 mm** | 1000 mm hinter Reihe 3 + Tiefe der ausgebauten 3er-Bank (~450–600 mm) + Spalt; am Fahrzeug ±50 mm prüfen |
+| Nutzbreite Liegefläche über Radkästen | **ca. 1550–1590 mm** max. Wand–Wand | Katalogbreite; Verkleidung/Gurte können 20–40 mm nehmen |
+| Nutzbreite **zwischen** Radkästen (Boden) | **ca. 1100–1200 mm** (Schätzung) | keine harte Werkszahl gefunden; Westfalia-Motorraumpolster **1190 mm** breit → brauchbarer Proxy für ebene Heckfläche |
+| Höhe Radkasten über Boden | **ca. 300–400 mm** (Schätzung) | typisch T3; Box-Höhe darauf abstimmen |
+
+### 2.4 Motorraum / Schlafbezugswerte (Werks-Camping)
+
+| Maß | Wert | Quelle |
+| --- | --- | --- |
+| Multivan-Liegefläche (Bank umgelegt + Motorauflage) | **1880 × 1600 mm** | [Wikipedia VW T3](https://de.wikipedia.org/wiki/VW_T3) |
+| Westfalia Motorraumpolster | **1190 × 910 × 115 mm** | [T3-Pedia / t3-infos.de](https://www.t3-pedia.de/index.php?title=Westfalia_Joker_Polsterabmessungen) |
+| Westfalia Bank hinten (2er, Sitzfläche) | 1140 mm breit | T3-Pedia Joker |
+| Aufstelldach-Bett (Westfalia, optional-Referenz) | 1940 × 1160 mm | Wikipedia Multivan |
+
+→ Die **1880 × 1600 mm** Multivan-Fläche ist der realistische Obergrenze-Maßstab für „2 Erwachsene längs im Heck + Verlängerung“.  
+→ Das Motorraumpolster **910 mm tief × 1190 mm breit** beschreibt die ebene Zone über dem Heckmotor – die Campingbox braucht hier Aussparung oder Klappe.
+
+### 2.5 Gewichte & Lasten (Richtwerte – Schein sticht)
+
+| Merkmal | Richtwert Syncro / Kombi | Quelle |
+| --- | --- | --- |
+| zul. Gesamtmasse Benziner Syncro | ca. **2500 kg** | T3-Pedia |
+| Achslast vorn / hinten zul. (Syncro) | ca. **1300 / 1380 kg** | T3-Pedia |
+| Mehrgewicht Syncro vs. 2WD | ca. **+145 kg** | Wikipedia / Prospekt-Daten |
+| Dachlast (viele T3-Angaben) | **100 kg** | diverse Typdatenblätter – **Schein prüfen** |
+| Anhängelast Syncro (häufig) | **1500 kg** gebremst / **600 kg** ungebremst | militärfahrzeuge.ch Syncro; Schein prüfen |
+| Stützlast (häufig) | ca. **50 kg** | diverse Blätter – Schein prüfen |
+
+### 2.6 Sitzlayout 9-Sitzer (Literatur)
+
+Standard **Bus/Kombi 9 Pl** laut Schweizer Militärkatalog:
+
+- **3 vorne + 6 hinten** in typisch **drei Reihen** (3+3+3)  
+- Quelle: [militärfahrzeuge.ch – T3 Kombi 9 Pl](https://militaerfahrzeuge.ch/unterkategorie_11_5_275.html)  
+- Wikipedia: Typ 253 Fensterbus „bis zu 9 Sitzplätze in 3 Reihen“
+
+KDO-F-Sonderaufbauten können abweichen (z. B. 2+3+2+2). Beim ersten Zugang kurz fotografieren und hier bestätigen – die Campingbox-Logik (letzte Reihe raus) bleibt gleich.
+
+### 2.7 Offene Punkte (nicht Maße – später)
+
+| ID | Thema | Status |
+| --- | --- | --- |
+| M03 | Zurrösen / Sitzanker-Positionen | **zurückgestellt** (wie besprochen) |
+| M12–M14 | exakte Scheinwerte Gewicht/Anhänger/Dach | später ablesen |
+| M15 | Webasto-Auslässe relativ zur Box | später vor Ort |
+| — | exakte Radkastenhöhe / Motorhaubenkontur | Pappschablone vor Zuschnitt |
+
+> Feinpassung (±10–20 mm) immer per Schablone am konkreten Bus – Literatur reicht für Konzept, Materialkauf und Brettzuschnitt-Vorbestellung.
 
 ---
 
@@ -71,20 +128,20 @@ Vor dem Bau ausfüllen – ohne diese Maße bleibt die Box eine Schätzung:
 
 ### 3.1 Empfohlenes Sitz-Szenario „Camping“
 
-Typisches 9-Sitzer-Layout (zu verifizieren):
+Literatur-Layout 9-Sitzer (3+3+3), Campingmodus:
 
 ```
-[Fahrer] [Beifahrer]          ← Reihe 1: 2 Sitze BLEIBEN
-[  Sitz  ][ Sitz ][ Sitz ]    ← Reihe 2: 3 Sitze BLEIBEN  → Summe 5
+[  3er-Bank vorne (o. 2+1) ]  ← Reihe 1: BLEIBT (mind. Fahrer+Beifahrer; oft 3)
+[  Sitz  ][ Sitz ][ Sitz ]    ← Reihe 2: 3 Sitze BLEIBEN
 [======== 3er-Bank ========]  ← Reihe 3: AUSBAUEN + einlagern
-[        Campingbox         ]
+[   Campingbox ~1500–1700   ]
+[   mm lang, Bett + Platte   ]
+[   → ca. 1880–1900 mm Liege ]
 ```
 
-- **Mindestziel erfüllt:** 5 Plätze.
-- Optional: einen Sitz in Reihe 2 ausbauen → mehr Beinfreiheit / längere Liegefläche (dann 4 Plätze – nur wenn akzeptabel).
-- **Alternative „6 Plätze“:** Reihe 2 als 2+1 oder 3er behalten, nur Reihe 3 raus → oft noch genug Länge für verkürzte Box + Verlängerungsplatte.
-
-Originalsitze der 3. Reihe: nummeriert einlagern (Schrauben, Unterlagen, Gurte), Foto der Montagepunkte für Rückbau.
+- Mit **Reihe 1 (mind. 2) + Reihe 2 (3)** sind **≥ 5 Sitze** sicher; bei 3er-Bank vorne sogar **6**.
+- Optional: einen Sitz Reihe 2 ausbauen → mehr Länge/Beinraum (dann ggf. nur 4–5 Plätze).
+- Originalsitze Reihe 3: nummeriert einlagern (Schrauben, Unterlagen, Gurte).
 
 ---
 
@@ -100,59 +157,55 @@ Originalsitze der 3. Reihe: nummeriert einlagern (Schrauben, Unterlagen, Gurte),
 
 **Empfehlung Start:** Variante **A**, optional später Auszug-Modul nachrüstbar.
 
-### 4.2 Liegefläche – Zielmaße (Planungswerte)
+### 4.2 Liegefläche – Zielmaße (aus Literatur kalibriert)
 
-Ziel für 2 Erwachsene (bis Maßblatt gefüllt ist):
+Bezug: Multivan-Werksbett **1880 × 1600 mm**; verfügbare Heckzone hinter Reihe 2 ca. **1500–1700 mm** lang, max. Breite **~1555 mm**.
 
-| Parameter | Ziel | Kommentar |
+| Parameter | Planungswert | Begründung |
 | --- | --- | --- |
-| Liegefläche L × B | **≥ 1900 × 1200 mm** (besser 1900 × 1400) | Unter 1200 mm Breite wird es eng |
-| Matratze | 2× 65–70 cm oder 1× Doppel 10–12 cm Faltmatratze | belüftet (Lattenrost oder Noppenfolie) |
-| Box-Höhe Außen | **450–550 mm** | Stauraum Eurobox 400 mm hoch + Deckelstärke |
-| Plattform-Höhe | ≈ Radkasten-Oberkante oder leicht darüber | Volle Breite nutzbar |
-| Gewicht Box leer | **Ziel ≤ 40–50 kg** | Zwei Personen heben / Gurte reichen |
-| Nutzlast Stauraum | planen, aber **Hecklast** im Auge behalten | Syncro: Achslasten prüfen |
+| Box-Grundfläche L × B | **ca. 1550 × 1500 mm** (± am Bus) | Länge ≈ Raum Reihe-3-Fußabdruck + 1000 mm Kofferraum; Breite ≤ 1555 mm hinten |
+| Liegefläche gesamt L × B | **ca. 1880–1900 × 1400–1550 mm** | Box + Verlängerungsplatte; Breite wie Multivan/Joker-Niveau |
+| davon Verlängerungsplatte | **ca. 350–500 mm** Tiefe | legt auf Lehnenrückseite Reihe 2; schließt auf ~1880–1900 mm |
+| Matratze | 2× 70 cm oder 1× 140–155 × 190 cm, 10–12 cm | belüftet (Latten / Noppenfolie) |
+| Box-Höhe Außen | **450–550 mm** | Eurobox 400 mm + Deckel; ideal ≈ Radkasten-OK |
+| Zone über Motor | Aussparung / Klappe **~910 × 1190 mm** | analog Westfalia-Motorraumpolster |
+| Innenhöhe über Matratze | Rest aus **1465 mm** − Box − Matratze ≈ **900–1000 mm** | sitzend ok, nicht stehend |
+| Gewicht Box leer | **Ziel ≤ 40–50 kg** | handhabbar zu zweit |
+| Stauraum unter Deckel | Eurobox 600×400 Raster | 2–3 Boxen quer/längs + Kühlbox-Fach |
 
-**T3-Besonderheit Heckmotor:** Die Motorabdeckung ragt in den Laderaum. Die Box braucht entweder:
+**T3-Besonderheit Heckmotor:** Box braucht **Aussparung oder Klappe** über der Motorabdeckung (Proxy 910×1190 mm). Service-Zugang ohne Zerstören der Box (Klappe, Modul oder kompletter Ausbau &lt;15 Min.).
 
-- eine **Aussparung / Stufe** über der Motorhaube, oder  
-- die Liegefläche **vor** der Haube (Richtung Fahrzeugmitte), Haube bleibt frei zugänglich für Service.
-
-Service-Zugang zum Motor **muss** ohne Zerstören der Box möglich sein (Klappe, abnehmbares Modul oder Box komplett raus in <15 Min.).
-
-### 4.3 Grundriss (Schema Variante A)
+### 4.3 Grundriss (Schema Variante A) – mit Literaturmaßen
 
 ```
-Heckklappe
-    ┌──────────────────────────────────────┐
-    │  Motorabdeckung (Aussparung/Klappe)  │
-    │  ┌────────────────────────────────┐  │
-    │  │     Liegefläche 2 Personen     │  │
-    │  │     (Matratze auf Deckel)       │  │
-    │  └────────────────────────────────┘  │
-    │  │  Stauraum: Euroboxen / Kühlbox │  │
-    │  └────────────────────────────────┘  │
-    └──────────────────────────────────────┘
-              ↑ Zurrgurte zu Bodenösen / Sitzankern
-    ┌──────────────────────────────────────┐
-    │         Reihe 2 (3 Sitze)            │  ← bleibt
-    └──────────────────────────────────────┘
-    ┌──────────┐              ┌────────────┐
-    │ Fahrer   │              │ Beifahrer  │
-    └──────────┘              └────────────┘
+Heckklappe  ← Beladehöhe ~820 mm | Öffnung nutzt Innenbreite ~1555 mm
+┌─────────────────────────────────────────────┐  Innenhöhe ~1465 mm
+│  Motorzone ~910 mm tief × ~1190 mm breit    │
+│  (Klappe / Aussparung in der Box)           │
+│ ┌─────────────────────────────────────────┐ │
+│ │  Liegefläche auf Box-Deckel             │ │  Box ~1550 mm breit
+│ │  + Verlängerung → Σ Länge ~1880–1900 mm │ │  Box ~1500–1700 mm tief
+│ └─────────────────────────────────────────┘ │
+│ │ Stauraum Eurobox / Kühlbox ~450–550 mm H│ │
+└─────────────────────────────────────────────┘
+         ↑ Zurrgurte (Detail später)
+┌─────────────────────────────────────────────┐
+│           Reihe 2 – 3 Sitze (bleibt)        │
+└─────────────────────────────────────────────┘
+┌─────────────────────────────────────────────┐
+│           Reihe 1 – bis 3 Sitze (bleibt)    │
+└─────────────────────────────────────────────┘
+Außen: 4570 × 1845 × ~1990 mm | Radstand Syncro 2455 mm
 ```
 
-**Schlaf-Richtung:**
+**Schlaf-Richtung:** **längs** (Köpfe zur Mitte oder zum Heck). Quer-Schlafen scheidet aus: Innenbreite ~1550–1590 mm &lt; 1900 mm Körperlänge.
 
-1. **Quer zur Fahrtrichtung** (Köpfe zur Schiebetür / Seitenwand): oft komfortabler in der Breite, Länge ≈ Innenbreite. Nur wenn Innenbreite ≥ ~190 cm – beim T3 eher knapp → meist **nicht** ideal.
-2. **Längs** (Köpfe zur Fahrtrichtung oder zum Heck): Standard. Länge kommt aus Box + ggf. **Verlängerungsplatte** auf die Rückseite von Reihe 2 (mit Gurten/Polster, nicht verschraubt).
+**Verlängerungsplatte (empfohlen, fast Pflicht für 1,90 m):**
 
-**Verlängerungsplatte (optional, empfohlen):**
-
-- 2-teilig mit Scharnier oder eine Platte ca. 600–800 × Breite Liegefläche  
-- Nachts: auf Rückseite Reihe-2-Lehnen gelegt und verzurrt  
-- Tags: hochgeklappt an der Box-Vorderseite oder unter der Liegefläche verstaut  
-- Ermöglicht Bettlänge ~190–200 cm ohne Reihe 2 auszubauen
+- ca. **350–500 × 1400–1550 mm**, ein- oder zweiteilig  
+- Nachts auf Lehnenrückseite Reihe 2, mit Gurten/Polster fixiert  
+- Tags an Box-Front oder unter Deckel verstaut  
+- Ohne Platte bleibt die reine Box oft bei ~1,50–1,70 m – zu kurz für zwei Erwachsene
 
 ### 4.4 Aufbau der Box (Sandwich)
 
@@ -165,23 +218,11 @@ Von unten nach oben:
 5. **Belüftung** – Lattenrost-Leisten oder gelochte Zwischenlage unter Matratze.
 6. **Gurtschlaufen** – fest in den Rahmen integriert (keine Karosseriebohrung): 4–6 Anschlagpunkte an der Box.
 
-### 4.5 Fixierung nur mit Zurrgurten (Pflicht)
+### 4.5 Fixierung nur mit Zurrgurten (Pflicht) — Detail später
 
-**Ziel:** Box rutscht weder längs noch quer noch kippt bei Vollbremsung / Gelände.
+**Prinzip fest:** keine neuen Karosseriebohrungen; Box als Ladung verzurren; Anti-Rutsch unter den Kufen; 4–6 Ratschengurte; Gurtschlaufen **an der Box**.
 
-| Element | Empfehlung |
-| --- | --- |
-| Gurte | Ratschen-Zurrgurte LC ≥ 500–1000 daN, Breite 25–35 mm |
-| Anzahl | mind. **4** (vorne links/rechts, hinten links/rechts); besser 6 |
-| Anbindung Fahrzeug | vorhandene **Zurrösen**, Sitzanker der ausgebauten Reihe, ggf. **Quertraverse** zwischen zwei Ösen (Stahlflach / Alu, nur geklemmt/eingehängt – keine Schweißung) |
-| Anbindung Box | eingenähte/geschraubte Gurtschlaufen **in der Box**, nicht durch Karosserie |
-| Kippsicherung | zusätzliche Gurte von Box-Oberkante schräg nach vorn/unten |
-| Anti-Rutsch | 3–5 mm Gummimatte oder Streifen unter den Kufen |
-| Kontrolle | vor jeder Fahrt Gurte nachziehen; nach ersten 50 km erneut |
-
-**Nicht tun:** Selbstschneidende Schrauben in Bodenblech, Nietmuttern „schnell mal“, permanent verklebte Schienen.
-
-Wenn keine brauchbaren Ösen existieren: **erst** legale, rückbaubare Ösen über Fachbetrieb/TÜV klären – oder Box so bauen, dass sie die **Sitzanker-Gewinde** der ausgebauten Bank nutzt (Originalschrauben + Laschen an der Box = quasi „Sitzersatz“, aber als Modul abnehmbar). Das ist technisch eine Verschraubung in **serienmäßige** Punkte, keine neuen Löcher – dokumentieren und mit Prüfer absprechen, falls gewünscht. Primärziel bleibt reine Gurtlösung.
+**Zurückgestellt:** konkrete Ösen-/Sitzanker-Lage, Gurtwege, ggf. Quertraverse oder Nutzung der serienmäßigen Sitzanker der ausgebauten Reihe. Wird in einem eigenen Abschnitt ergänzt, sobald das Thema dran ist.
 
 ### 4.6 Stauraum unter der Liegefläche
 
@@ -217,12 +258,12 @@ Eurobox-Raster (Planung): 600×400 und 400×300 mm – Schotten darauf auslegen.
 
 ### 4.8 Bauablauf (kurz)
 
-1. Sitze Reihe 3 ausbauen, einlagern, Maße M01–M11 nehmen.  
-2. Papp-/Hartschaum-Schablone der Grundfläche inkl. Motoraussparung.  
-3. Rahmen + Boden bauen, Probe einsetzen, Gurtwege markieren.  
-4. Seiten + Schotten, Deckel teilbar.  
-5. Gurtschlaufen, Anti-Rutsch, Probefahrt leer / beladen.  
-6. Matratze, Packschema, Checkliste „Ausbau in 20 Min.“ üben.
+1. Reihe 3 ausbauen und einlagern; **Pappschablone** gegen Literaturmaße (1550×1500, Motor ~910×1190).  
+2. Nur kritische Konturen feinjustieren (Radkästen, Motorhaube, Verkleidung).  
+3. Rahmen + Boden, Probe einsetzen.  
+4. Seiten + Schotten (Eurobox-Raster), Deckel teilbar + Motorklappe.  
+5. Gurtschlaufen + Anti-Rutsch; Zurrkonzept (Abschnitt 4.5) finalisieren.  
+6. Matratze + Verlängerungsplatte, Packschema, Ausbau-Übung.
 
 ---
 
@@ -233,11 +274,11 @@ Eurobox-Raster (Planung): 600×400 und 400×300 mm – Schotten darauf auslegen.
 | Zone | Inhalt | Umbau |
 | --- | --- | --- |
 | Cockpit | Serie + Webasto-Bedienung | unverändert |
-| Reihe 1 | 2 Sitze | unverändert |
-| Reihe 2 | 3 Sitze (oder 2) | bleibt; Rückenlehnen ggf. als Bettverlängerung nutzen |
-| Heck | Campingbox | Modul, gurfixixiert |
+| Reihe 1 | bis 3 Sitze | unverändert |
+| Reihe 2 | 3 Sitze | bleibt; Lehnenrückseite = Bettverlängerung |
+| Heck | Campingbox ~1550×1500–1700 mm | Modul, gurtsfixiert |
 | Seitenverkleidung | Serie / Feuerwehr | erhalten; keine neuen Einbauten fest |
-| Dach | später Dachzelt | nur mit freigegebenen Trägern |
+| Dach | später Dachzelt (Dachlast oft 100 kg) | nur freigegebene Träger |
 | Boden | Serie | Gummiauflage unter Box, sonst original |
 
 ### 5.2 Komfort ohne Substanzverlust
@@ -298,33 +339,47 @@ Suchkriterien:
 
 | Entscheidung | Wahl | Begründung |
 | --- | --- | --- |
-| Befestigung | Zurrgurte (+ optional serienmäßige Sitzanker) | Erhalt, Reversibilität |
-| Sitze Campingmodus | Reihe 1+2 = 5; Reihe 3 ausgebaut | ≥5 Plätze |
-| Box-Typ | Volle Heckbox Variante A | Schlaf 2 Personen + Stauraum |
-| Bettverlängerung | optionale Platte an Reihe 2 | Länge ohne Sitzverlust |
+| Befestigung | Zurrgurte (Detail später) | Erhalt, Reversibilität |
+| Sitze Campingmodus | Reihe 1+2 bleiben; Reihe 3 aus | ≥5 Plätze (oft 6) |
+| Box-Typ | Volle Heckbox Variante A | Schlaf 2 + Stauraum |
+| Box-Planmaß | ca. 1550 × 1500–1700 × 450–550 mm | Katalog-Innenmaße 9-Sitzer |
+| Liege inkl. Platte | ca. 1880–1900 × 1400–1550 mm | Multivan-Werksmaß als Ziel |
+| Bettverlängerung | Platte an Reihe 2 | reine Box zu kurz |
 | Küche fest | nein | Sammlerwert, Platz |
-| Nächster Schritt | Maßblatt M01–M15 am Fahrzeug | vor Materialkauf |
+| Nächster Schritt | Materialliste + Schablonenplan | Maße literaturseitig gesetzt |
 
 ---
 
-## 9. Nächste konkrete Schritte
+## 9. Quellen (Maße)
 
-1. [ ] Sitzlayout fotografieren und in Abschnitt 2.1 / 3.1 bestätigen  
-2. [ ] Maße M01–M15 eintragen  
-3. [ ] Zurrpunkte skizzieren (Draufsicht mit Maßen)  
-4. [ ] Pappschablone bauen und Probe liegen (2 Personen)  
-5. [ ] Materialliste finalisieren + Kostenschätzung  
-6. [ ] Prototyp-Rahmen (nur Boden + Gurte) Probefahrt  
-7. [ ] Fertige Box + Packschema  
-8. [ ] Danach Phase 2 Anhänger / Phase 3 Dachzelt in eigenen Abschnitten/Dateien
+| Quelle | Was entnommen |
+| --- | --- |
+| [T3-Pedia – Syncro vs. 2WD](https://www.t3-pedia.de/index.php?title=Datenvergleich_Syncro_versus_2WD) | Außenmaße, Radstand, Spur, Achslasten, zGG Syncro 14″ |
+| [militärfahrzeuge.ch – T3 Kombi 9 Pl](https://militaerfahrzeuge.ch/unterkategorie_11_5_275.html) | Laderaum 2780 / 1000 mm, Breiten 1590/1555, Höhe 1465, Sitze 3+6, Türen |
+| [militärfahrzeuge.ch – T3 Syncro](https://militaerfahrzeuge.ch/unterkategorie_11_5_520.html) | gleiches Bodenmaß 2780×1590/1555; Anhängelast 1500/600; Radstand 2455 |
+| [Wikipedia VW T3](https://de.wikipedia.org/wiki/VW_T3) | Innenhöhe 1465; Multivan-Liege 1880×1600; 9 Sitze in 3 Reihen |
+| [T3-Pedia Westfalia-Polster](https://www.t3-pedia.de/index.php?title=Westfalia_Joker_Polsterabmessungen) | Motorraumpolster 1190×910; Bankbreiten |
 
 ---
 
-## 10. Änderungslog
+## 10. Nächste konkrete Schritte
+
+1. [x] Literaturmaße T3 Syncro / 9-Sitzer recherchieren und eintragen  
+2. [ ] Materialliste + Kostenschätzung auf Basis Planmaße  
+3. [ ] Pappschablonen-Zuschnittliste vorbereiten (Box + Motoraussparung)  
+4. [ ] Zurrkonzept (Abschnitt 4.5) – **später**  
+5. [ ] Nach Urlaub: Schablone am Bus, Sitze Reihe 3 aus, Feintoleranz  
+6. [ ] Prototyp-Rahmen → fertige Box  
+7. [ ] Phase 2 Anhänger / Phase 3 Dachzelt
+
+---
+
+## 11. Änderungslog
 
 | Datum | Änderung |
 | --- | --- |
-| 2026-09-19 | Erstfassung: Fahrzeugprofil, Leitprinzipien, Sitzstrategie, Campingbox-Design A, Innenraum, Messprotokoll, Platzhalter Anhänger/Dachzelt |
+| 2026-09-19 | Erstfassung: Konzept Campingbox + Innenraum |
+| 2026-09-19 | Literaturmaße 9-Sitzer/Syncro ergänzt; Box-Planmaße kalibriert; Zurrösen zurückgestellt |
 
 ---
 
