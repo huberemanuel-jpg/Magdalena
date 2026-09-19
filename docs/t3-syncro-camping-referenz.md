@@ -3,7 +3,7 @@
 **Fahrzeug:** VW T3 Syncro · EZ 05/1991 · 95 PS · 14″ · **3 Sperren** · G-Gang · Webasto · ehem. KDO-F St. Nikola  
 **Kauf:** 18.900 € (willhaben) · **Zielwert Erhalt:** Sammlerzustand (Markt 30–50.000 €)  
 **Stand dieses Dokuments:** 2026-09-19 · Fokus Phase 1: Campingbox + Innenraum  
-**Maße:** Literaturwerte T3 Kombi 9-Sitzer + Syncro 14″ · **Fotobeleg:** Verkaufsinserat (archiviert)
+**Maße:** Literaturwerte + Innenraumfotos/Dokumente (AirDrop) · **Fotobeleg:** willhaben + eigene Fotos
 
 ---
 
@@ -39,9 +39,19 @@ Verkaufsanzeige (verkauft): [willhaben 1313902263](https://www.willhaben.at/iad/
 | Zustand | fast kein Rost, großteils Originallack, Innenraum gut | Inserat + Fotos |
 | Kaufpreis | **18.900 €** | Inserat |
 | Sammlerwert-Ziel | 30–50.000 € Marktspanne (Erhalt) | Nutzerangabe |
-| Dach aktuell | 2× Blaulicht + Sirene/Lautsprecher mittig; Regenrinne durchgehend | Fotos 01–04 → relevant Phase 3 Dachzelt |
+| Dach aktuell | 2× Blaulicht + Sirene/Lautsprecher mittig; Regenrinne durchgehend | willhaben 01–04 → Phase 3 Dachzelt |
+| Typcode | **255** | §57a-Gutachten |
+| FIN / VIN | **WV2ZZZ25ZMG011581** | Rechnung + §57a |
+| Motornummer | **MV08708** | Rechnung Gegenleitner |
+| Hubraum | **2109 cm³** | §57a |
+| Kennzeichen (FF) | FW 318SE | Rechnung / §57a |
+| Prüfgewicht §57a | **1860 kg** | Gutachten 07.05.2026 |
+| km bei Motorrevision | 66.840 (15.03.2023) | Rechnung |
+| km bei §57a | 73.243 (07.05.2026) | Gutachten |
+| Nächste Begutachtung | **05/2027** | Gutachten (Pickerl GSG9874) |
+| Motorrevision | Nockenwelle, Hydrostößel, Kolbenringe, Kupplungssatz u. a.; **€ 4.793,70** brutto | Rechnung Gegenleitner Bad Hall |
 
-**Hinweis Sperren:** Frühere Nutzerangabe „2 Sperren“ – Inserat nennt ausdrücklich **3 Sperren**. Am Fahrzeug: Visco + Vorderachs- + Hinterachssperre üblich; Panel Foto 06 zeigt zwei Zugknöpfe (VA/HA). Exakte Zählweise ggf. mit Bedienungsanleitung abgleichen.
+**Hinweis Sperren:** Frühere Nutzerangabe „2 Sperren“ – Inserat nennt **3 Sperren**. Panel (willhaben 06) zeigt zwei Zugknöpfe VA/HA; Visco zählt oft als dritte Stufe. Mit Bedienungsanleitung abgleichen.
 
 ### 2.1a Fotoarchiv Verkaufsinserat
 
@@ -55,7 +65,7 @@ Verkaufsanzeige (verkauft): [willhaben 1313902263](https://www.willhaben.at/iad/
 | [`06.jpg`](fotos/willhaben-1313902263/06.jpg) | Mittelkonsole | **G-Gang**, Diff-Lock-Panel VA/HA, Sony-Radio |
 | [`07.jpg`](fotos/willhaben-1313902263/07.jpg) | Kombiinstrument | **74.022 km**, Uhr statt Drehzahlmesser, Bleifrei-Aufkleber |
 
-Keine Freistellung von Laderaum/Motorabdeckung im Inserat – Box-Kontur weiter über Literaturmaße + spätere Schablone.
+Zusätzlich: eigene Innenraumserie [`fotos/innenraum/`](fotos/innenraum/) und Dokumente [`fotos/dokumente/`](fotos/dokumente/). Heck mit Holzkiste jetzt belegt; Motordeckel darunter erst nach Ausbau der Kiste freimesbar.
 
 ### 2.2 Außenmaße Syncro 14″
 
@@ -151,26 +161,53 @@ KDO-F-Sonderaufbauten können abweichen (z. B. 2+3+2+2). Beim ersten Zugang kurz
 | Koch / Nasszelle | bewusst **nicht** im Bus (Erhalt + Platz) – Kocher am Camp oder Anhänger-Box |
 | Standheizung | Webasto bleibt nutzbar; Box darf Luftführung nicht blockieren |
 
-### 3.1 Empfohlenes Sitz-Szenario „Camping“
-
-**Foto-bestätigt:** Reihe 1 = Fahrer + Doppelbank Beifahrer (**3 Sitze**, Foto 05). Gesamtlage 9 Sitze → typisch **3+3+3**. Mittlere/hintere Reihen im Inserat nicht freigestellt fotografiert, aber durch Seitenfenster als weitere Bänke mit Kopfstützen erkennbar (Fotos 01–04).
+### 3.1 Sitzlayout Ist-Zustand (Innenraumfotos)
 
 ```
-[ Fahrer ][== Beifahrer-2er ==]  ← Reihe 1: 3 Sitze BLEIBEN (Foto 05)
-[  Sitz  ][ Sitz ][ Sitz ]       ← Reihe 2: 3 Sitze BLEIBEN  → Summe 6
-[======== 3er-Bank ========]     ← Reihe 3: AUSBAUEN + einlagern
-[   Campingbox ~1500–1700 mm    ]
-[   + Verlängerungsplatte       ]
-[   → Liege ~1880–1900 mm       ]
+[ Fahrer ][== Beifahrer-2er ==]     ← Reihe 1: 3 Sitze (innenraum/01)
+| KDO-Trennwand blau/Holz +        ← hinter Front: Klapptisch, Kartenfach,
+| Klapptisch / Ablage / Drehregler |   Inventar-Organisation (innenraum/02, 08)
+[======== 3er-Bank Mitte ========]  ← Reihe 2: 3 Sitze, mind. 1 Lehne klappbar (02–04, 08)
+[======== 3er-Bank hinten =======]  ← Reihe 3: 3 Sitze; ein Bezug mit Riss (05, 06)
+[  Feuerwehr-Holzkiste 2 Schub.  ]  ← Kofferraum / Motorzone (innenraum/07)
+[  Inventarliste + GETRÄNKE       ]
 ```
 
-- **Campingmodus Standard: 6 Sitzplätze** (über dem Minimum 5).
-- Optional Reihe 2 auf 2 Sitze reduzieren → mehr Beinraum/Länge, dann 5 Plätze.
-- Sitze Reihe 3 einlagern (Historie/Sammlerwert). Hellgraue Stoffbezüge; Inserat: einzelne Bänke könnten später neu bezogen werden – kein Umbau-Zwang.
+**Summe = 9 Sitze** (3+3+3), plus KDO-Arbeitsplatz hinter der Front – Historie erhalten.
+
+Boden: Rippen-/Noppen-Gummi + abschnittsweise **Alu-Riffelblech** vor der Mittelbank. Seitenverkleidung hellgrau, gerippt.
+
+### 3.2 Empfohlenes Sitz-Szenario „Camping“
+
+```
+[ Fahrer ][== Beifahrer-2er ==]  ← Reihe 1: BLEIBT (3)
+[ KDO-Trennwand / Tisch ]        ← BLEIBT (Sammlerwert / Nutzen)
+[======== 3er-Bank Mitte ========]← Reihe 2: BLEIBT (3) → Summe 6
+[======== 3er-Bank hinten =======]← Reihe 3: AUSBAUEN + einlagern
+[   Campingbox ersetzt Holzkiste ]
+[   + nutzt Platz der 3. Reihe   ]
+[   + Verlängerungsplatte → ~1,9 m Liege ]
+```
+
+- **Campingmodus: 6 Sitzplätze** (Ziel ≥5 übertroffen).
+- **Bestehende Holzkiste** (Foto 07) ist der räumliche und konzeptionelle Vorläufer: herausnehmbar, zweigeteilt, verzurr-/verriegelt – die Campingbox beerbt genau diese Zone (Motordeckel + Kofferraum), nur länger/höher zum Schlafen.
+- Reihe-3-Bank einlagern; Riss im Bezug dokumentiert (innenraum/05) – später Bezug oder so belassen.
+- KDO-Ausstattung (Tisch, Fach, Drehregler) möglichst belassen – kein Wohnmobil-Look, sondern erhaltener KDO-F.
 
 ---
 
 ## 4. Campingbox – Design (Phase 1)
+
+### 4.0 Bestehende Feuerwehr-Holzkiste (Ist → Soll)
+
+Foto [`innenraum/07-heck-holzkiste-motor.jpg`](fotos/innenraum/07-heck-holzkiste-motor.jpg):
+
+- Holzkiste mit **2 Fächern/Schüben**, Knebelverschlüsse, Inventarliste, Fach **GETRÄNKE**
+- sitzt im **Kofferraum vor der Heckklappe**, Rücken zur hintersten Sitzbank, oben rote Gerätehalter mit Gurten
+- Bodenbelag schwarz, strukturiert; D-Säulen-Gurte sichtbar (später ggf. Gurtanker für Zurrung)
+- Kiste füllt **nicht** die volle Breite und lässt Abstand zur Heckklappe
+
+**Planung:** Holzkiste ausbauen/einlagern (Historie!). Campingbox übernimmt denselben Stellplatz, wird aber **tiefer** (Platz der ausgebauten 3. Reihe) und bekommt Liegedeckel + optionale Verlängerung zur Mittelbank-Lehne. Konzept „Modul statt Verschraubung“ bleibt analog zur Kiste.
 
 ### 4.1 Konzeptwahl
 
@@ -365,7 +402,7 @@ Suchkriterien:
 | Entscheidung | Wahl | Begründung |
 | --- | --- | --- |
 | Befestigung | Zurrgurte (Detail später) | Erhalt, Reversibilität |
-| Sitze Campingmodus | Reihe 1 (3) + Reihe 2 (3); Reihe 3 aus | **6 Plätze** Foto-Front bestätigt |
+| Sitze Campingmodus | Front 3 + Mitte 3; hinten 3 aus + Holzkiste raus | **6 Plätze**; Box beerbt Kisten-Zone |
 | Box-Typ | Volle Heckbox Variante A | Schlaf 2 + Stauraum |
 | Box-Planmaß | ca. 1550 × 1500–1700 × 450–550 mm | Katalog-Innenmaße 9-Sitzer |
 | Liege inkl. Platte | ca. 1880–1900 × 1400–1550 mm | Multivan-Werksmaß als Ziel |
@@ -385,6 +422,9 @@ Suchkriterien:
 | [Wikipedia VW T3](https://de.wikipedia.org/wiki/VW_T3) | Innenhöhe 1465; Multivan-Liege 1880×1600; 9 Sitze in 3 Reihen |
 | [T3-Pedia Westfalia-Polster](https://www.t3-pedia.de/index.php?title=Westfalia_Joker_Polsterabmessungen) | Motorraumpolster 1190×910; Bankbreiten |
 | [willhaben 1313902263](https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-t3-syncro-feuerwehr-1313902263/) (verkauft) | konkretes Fahrzeug Magdalena: EZ, km, Sperren, G-Gang, Fotos |
+| Innenraumfotos AirDrop 2026-09-19 | Sitzlayout 3+3+3, KDO-Trennwand, Holzkiste Heck |
+| Rechnung Gegenleitner R 604/15.03.2023 | VIN, Motor MV08708, Revision € 4.793,70 |
+| §57a Gutachten 07.05.2026 | Typ 255, 2109 ccm, Prüfgewicht 1860 kg, Pickerl bis 05/2027 |
 
 ---
 
@@ -392,6 +432,7 @@ Suchkriterien:
 
 1. [x] Literaturmaße T3 Syncro / 9-Sitzer recherchieren und eintragen  
 1b. [x] Verkaufsinserat/Fotos auswerten (Frontlayout, Getriebe, Dach)  
+1c. [x] Innenraumfotos + Dokumente archivieren / Layout Ist-Zustand  
 2. [ ] Materialliste + Kostenschätzung auf Basis Planmaße  
 3. [ ] Pappschablonen-Zuschnittliste vorbereiten (Box + Motoraussparung)  
 4. [ ] Zurrkonzept (Abschnitt 4.5) – **später**  
@@ -408,6 +449,7 @@ Suchkriterien:
 | 2026-09-19 | Erstfassung: Konzept Campingbox + Innenraum |
 | 2026-09-19 | Literaturmaße 9-Sitzer/Syncro ergänzt; Box-Planmaße kalibriert; Zurrösen zurückgestellt |
 | 2026-09-19 | Willhaben-Inserat 1313902263 ausgewertet; Fotos archiviert; Front 3 Sitze / 3 Sperren / G-Gang bestätigt |
+| 2026-09-19 | Innenraumfotos + Motorrechnung + §57a abgelegt; Layout 3+3+3/KDO/Holzkiste; VIN/MV bestätigt |
 
 ---
 
