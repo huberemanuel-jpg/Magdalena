@@ -1,9 +1,9 @@
 # VW T3 Syncro – Camping-Referenz
 
-**Fahrzeug:** VW T3 Syncro · BJ 1991 · 95 PS · 14″ · 2 Differentialsperren · Webasto · ehem. KDO-F (Feuerwehr)  
-**Kauf:** ca. 19.000 € · **Zielwert Erhalt:** Sammlerzustand (Markt 30–50.000 €)  
+**Fahrzeug:** VW T3 Syncro · EZ 05/1991 · 95 PS · 14″ · **3 Sperren** · G-Gang · Webasto · ehem. KDO-F St. Nikola  
+**Kauf:** 18.900 € (willhaben) · **Zielwert Erhalt:** Sammlerzustand (Markt 30–50.000 €)  
 **Stand dieses Dokuments:** 2026-09-19 · Fokus Phase 1: Campingbox + Innenraum  
-**Maße:** Literaturwerte für T3 Kombi/Bus 9-Sitzer + Syncro 14″ (Fahrzeug steht aktuell nicht zur Verfügung)
+**Maße:** Literaturwerte T3 Kombi 9-Sitzer + Syncro 14″ · **Fotobeleg:** Verkaufsinserat (archiviert)
 
 ---
 
@@ -19,18 +19,43 @@
 
 ## 2. Fahrzeug-Steckbrief & recherchierte Maße
 
-### 2.1 Identität
+### 2.1 Identität (bestätigt per Verkaufsinserat)
+
+Verkaufsanzeige (verkauft): [willhaben 1313902263](https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-t3-syncro-feuerwehr-1313902263/) · Fotos lokal: [`docs/fotos/willhaben-1313902263/`](fotos/willhaben-1313902263/)
 
 | Merkmal | Wert | Quelle |
 | --- | --- | --- |
-| Typ | T3 Syncro 14″ | Nutzerangabe |
-| Baujahr | 1991 | Nutzerangabe |
-| Leistung | 95 PS / 70 kW | Nutzerangabe; typ. 2,1-l-Wasserboxer (z. B. MV/DJ) – Schein prüfen |
-| Antrieb | Syncro, 2 Diff.-Sperren | Nutzerangabe |
-| Standheizung | Webasto | Nutzerangabe |
-| Sitze | 9 (KDO-F / Kombi-Bus) | Nutzerangabe |
-| Zustand | ~99 % rostfrei | Nutzerangabe |
-| Kauf / Sammlerwert | ca. 19.000 € / Markt 30–50.000 € | Nutzerangabe |
+| Typ / Karosserie | T3 Syncro Kombi / Family Van, Normaldach, Heckklappe, Vollverglasung | Inserat + Fotos 01–04 |
+| Erstzulassung | **05/1991** | Inserat |
+| km | **74.022** (Fahrtenbuch) | Inserat / Tacho-Foto 07 |
+| Leistung | **95 PS (70 kW)**, Benzin | Inserat |
+| Antrieb | Syncro-Allrad, **3 Sperren** (Anzeige; Diff-Lock-Panel Foto 06 mit VA+HA-Knöpfen) | Inserat + Foto 06 |
+| Getriebe | **4-Gang + Kriechgang (G)** | Inserat + Schaltknauf Foto 06 |
+| Standheizung | Webasto, laut Inserat voll funktionsfähig | Inserat |
+| Sitze | **9** | Inserat |
+| Frontreihe | **Fahrer-Einzelsitz + Beifahrer-Doppelbank = 3** | Foto 05 |
+| Herkunft | AT-Erstauslieferung · 2. Besitz · durchgehend Feuerwehr (KDO-F St. Nikola) | Inserat + Beschriftung |
+| Motor | Revision vor ca. 2 Jahren, Rechnung ~4.500 € | Inserat |
+| Zustand | fast kein Rost, großteils Originallack, Innenraum gut | Inserat + Fotos |
+| Kaufpreis | **18.900 €** | Inserat |
+| Sammlerwert-Ziel | 30–50.000 € Marktspanne (Erhalt) | Nutzerangabe |
+| Dach aktuell | 2× Blaulicht + Sirene/Lautsprecher mittig; Regenrinne durchgehend | Fotos 01–04 → relevant Phase 3 Dachzelt |
+
+**Hinweis Sperren:** Frühere Nutzerangabe „2 Sperren“ – Inserat nennt ausdrücklich **3 Sperren**. Am Fahrzeug: Visco + Vorderachs- + Hinterachssperre üblich; Panel Foto 06 zeigt zwei Zugknöpfe (VA/HA). Exakte Zählweise ggf. mit Bedienungsanleitung abgleichen.
+
+### 2.1a Fotoarchiv Verkaufsinserat
+
+| Datei | Motiv | Nutzen für Ausbau |
+| --- | --- | --- |
+| [`01.jpg`](fotos/willhaben-1313902263/01.jpg) | Schräg vorn rechts | Vollverglasung, Schiebetür rechts, Dachaufbauten, 14″ Stahl |
+| [`02.jpg`](fotos/willhaben-1313902263/02.jpg) | Front | KDO-F / St. Nikola, Nebelscheinwerfer, Regenrinne |
+| [`03.jpg`](fotos/willhaben-1313902263/03.jpg) | Heck schräg | Heckklappe, „FEUERWEHR“ / 122, hinterste Sitzreihe durch Scheibe |
+| [`04.jpg`](fotos/willhaben-1313902263/04.jpg) | Seite links | Fensterreihen, D-Säulen-Lufteinlässe Motor, Blaulichter |
+| [`05.jpg`](fotos/willhaben-1313902263/05.jpg) | Cockpit Beifahrerseite | **3 Frontsitze**, hellgrauer Stoff, Gummiboden, Sonder-Schalter |
+| [`06.jpg`](fotos/willhaben-1313902263/06.jpg) | Mittelkonsole | **G-Gang**, Diff-Lock-Panel VA/HA, Sony-Radio |
+| [`07.jpg`](fotos/willhaben-1313902263/07.jpg) | Kombiinstrument | **74.022 km**, Uhr statt Drehzahlmesser, Bleifrei-Aufkleber |
+
+Keine Freistellung von Laderaum/Motorabdeckung im Inserat – Box-Kontur weiter über Literaturmaße + spätere Schablone.
 
 ### 2.2 Außenmaße Syncro 14″
 
@@ -128,20 +153,20 @@ KDO-F-Sonderaufbauten können abweichen (z. B. 2+3+2+2). Beim ersten Zugang kurz
 
 ### 3.1 Empfohlenes Sitz-Szenario „Camping“
 
-Literatur-Layout 9-Sitzer (3+3+3), Campingmodus:
+**Foto-bestätigt:** Reihe 1 = Fahrer + Doppelbank Beifahrer (**3 Sitze**, Foto 05). Gesamtlage 9 Sitze → typisch **3+3+3**. Mittlere/hintere Reihen im Inserat nicht freigestellt fotografiert, aber durch Seitenfenster als weitere Bänke mit Kopfstützen erkennbar (Fotos 01–04).
 
 ```
-[  3er-Bank vorne (o. 2+1) ]  ← Reihe 1: BLEIBT (mind. Fahrer+Beifahrer; oft 3)
-[  Sitz  ][ Sitz ][ Sitz ]    ← Reihe 2: 3 Sitze BLEIBEN
-[======== 3er-Bank ========]  ← Reihe 3: AUSBAUEN + einlagern
-[   Campingbox ~1500–1700   ]
-[   mm lang, Bett + Platte   ]
-[   → ca. 1880–1900 mm Liege ]
+[ Fahrer ][== Beifahrer-2er ==]  ← Reihe 1: 3 Sitze BLEIBEN (Foto 05)
+[  Sitz  ][ Sitz ][ Sitz ]       ← Reihe 2: 3 Sitze BLEIBEN  → Summe 6
+[======== 3er-Bank ========]     ← Reihe 3: AUSBAUEN + einlagern
+[   Campingbox ~1500–1700 mm    ]
+[   + Verlängerungsplatte       ]
+[   → Liege ~1880–1900 mm       ]
 ```
 
-- Mit **Reihe 1 (mind. 2) + Reihe 2 (3)** sind **≥ 5 Sitze** sicher; bei 3er-Bank vorne sogar **6**.
-- Optional: einen Sitz Reihe 2 ausbauen → mehr Länge/Beinraum (dann ggf. nur 4–5 Plätze).
-- Originalsitze Reihe 3: nummeriert einlagern (Schrauben, Unterlagen, Gurte).
+- **Campingmodus Standard: 6 Sitzplätze** (über dem Minimum 5).
+- Optional Reihe 2 auf 2 Sitze reduzieren → mehr Beinraum/Länge, dann 5 Plätze.
+- Sitze Reihe 3 einlagern (Historie/Sammlerwert). Hellgraue Stoffbezüge; Inserat: einzelne Bänke könnten später neu bezogen werden – kein Umbau-Zwang.
 
 ---
 
@@ -340,7 +365,7 @@ Suchkriterien:
 | Entscheidung | Wahl | Begründung |
 | --- | --- | --- |
 | Befestigung | Zurrgurte (Detail später) | Erhalt, Reversibilität |
-| Sitze Campingmodus | Reihe 1+2 bleiben; Reihe 3 aus | ≥5 Plätze (oft 6) |
+| Sitze Campingmodus | Reihe 1 (3) + Reihe 2 (3); Reihe 3 aus | **6 Plätze** Foto-Front bestätigt |
 | Box-Typ | Volle Heckbox Variante A | Schlaf 2 + Stauraum |
 | Box-Planmaß | ca. 1550 × 1500–1700 × 450–550 mm | Katalog-Innenmaße 9-Sitzer |
 | Liege inkl. Platte | ca. 1880–1900 × 1400–1550 mm | Multivan-Werksmaß als Ziel |
@@ -359,12 +384,14 @@ Suchkriterien:
 | [militärfahrzeuge.ch – T3 Syncro](https://militaerfahrzeuge.ch/unterkategorie_11_5_520.html) | gleiches Bodenmaß 2780×1590/1555; Anhängelast 1500/600; Radstand 2455 |
 | [Wikipedia VW T3](https://de.wikipedia.org/wiki/VW_T3) | Innenhöhe 1465; Multivan-Liege 1880×1600; 9 Sitze in 3 Reihen |
 | [T3-Pedia Westfalia-Polster](https://www.t3-pedia.de/index.php?title=Westfalia_Joker_Polsterabmessungen) | Motorraumpolster 1190×910; Bankbreiten |
+| [willhaben 1313902263](https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-t3-syncro-feuerwehr-1313902263/) (verkauft) | konkretes Fahrzeug Magdalena: EZ, km, Sperren, G-Gang, Fotos |
 
 ---
 
 ## 10. Nächste konkrete Schritte
 
 1. [x] Literaturmaße T3 Syncro / 9-Sitzer recherchieren und eintragen  
+1b. [x] Verkaufsinserat/Fotos auswerten (Frontlayout, Getriebe, Dach)  
 2. [ ] Materialliste + Kostenschätzung auf Basis Planmaße  
 3. [ ] Pappschablonen-Zuschnittliste vorbereiten (Box + Motoraussparung)  
 4. [ ] Zurrkonzept (Abschnitt 4.5) – **später**  
@@ -380,6 +407,7 @@ Suchkriterien:
 | --- | --- |
 | 2026-09-19 | Erstfassung: Konzept Campingbox + Innenraum |
 | 2026-09-19 | Literaturmaße 9-Sitzer/Syncro ergänzt; Box-Planmaße kalibriert; Zurrösen zurückgestellt |
+| 2026-09-19 | Willhaben-Inserat 1313902263 ausgewertet; Fotos archiviert; Front 3 Sitze / 3 Sperren / G-Gang bestätigt |
 
 ---
 
