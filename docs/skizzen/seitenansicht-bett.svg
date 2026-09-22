@@ -1,59 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 520" font-family="Helvetica, Arial, sans-serif">
-  <rect width="980" height="520" fill="#faf9f7"/>
-  <text x="490" y="32" text-anchor="middle" font-size="20" font-weight="700" fill="#1a1a1a">Seitenansicht – Bett + Stauraum</text>
-  <text x="490" y="52" text-anchor="middle" font-size="12" fill="#555">Campingmodus · Mittelbank bleibt · Reihe 3 ausgebaut</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 560" font-family="Helvetica, Arial, sans-serif">
+  <rect width="1100" height="560" fill="#faf9f7"/>
+  <text x="550" y="34" text-anchor="middle" font-size="22" font-weight="700" fill="#1a1a1a">Seitenansicht – Campingmodus Magdalena (T3 Syncro)</text>
+  <text x="550" y="56" text-anchor="middle" font-size="12" fill="#555">Reihe 2 bleibt · Reihe 3 ausgebaut · Box mit Verlängerungsplatte</text>
 
   <!-- roof / floor -->
-  <line x1="40" y1="100" x2="940" y2="100" stroke="#222" stroke-width="2.5"/>
-  <line x1="40" y1="420" x2="940" y2="420" stroke="#222" stroke-width="3"/>
-  <text x="50" y="92" font-size="11" fill="#555">Dach innen</text>
-  <text x="50" y="445" font-size="11" fill="#555">Boden</text>
+  <line x1="50" y1="110" x2="1020" y2="110" stroke="#222" stroke-width="2.5"/>
+  <line x1="50" y1="450" x2="1020" y2="450" stroke="#222" stroke-width="3"/>
+  <text x="60" y="102" font-size="11" fill="#555">Dach innen</text>
+  <text x="60" y="478" font-size="11" fill="#555">Boden</text>
 
   <!-- height dim -->
-  <line x1="55" y1="100" x2="55" y2="420" stroke="#888" stroke-width="1"/>
-  <text x="30" y="270" transform="rotate(-90 30 270)" font-size="11" fill="#555">Innenhöhe ≈ 1465 mm</text>
+  <line x1="70" y1="110" x2="70" y2="450" stroke="#888" stroke-width="1.2"/>
+  <polygon points="70,110 66,120 74,120" fill="#888"/>
+  <polygon points="70,450 66,440 74,440" fill="#888"/>
+  <text x="42" y="290" transform="rotate(-90 42 290)" font-size="12" fill="#555">Innenhöhe ≈ 1465 mm</text>
 
-  <!-- middle seat -->
-  <rect x="80" y="250" width="130" height="100" rx="6" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
-  <rect x="80" y="200" width="40" height="160" rx="4" fill="#d0d0d0" stroke="#333" stroke-width="2"/>
-  <text x="145" y="305" text-anchor="middle" font-size="11" font-weight="600">Reihe 2</text>
-  <text x="145" y="322" text-anchor="middle" font-size="10" fill="#444">bleibt</text>
+  <!-- direction labels -->
+  <text x="160" y="90" font-size="11" font-weight="600" fill="#333">← Fahrzeugfront</text>
+  <text x="900" y="90" font-size="11" font-weight="600" fill="#333">Heck →</text>
+
+  <!-- Reihe 2 seat -->
+  <rect x="120" y="280" width="150" height="110" rx="8" fill="#e8e8e8" stroke="#333" stroke-width="2.2"/>
+  <rect x="120" y="220" width="48" height="170" rx="6" fill="#d4d4d4" stroke="#333" stroke-width="2.2"/>
+  <circle cx="144" cy="210" r="14" fill="none" stroke="#333" stroke-width="2"/>
+  <text x="195" y="335" text-anchor="middle" font-size="12" font-weight="700">Reihe 2</text>
+  <text x="195" y="352" text-anchor="middle" font-size="10" fill="#444">3 Sitze · bleibt</text>
 
   <!-- extension plate -->
-  <rect x="200" y="235" width="120" height="18" rx="2" fill="#fff5f0" stroke="#c45c3e" stroke-width="2" stroke-dasharray="6 4"/>
-  <text x="260" y="225" text-anchor="middle" font-size="10" font-weight="600" fill="#8a3218">Verlängerungsplatte</text>
+  <rect x="168" y="248" width="160" height="16" rx="2" fill="#fff5f0" stroke="#c45c3e" stroke-width="2" stroke-dasharray="7 4"/>
+  <text x="248" y="240" text-anchor="middle" font-size="11" font-weight="600" fill="#8a3218">Verlängerungsplatte</text>
 
-  <!-- camping box body -->
-  <rect x="210" y="255" width="520" height="165" rx="8" fill="#f2c4b5" stroke="#b8432a" stroke-width="3"/>
-  <!-- mattress -->
-  <rect x="210" y="235" width="640" height="28" rx="4" fill="#e8d5c4" stroke="#8a5a3a" stroke-width="2"/>
-  <text x="470" y="254" text-anchor="middle" font-size="11" font-weight="600" fill="#5a3a28">Matratze / Liege ≈ 1880–1900 mm</text>
+  <!-- mattress spanning box + plate -->
+  <rect x="168" y="252" width="700" height="26" rx="5" fill="#e8d5c4" stroke="#8a5a3a" stroke-width="2"/>
+  <text x="520" y="270" text-anchor="middle" font-size="12" font-weight="700" fill="#5a3a28">Liegefläche ca. 1880–1900 mm</text>
 
-  <!-- storage compartments -->
-  <rect x="230" y="290" width="150" height="110" rx="4" fill="#faf0eb" stroke="#b8432a" stroke-width="1.5"/>
-  <text x="305" y="350" text-anchor="middle" font-size="11" fill="#6e2414">Eurobox</text>
-  <rect x="400" y="290" width="150" height="110" rx="4" fill="#faf0eb" stroke="#b8432a" stroke-width="1.5"/>
-  <text x="475" y="350" text-anchor="middle" font-size="11" fill="#6e2414">Kühlbox</text>
-  <rect x="570" y="290" width="140" height="110" rx="4" fill="#faf0eb" stroke="#b8432a" stroke-width="1.5"/>
-  <text x="640" y="345" text-anchor="middle" font-size="11" fill="#6e2414">Pack</text>
+  <!-- camping box -->
+  <rect x="280" y="278" width="520" height="172" rx="10" fill="#f2c4b5" stroke="#b8432a" stroke-width="3"/>
+  <text x="540" y="305" text-anchor="middle" font-size="14" font-weight="700" fill="#6e2414">Campingbox · Höhe 450–550 mm</text>
 
-  <!-- motor zone -->
-  <path d="M730 420 L730 340 L850 340 L850 300 L920 300 L920 420 Z" fill="#ddd" stroke="#555" stroke-width="2"/>
-  <text x="825" y="380" text-anchor="middle" font-size="11" font-weight="600" fill="#333">Motor</text>
-  <rect x="730" y="255" width="120" height="85" rx="4" fill="#f8e8e2" stroke="#b8432a" stroke-width="2" stroke-dasharray="5 3"/>
-  <text x="790" y="300" text-anchor="middle" font-size="10" fill="#6e2414">Klappe</text>
-
-  <!-- hatch -->
-  <line x1="920" y1="100" x2="940" y2="200" stroke="#222" stroke-width="2.5"/>
-  <text x="900" y="160" font-size="10" fill="#333">Heck</text>
+  <rect x="300" y="320" width="145" height="110" rx="5" fill="#faf0eb" stroke="#b8432a" stroke-width="1.6"/>
+  <text x="372" y="380" text-anchor="middle" font-size="12" fill="#6e2414">Eurobox</text>
+  <rect x="465" y="320" width="145" height="110" rx="5" fill="#faf0eb" stroke="#b8432a" stroke-width="1.6"/>
+  <text x="537" y="380" text-anchor="middle" font-size="12" fill="#6e2414">Kühlbox</text>
+  <rect x="630" y="320" width="145" height="110" rx="5" fill="#faf0eb" stroke="#b8432a" stroke-width="1.6"/>
+  <text x="702" y="380" text-anchor="middle" font-size="12" fill="#6e2414">Pack</text>
 
   <!-- box height dim -->
-  <line x1="200" y1="255" x2="200" y2="420" stroke="#b8432a" stroke-width="1.5"/>
-  <text x="175" y="350" transform="rotate(-90 175 350)" font-size="11" fill="#b8432a" font-weight="600">Box 450–550</text>
+  <line x1="265" y1="278" x2="265" y2="450" stroke="#b8432a" stroke-width="1.5"/>
+  <polygon points="265,278 261,288 269,288" fill="#b8432a"/>
+  <polygon points="265,450 261,440 269,440" fill="#b8432a"/>
+  <text x="248" y="375" transform="rotate(-90 248 375)" font-size="11" fill="#b8432a" font-weight="600">450–550</text>
+
+  <!-- motor zone -->
+  <path d="M800 450 L800 360 L900 360 L900 310 L980 310 L980 450 Z" fill="#d8d8d8" stroke="#555" stroke-width="2"/>
+  <text x="890" y="410" text-anchor="middle" font-size="12" font-weight="700" fill="#333">Motor</text>
+  <rect x="800" y="278" width="100" height="82" rx="5" fill="#f8e8e2" stroke="#b8432a" stroke-width="2" stroke-dasharray="6 3"/>
+  <text x="850" y="325" text-anchor="middle" font-size="11" font-weight="600" fill="#6e2414">Service-</text>
+  <text x="850" y="340" text-anchor="middle" font-size="11" font-weight="600" fill="#6e2414">klappe</text>
+
+  <!-- hatch -->
+  <path d="M980 110 L1040 200" stroke="#222" stroke-width="3" fill="none"/>
+  <text x="1010" y="175" font-size="11" font-weight="600">Heckklappe</text>
 
   <!-- length dim -->
-  <line x1="210" y1="460" x2="850" y2="460" stroke="#666" stroke-width="1"/>
-  <text x="530" y="480" text-anchor="middle" font-size="11" fill="#555">Box-Tiefe ≈ 1500–1700 mm (+ Platte → ~1,9 m Liege)</text>
+  <line x1="280" y1="500" x2="800" y2="500" stroke="#666" stroke-width="1.2"/>
+  <polygon points="280,500 290,496 290,504" fill="#666"/>
+  <polygon points="800,500 790,496 790,504" fill="#666"/>
+  <text x="540" y="525" text-anchor="middle" font-size="12" fill="#444">Box-Tiefe ≈ 1500–1700 mm  ·  mit Platte Liege ≈ 1,9 m</text>
 
-  <text x="490" y="510" text-anchor="middle" font-size="10" fill="#777">Skizze Plan · Zurrgurte nicht dargestellt · docs/skizzen/</text>
+  <text x="550" y="550" text-anchor="middle" font-size="10" fill="#888">Plan-Skizze · nicht für Zuschnitt · Zurrgurte nicht dargestellt</text>
 </svg>

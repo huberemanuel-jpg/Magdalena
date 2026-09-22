@@ -215,6 +215,7 @@ Foto [`innenraum/07-heck-holzkiste-motor.jpg`](fotos/innenraum/07-heck-holzkiste
 
 | Ansicht | Datei |
 | --- | --- |
+| **Seitenansicht** Campingbox | [`skizzen/t3-seitenansicht-campingbox.png`](skizzen/t3-seitenansicht-campingbox.png) |
 | Übersicht Grundriss + Schnitt | [`skizzen/t3-campingbox-skizze.png`](skizzen/t3-campingbox-skizze.png) |
 | Grundriss Campingmodus (SVG) | [`skizzen/grundriss-campingmodus.svg`](skizzen/grundriss-campingmodus.svg) |
 | Seitenansicht Bett/Stauraum (SVG) | [`skizzen/seitenansicht-bett.svg`](skizzen/seitenansicht-bett.svg) |
@@ -461,6 +462,7 @@ Suchkriterien:
 | 2026-09-19 | Willhaben-Inserat 1313902263 ausgewertet; Fotos archiviert; Front 3 Sitze / 3 Sperren / G-Gang bestätigt |
 | 2026-09-19 | Innenraumfotos + Motorrechnung + §57a abgelegt; Layout 3+3+3/KDO/Holzkiste; VIN/MV bestätigt |
 | 2026-09-22 | Skizzen Grundriss + Seitenansicht ergänzt (PNG/SVG) |
+| 2026-09-22 | Dedizierte Seitenansicht-Skizze ergänzt |
 
 ---
 
