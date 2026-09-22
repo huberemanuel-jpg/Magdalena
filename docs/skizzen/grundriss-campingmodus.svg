@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 980" font-family="Helvetica, Arial, sans-serif">
+  <rect width="720" height="980" fill="#faf9f7"/>
+  <text x="360" y="36" text-anchor="middle" font-size="20" font-weight="700" fill="#1a1a1a">Magdalena – Grundriss Campingmodus</text>
+  <text x="360" y="58" text-anchor="middle" font-size="12" fill="#555">VW T3 Syncro · Draufsicht · Maße Planwerte (± am Bus prüfen)</text>
+
+  <!-- vehicle outline -->
+  <rect x="80" y="90" width="560" height="820" rx="28" fill="none" stroke="#222" stroke-width="3"/>
+  <!-- front bumper hint -->
+  <rect x="140" y="78" width="440" height="14" rx="4" fill="#ddd" stroke="#222" stroke-width="1.5"/>
+  <!-- rear hatch -->
+  <rect x="140" y="908" width="440" height="16" rx="3" fill="#eee" stroke="#222" stroke-width="1.5"/>
+  <text x="360" y="960" text-anchor="middle" font-size="11" fill="#333">Heckklappe</text>
+
+  <!-- Reihe 1 -->
+  <rect x="110" y="110" width="160" height="120" rx="8" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+  <text x="190" y="175" text-anchor="middle" font-size="13" font-weight="600">Fahrer</text>
+  <rect x="300" y="110" width="310" height="120" rx="8" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+  <text x="455" y="165" text-anchor="middle" font-size="13" font-weight="600">Beifahrer-Doppelbank</text>
+  <text x="455" y="185" text-anchor="middle" font-size="11" fill="#444">Reihe 1 · 3 Sitze · bleibt</text>
+
+  <!-- KDO -->
+  <rect x="300" y="245" width="310" height="55" rx="6" fill="#d6e4f0" stroke="#2a5a8a" stroke-width="2"/>
+  <text x="455" y="278" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a5f">KDO-Trennwand / Klapptisch</text>
+
+  <!-- Reihe 2 -->
+  <rect x="110" y="320" width="500" height="110" rx="8" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+  <text x="360" y="370" text-anchor="middle" font-size="14" font-weight="600">Reihe 2 · 3er-Bank · bleibt</text>
+  <text x="360" y="392" text-anchor="middle" font-size="11" fill="#444">→ zusammen 6 Sitzplätze</text>
+
+  <!-- Verlängerungsplatte dashed -->
+  <rect x="110" y="445" width="500" height="45" rx="4" fill="#fff5f0" stroke="#c45c3e" stroke-width="2" stroke-dasharray="8 5"/>
+  <text x="360" y="473" text-anchor="middle" font-size="12" font-weight="600" fill="#8a3218">Verlängerungsplatte (nachts) ≈ 350–500 mm</text>
+
+  <!-- Campingbox -->
+  <rect x="110" y="505" width="500" height="380" rx="10" fill="#f2c4b5" stroke="#b8432a" stroke-width="3"/>
+  <text x="360" y="560" text-anchor="middle" font-size="16" font-weight="700" fill="#6e2414">CAMPINGBOX</text>
+  <text x="360" y="585" text-anchor="middle" font-size="12" fill="#6e2414">ca. 1550 mm breit × 1500–1700 mm tief</text>
+  <text x="360" y="610" text-anchor="middle" font-size="12" fill="#6e2414">Höhe außen 450–550 mm</text>
+
+  <!-- motor zone -->
+  <rect x="185" y="740" width="350" height="110" rx="8" fill="#f8e8e2" stroke="#b8432a" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="360" y="790" text-anchor="middle" font-size="12" font-weight="600" fill="#6e2414">Motorzone / Serviceklappe</text>
+  <text x="360" y="810" text-anchor="middle" font-size="11" fill="#6e2414">Proxy ≈ 910 × 1190 mm</text>
+
+  <!-- sleep arrow -->
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#6e2414"/>
+    </marker>
+  </defs>
+  <line x1="360" y1="650" x2="360" y2="720" stroke="#6e2414" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="380" y="690" font-size="11" fill="#6e2414">Schlafen längs</text>
+
+  <!-- width dim -->
+  <line x1="110" y1="900" x2="610" y2="900" stroke="#666" stroke-width="1"/>
+  <text x="360" y="895" text-anchor="middle" font-size="10" fill="#555">Innenbreite hinten max. ≈ 1555 mm</text>
+
+  <text x="360" y="975" text-anchor="middle" font-size="10" fill="#777">Skizze Plan · nicht bemaßt für Zuschnitt · docs/skizzen/</text>
+</svg>

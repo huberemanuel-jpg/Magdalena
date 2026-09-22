@@ -209,6 +209,16 @@ Foto [`innenraum/07-heck-holzkiste-motor.jpg`](fotos/innenraum/07-heck-holzkiste
 
 **Planung:** Holzkiste ausbauen/einlagern (Historie!). Campingbox übernimmt denselben Stellplatz, wird aber **tiefer** (Platz der ausgebauten 3. Reihe) und bekommt Liegedeckel + optionale Verlängerung zur Mittelbank-Lehne. Konzept „Modul statt Verschraubung“ bleibt analog zur Kiste.
 
+
+
+### 4.0a Skizzen
+
+| Ansicht | Datei |
+| --- | --- |
+| Übersicht Grundriss + Schnitt | [`skizzen/t3-campingbox-skizze.png`](skizzen/t3-campingbox-skizze.png) |
+| Grundriss Campingmodus (SVG) | [`skizzen/grundriss-campingmodus.svg`](skizzen/grundriss-campingmodus.svg) |
+| Seitenansicht Bett/Stauraum (SVG) | [`skizzen/seitenansicht-bett.svg`](skizzen/seitenansicht-bett.svg) |
+
 ### 4.1 Konzeptwahl
 
 | Variante | Beschreibung | Bewertung für dich |
@@ -450,6 +460,7 @@ Suchkriterien:
 | 2026-09-19 | Literaturmaße 9-Sitzer/Syncro ergänzt; Box-Planmaße kalibriert; Zurrösen zurückgestellt |
 | 2026-09-19 | Willhaben-Inserat 1313902263 ausgewertet; Fotos archiviert; Front 3 Sitze / 3 Sperren / G-Gang bestätigt |
 | 2026-09-19 | Innenraumfotos + Motorrechnung + §57a abgelegt; Layout 3+3+3/KDO/Holzkiste; VIN/MV bestätigt |
+| 2026-09-22 | Skizzen Grundriss + Seitenansicht ergänzt (PNG/SVG) |
 
 ---
 
