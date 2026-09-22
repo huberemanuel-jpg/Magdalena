@@ -251,7 +251,7 @@ Bezug: Multivan-Werksbett **1880 × 1600 mm**; verfügbare Heckzone hinter Reihe
 | Liegefläche gesamt L × B | **ca. 1880–1900 × 1400–1550 mm** | Box + Verlängerungsplatte; Breite wie Multivan/Joker-Niveau |
 | davon Verlängerungsplatte | **ca. 350–500 mm** Tiefe | legt auf Lehnenrückseite Reihe 2; schließt auf ~1880–1900 mm |
 | Matratze | 2× 70 cm oder 1× 140–155 × 190 cm, 10–12 cm | belüftet (Latten / Noppenfolie) |
-| Box-Höhe Außen | **450–550 mm** | Eurobox 400 mm + Deckel; ideal ≈ Radkasten-OK |
+| Box-Höhe Außen | **ca. 530 mm** | LifeSaver stehend 476 mm + Boden/Deckel; vorher 450–550 |
 | Zone über Motor | Aussparung / Klappe **~910 × 1190 mm** | analog Westfalia-Motorraumpolster |
 | Innenhöhe über Matratze | Rest aus **1465 mm** − Box − Matratze ≈ **900–1000 mm** | sitzend ok, nicht stehend |
 | Gewicht Box leer | **Ziel ≤ 40–50 kg** | handhabbar zu zweit |
@@ -318,10 +318,38 @@ Priorisierte Packliste (nur was wirklich im Bus bleiben soll):
 | 2 | Wechselkleidung 2 Erwachsene | 1× Eurobox 600×400 |
 | 3 | Küchen-Minimum (Gas abseits Fahrzeugregeln beachten) | 1× flache Box |
 | 4 | Kühlbox 12 V (kompressor, schmal) | z. B. ~20–30 l, Quereinbau |
+| 0 | **LifeSaver Jerrycan 18,5 l** | eigenes Heckfach, stehend, 349×171×476 mm |
 | 5 | Werkzeug / Recovery klein | 1 Fach, zugänglich von Heck |
 | — | Rucksäcke, Zeltgroß, Fahrräder | **→ Anhänger** |
 
 Eurobox-Raster (Planung): 600×400 und 400×300 mm – Schotten darauf auslegen.
+
+### 4.6a LifeSaver Jerrycan (Trinkwasser)
+
+Fest eingeplant: **LifeSaver Jerrycan** (Ultrafiltration, kein Kraftstoffkanister).
+
+| Merkmal | Wert | Quelle |
+| --- | --- | --- |
+| Fassungsvermögen | **18,5 l** | [iconlifesaver.com](https://iconlifesaver.com/products/lifesaver-jerrycan) |
+| Außenmaß B × T × H | **349 × 171 × 476 mm** | Hersteller |
+| Gewicht leer / voll | **3,9 kg / ca. 22,4 kg** | 3,9 + 18,5 l Wasser |
+| Filterleistung | bis 20.000 l (Kartusche tauschbar) | Hersteller |
+| Pumpe | oben, ca. 4 l/min | Hersteller |
+
+**Einbau in die Box**
+
+- Eigenes Fach an einer Seite (Vorschlag: **rechts**, zur Schiebetür), Öffnung **zur Heckklappe**.
+- Kanister **stehend**, nach hinten herausziehbar. Pumpe sitzt oben – zum Zapfen den Kanister so weit herausziehen, dass der Pumpkopf frei ist. Matratze bleibt liegen.
+- Lichte Fachmaße: **mind. 380 × 220 × 520 mm** (Spiel zum Greifen und für den Pumpkopf).
+- Darum Plattformhöhe der Box auf **ca. 530 mm** legen (oberes Ende der bisherigen 450–550 mm). Sonst passt die 476-mm-Höhe stehend nicht unter den Deckel.
+- Im Fach ein Gurt oder Keil, damit die ~22 kg bei Bremsung nicht nach vorn schießen.
+- Kein zweiten „Kanister“-Look für Benzin daneben – Verwechslung vermeiden. Zapfhahn/Schlauch optional (LifeSaver-Duschaufsatz) nur außerhalb des Betts.
+
+**Grenzen**
+
+- 18,5 l reichen zum Trinken/Kochen für 2 Erwachsene + Kinder ein paar Tage, nicht als großer Frischwassertank.
+- Bei Frost leeren (Hersteller: Betrieb über 0 °C, Lagerung nicht unter ca. −10 °C).
+- Gewicht voll liegt im Heck – bei der Achslast mitrechnen, aber unkritisch gegenüber der Gesamtzuladung.
 
 ### 4.7 Materialien (Stückliste Entwurf)
 
@@ -430,6 +458,7 @@ Suchkriterien:
 | Liege inkl. Platte | ca. 1880–1900 × 1400–1550 mm | Multivan-Werksmaß als Ziel |
 | Bettverlängerung | Platte an Reihe 2 | reine Box zu kurz |
 | Küche fest | nein | Sammlerwert, Platz |
+| Trinkwasser | LifeSaver Jerrycan im Heckfach | 18,5 l filterbar, von der Heckklappe ziehbar |
 | Nächster Schritt | Materialliste + Schablonenplan | Maße literaturseitig gesetzt |
 
 ---
