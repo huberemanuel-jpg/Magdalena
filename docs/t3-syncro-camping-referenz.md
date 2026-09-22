@@ -463,6 +463,7 @@ Suchkriterien:
 | 2026-09-19 | Innenraumfotos + Motorrechnung + §57a abgelegt; Layout 3+3+3/KDO/Holzkiste; VIN/MV bestätigt |
 | 2026-09-22 | Skizzen Grundriss + Seitenansicht ergänzt (PNG/SVG) |
 | 2026-09-22 | Dedizierte Seitenansicht-Skizze ergänzt |
+| 2026-09-22 | Seitenansicht korrigiert: Reihe 2 blickt nach vorne |
 
 ---
 
