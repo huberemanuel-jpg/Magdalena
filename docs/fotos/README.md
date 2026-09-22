@@ -34,3 +34,7 @@
 - `zurroesen-*.jpg`
 - `motorabdeckung-ohne-kiste-*.jpg`
 - `mass-*.jpg`
+
+## Referenz
+
+- `referenz-heckzugang.jpg` – Vorbild: Bett mit Stauraum von der Heckklappe

@@ -215,16 +215,27 @@ Foto [`innenraum/07-heck-holzkiste-motor.jpg`](fotos/innenraum/07-heck-holzkiste
 
 | Ansicht | Datei |
 | --- | --- |
-| **Seitenansicht** Campingbox | [`skizzen/t3-seitenansicht-campingbox.png`](skizzen/t3-seitenansicht-campingbox.png) |
+| **Seitenansicht** (korrigiert, Blick nach vorne) | [`skizzen/t3-seitenansicht-campingbox.png`](skizzen/t3-seitenansicht-campingbox.png) |
+| **Heckansicht** Zugang Stauraum | [`skizzen/heckansicht-zugang.png`](skizzen/heckansicht-zugang.png) |
 | Übersicht Grundriss + Schnitt | [`skizzen/t3-campingbox-skizze.png`](skizzen/t3-campingbox-skizze.png) |
 | Grundriss Campingmodus (SVG) | [`skizzen/grundriss-campingmodus.svg`](skizzen/grundriss-campingmodus.svg) |
-| Seitenansicht Bett/Stauraum (SVG) | [`skizzen/seitenansicht-bett.svg`](skizzen/seitenansicht-bett.svg) |
+| Referenzfoto Heckzugang | [`fotos/referenz-heckzugang.jpg`](fotos/referenz-heckzugang.jpg) |
+
+
+### 4.0b Zugang von der Heckklappe (Vorgabe)
+
+Vorbild: [`fotos/referenz-heckzugang.jpg`](fotos/referenz-heckzugang.jpg) (blauer T3, Bett mit offenem Unterbau).
+
+- Liegefläche oben (Matratze auf der Plattform)
+- **Stauraum darunter von der Heckklappe aus** erreichbar: offenes Fach oder Auszug Richtung Heck – nicht nur von oben durch Abnehmen der Matratze
+- Vorderwand der Box bleibt geschlossen (zur Mittelbank / Verlängerungsplatte)
+- Serviceklappe Motor weiterhin möglich, ohne den Heckzugang zu verbauen
 
 ### 4.1 Konzeptwahl
 
 | Variante | Beschreibung | Bewertung für dich |
 | --- | --- | --- |
-| **A – Volle Heckbox (empfohlen)** | Box füllt den Raum der ausgebauten 3. Reihe; Liegefläche quer oder längs für 2 Erwachsene; Stauraum darunter | Beste Balance Erhalt / Schlafkomfort / 5 Sitze |
+| **A – Volle Heckbox (empfohlen)** | Liege oben; Stauraum **von der Heckklappe** offen oder als Auszug; füllt Platz der 3. Reihe | Wie Referenzfoto + 6 Sitze |
 | B – Halbe Breite + Gang | Box nur ~½ Fahrzeugbreite, Durchgang zur Heckklappe | Praktisch für Heckzugang, aber schmale Liegefläche |
 | C – Tunnel mit Heckauszug | Schublade nach hinten | Mehr Aufwand, schwerer, braucht stabile Führung – erst sinnvoll nach Maß-Check |
 
@@ -464,6 +475,7 @@ Suchkriterien:
 | 2026-09-22 | Skizzen Grundriss + Seitenansicht ergänzt (PNG/SVG) |
 | 2026-09-22 | Dedizierte Seitenansicht-Skizze ergänzt |
 | 2026-09-22 | Seitenansicht korrigiert: Reihe 2 blickt nach vorne |
+| 2026-09-22 | Seitenansicht neu gezeichnet (Lehne heckseitig); Stauraum öffnet zur Heckklappe |
 
 ---
 
