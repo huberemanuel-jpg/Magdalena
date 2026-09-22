@@ -505,6 +505,7 @@ Suchkriterien:
 | 2026-09-22 | Dedizierte Seitenansicht-Skizze ergänzt |
 | 2026-09-22 | Seitenansicht korrigiert: Reihe 2 blickt nach vorne |
 | 2026-09-22 | Seitenansicht neu gezeichnet (Lehne heckseitig); Stauraum öffnet zur Heckklappe |
+| 2026-09-22 | LifeSaver Jerrycan 18,5 l als stehendes Heckfach eingeplant; Boxhöhe ca. 530 mm |
 
 ---
 
