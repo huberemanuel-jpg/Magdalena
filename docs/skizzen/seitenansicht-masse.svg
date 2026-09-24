@@ -55,15 +55,20 @@
        mattress 100*0.26=26, mattress y=245-26=219
        Bed starts just behind backrest x=448, ends at cargo end 973
   -->
-  <rect x="448" y="219" width="525" height="26" rx="3" fill="#3a3a3a"/>
-  <text x="710" y="237" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Matratze ca. 100 mm, darüber ca. 460 mm zum Liegen</text>
+  <rect x="448" y="213" width="525" height="26" rx="3" fill="#3a3a3a"/>
+  <text x="710" y="230" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Matratze ca. 100 mm, darüber ca. 460 mm zum Liegen</text>
+  <rect x="448" y="239" width="525" height="6" fill="#c4a574"/>
 
-  <!-- front box part on LOW floor: from x=448 to engine x=736, from platform y=245 down to floor y=491 -->
-  <rect x="448" y="245" width="288" height="246" fill="#f6d3b8" stroke="#b8432a" stroke-width="2.5"/>
-  <text x="592" y="340" text-anchor="middle" font-size="14" font-weight="700" fill="#6e2414">vorderer Boxteil</text>
-  <text x="592" y="362" text-anchor="middle" font-size="12" fill="#6e2414">auf tiefem Boden</text>
-  <text x="592" y="384" text-anchor="middle" font-size="12" fill="#6e2414">ca. 980 mm lang</text>
-  <text x="592" y="406" text-anchor="middle" font-size="12" fill="#6e2414">Stauraumhöhe ca. 900 mm</text>
+  <!-- three modules. Lower box flush with engine deck y=383. Upper box and rear box both 530 mm (138 px). -->
+  <rect x="448" y="383" width="288" height="108" fill="#e7c4a4" stroke="#b8432a" stroke-width="2.5"/>
+  <text x="592" y="424" text-anchor="middle" font-size="13" font-weight="700" fill="#6e2414">1 Unterkasten</text>
+  <text x="592" y="442" text-anchor="middle" font-size="11" fill="#6e2414">bündig mit dem Motordeckel</text>
+  <text x="592" y="460" text-anchor="middle" font-size="11" fill="#6e2414">ca. 375 mm hoch</text>
+
+  <rect x="448" y="245" width="288" height="138" fill="#f6d3b8" stroke="#b8432a" stroke-width="2.5"/>
+  <text x="592" y="300" text-anchor="middle" font-size="13" font-weight="700" fill="#6e2414">2 Oberkasten</text>
+  <text x="592" y="318" text-anchor="middle" font-size="11" fill="#6e2414">ca. 530 mm, wie das Heckteil</text>
+  <text x="592" y="336" text-anchor="middle" font-size="11" fill="#6e2414">mit dem Heckteil verschraubt</text>
 
   <!-- rear box on engine: x=736 to 973, platform y=245 to engine deck y=383 -->
   <rect x="736" y="245" width="237" height="138" fill="#f3c7b8" stroke="#b8432a" stroke-width="2.5"/>
@@ -131,6 +136,6 @@
   <polygon points="1060,383 1056,373 1064,373" fill="#555"/>
   <text x="1076" y="260" transform="rotate(90 1076 260)" font-size="12" fill="#222">Motor bis Himmel ca. 1090</text>
 
-  <text x="640" y="748" text-anchor="middle" font-size="11" fill="#333">Grün: vorderer Boxteil, der bei offener Schiebetür seitlich direkt erreichbar ist. Der Rest des vorderen Teils liegt hinter dem festen Seitenfenster.</text>
+  <text x="640" y="748" text-anchor="middle" font-size="11" fill="#333">Drei Kästen, verschraubt. Goldene Leiste: Lattenrost unter der Matratze. Gurte fassen am Rahmen an, unter Rost und Matratze.</text>
   <text x="640" y="766" text-anchor="middle" font-size="11" fill="#888">Türlage angesetzt am Laderaumanfang hinter Reihe 1. Die genaue B-Säule am Bus nachmessen. Linke Seite hat keine Schiebetür.</text>
 </svg>

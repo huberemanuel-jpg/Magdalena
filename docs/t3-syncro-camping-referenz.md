@@ -19,7 +19,7 @@ Die Campingbox bleibt so, bis am Bus nachgemessen wird. Kein Materialzuschnitt i
 
 **Höhen:** 1465 mm gelten vom tiefen Boden. Der Motordeckel liegt ca. 375 mm höher. Vom Motordeckel bis zum Himmel ca. 1090 mm. Frei über der Matratze hinten ca. 460 mm. Darauf sitzen ist nicht das Ziel.
 
-**Box:** Liege oben, eben. Vorderer Teil ca. 980 mm auf dem tiefen Boden, Stauraum dort ca. 900 mm hoch. Heckteil auf der Motorabdeckung ca. **910 × 1550 × 530 mm** (Länge × Breite × Höhe). Die Motorabdeckung selbst ist nur ca. 1190 mm breit, der Kasten geht bis an die Seiten. Der hohe Kasten ist Stauraum, nicht Sitzfreiheit.
+**Box:** drei Kästen, miteinander verschraubt, darüber Lattenrost und Matratze, das Ganze mit Zurrgurten im Bus. Unterkasten auf dem tiefen Boden, Oberkante bündig mit dem Motordeckel (ca. 375 mm). Darauf der Oberkasten, gleiche Höhe wie das Heckteil (ca. 530 mm). Heckteil auf der Motorabdeckung ca. **910 × 1550 × 530 mm**. Vorderer Stauraum damit wieder ca. 900 mm hoch. Die Motorabdeckung selbst ist nur ca. 1190 mm breit, die Kästen gehen bis an die Seiten. Der hohe Kasten ist Stauraum, nicht Sitzfreiheit.
 
 **Heckauszug** (von der Heckklappe): ein **Schwerlastauszug**, ca. 800 mm lang. Nebeneinander: flacher Wasserkanister 20 l mit Geschirrfächern darüber, **Dometic CFX5 55** (720 × 455 × 480 mm) dazwischen, Doppelkocher längs mit Fach dahinter für Topf, Brett und Kartusche. Der LifeSaver bleibt draußen. Kochen nur bei offener Heckklappe. Der große Stauraum bleibt im vorderen Boxteil.
 
@@ -27,7 +27,7 @@ Die Campingbox bleibt so, bis am Bus nachgemessen wird. Kein Materialzuschnitt i
 
 **Schiebetür** nur rechts, Öffnung ca. 1060 × 1315 mm. Davon liegen ca. 300 mm des vorderen Boxteils in der Tür. Zugriff: seitliches Fach an der Tür für den Alltag, der Rest von oben nach Wegklappen des vorderen Matratzenstücks. Äußere Lehne der Mittelbank kann nach vorn klappen.
 
-**Befestigung:** nur Zurrgurte, keine neuen Bohrungen. Ösen-Detail später.
+**Befestigung:** die drei Kästen untereinander verschraubt, der Verbund nur mit Zurrgurten im Bus, keine neuen Bohrungen. Gurte am Rahmen, unter Rost und Matratze. Ösen-Detail später. Abschnitt 4.4b.
 
 **Skizzen:** [`docs/skizzen/seitenansicht-masse.png`](skizzen/seitenansicht-masse.png), [`docs/skizzen/heckansicht-masse.png`](skizzen/heckansicht-masse.png).
 
@@ -353,6 +353,32 @@ Von unten nach oben:
 5. **Belüftung** – Lattenrost-Leisten oder gelochte Zwischenlage unter Matratze.
 6. **Gurtschlaufen** – fest in den Rahmen integriert (keine Karosseriebohrung): 4–6 Anschlagpunkte an der Box.
 
+### 4.4b Drei Kästen
+
+Der Einbau besteht aus drei Teilen. Verschraubt sind sie eine Liege, gelöst trägt man sie einzeln hinaus.
+
+| Teil | Sitz | Höhe | Länge |
+| --- | --- | --- | --- |
+| 1 Unterkasten | tiefer Boden, hinter der Mittelbank | ca. **375 mm**, Oberkante bündig mit dem Motordeckel | ca. 980 mm |
+| 2 Oberkasten | auf dem Unterkasten | ca. **530 mm**, gleich wie das Heckteil | ca. 980 mm |
+| 3 Heckteil | auf der Motorabdeckung | ca. **530 mm** | ca. 910 mm |
+
+375 + 530 = 905 mm. Das ist der vordere Stauraum von ca. 900 mm. Die Liege ist eine Ebene, weil Oberkasten und Heckteil gleich hoch sind.
+
+Darüber ein Lattenrost und die Matratze. Über der Kühlbox ist der Rost der Luftweg, den Dometic mit den 50 mm fordert. Die Latten laufen in Fahrtrichtung und liegen auf Querriegeln, die Spannweite ist dann die Modultiefe von ca. 900 mm. Quer über die vollen 1550 mm bräuchte es einen Mittelträger.
+
+**Warum das Vordergewicht den Auszug hält.** Kühlbox beladen ca. 35–40 kg, Wasser 20 kg, Kocher, Geschirr und Schublade ca. 25 kg, zusammen ca. 80–90 kg. Voll ausgezogen liegt der Schwerpunkt dieser Last etwa 400 mm hinter der Hinterkante, auf der Mitte des 800-mm-Auszugs. Das Moment ist grob 90 kg × 0,4 m = **36 kg·m**.
+
+Der vordere Teil fängt 910 mm vor dieser Kante an, sein Schwerpunkt liegt etwa 1,4 m davor. Zwei leere Vorderkästen mit zusammen ca. 35 kg geben dort etwa **50 kg·m**, der Heckkasten bleibt mit dem eigenen Gewicht auf dem Motor. Statisch kippt der verschraubte Verbund also auch leer nicht. Beladen vorn wird der Abstand größer.
+
+Dafür müssen die drei Kästen ein Körper sein. Stehen sie nur aufeinander, zählt für den Auszug nur das Heckteil, und dessen Gewicht liegt zu nah an der Hinterkante.
+
+Die Gurte sichern den Rest: Ruck am Griff, leeres Camp, Schräglage. Sie fassen am Rahmen an, unter Lattenrost und Matratze, damit auf der Liege keine Ratsche liegt.
+
+**Schrauben.** M8 mit großen Scheiben oder Einschlagmuttern, lösbar. Eine Naht senkrecht zwischen Oberkasten und Heckteil, eine waagrecht zwischen Unterkasten und Oberkasten. Keine Schraube in die Karosserie. Die Höhe des Unterkastens wird am Bus gemessen, die 375 mm sind der Literaturwert. Eine Differenz wird unter dem Unterkasten ausgeglichen, sonst hat die Liege an der Motorkante einen Absatz.
+
+**Ein- und Ausbau.** Der Weg ist die Heckklappe. Die Schiebetür ist ca. 1060 mm breit, die Kästen sind breiter. Das Außenmaß bleibt ein paar Zentimeter unter der gemessenen Hecköffnung, sonst klemmt der Kasten in der eigenen Breite. Reihenfolge: Kühlbox, Kanister und Kocher heraus, Matratze und Rost herunter, Schrauben lösen, Heckteil, Oberkasten, Unterkasten. Zum Motor kommt man denselben Weg, es muss nur das Heckteil herunter.
+
 ### 4.5 Fixierung nur mit Zurrgurten (Pflicht) — Detail später
 
 **Prinzip fest:** keine neuen Karosseriebohrungen; Box als Ladung verzurren; Anti-Rutsch unter den Kufen; 4–6 Ratschengurte; Gurtschlaufen **an der Box**.
@@ -600,7 +626,7 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | Befestigung | Zurrgurte (Detail später) | Erhalt, Reversibilität |
 | Sitze Campingmodus | Front 3 + Mitte 3; hinten 3 aus + Holzkiste raus | **6 Plätze**; Box beerbt Kisten-Zone |
 | Box-Typ | Volle Heckbox Variante A | Schlaf 2 + Stauraum |
-| Box | vorne ca. 980 mm auf tiefem Boden, hinten auf Motor, Deckel ca. 530 mm über Motor | Stauraum. 460 mm über der Matratze reichen nicht zum Sitzen |
+| Box | drei Kästen, verschraubt: Unterkasten bündig Motordeckel, Oberkasten und Heckteil je 530 mm | ein Körper für den Auszug, einzeln tragbar. Gurte am Rahmen |
 | Liege | ca. 1880 mm auf der Box, Bank bleibt aufrecht | hinter einer Bank ca. 1890 mm |
 | Bettverlängerung | nur Reserve | falls Messung unter ca. 1850 mm |
 | Küche fest | nein | Kocher bleibt loses Gerät im Auszug |
@@ -684,6 +710,7 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | 2026-09-24 | Kocherauszug längs, ca. 800 mm, damit ein 2-Flammer mit ca. 600 mm Breite hineinpasst |
 | 2026-09-24 | Schwerlastauszug: Kühlbox ca. 36 l zwischen Kanister und Kocher. 45 l ist zu hoch |
 | 2026-09-24 | Kühlbox wird die CFX5 55, 720×455×480 mm. Geschirr über dem Kanister, Topf hinter dem Kocher |
+| 2026-09-24 | Einbau in drei Kästen: Unterkasten bündig Motordeckel, Oberkasten und Heckteil je 530 mm, verschraubt, Rost und Matratze oben, Gurte am Rahmen |
 | 2026-09-24 | Box-Follow-up: Geometrie bleibt pausiert; Anhänger ist entschieden, Kocher bleibt im Heckauszug |
 
 ---
