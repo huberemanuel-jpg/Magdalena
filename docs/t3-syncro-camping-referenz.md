@@ -2,7 +2,7 @@
 
 **Fahrzeug:** VW T3 Syncro · EZ 05/1991 · 95 PS · 14″ · **3 Sperren** · G-Gang · Webasto · ehem. KDO-F St. Nikola  
 **Kauf:** 18.900 € (willhaben) · **Zielwert Erhalt:** Sammlerzustand (Markt 30–50.000 €)  
-**Stand dieses Dokuments:** 2026-09-24 · Box-Planung pausiert · aktuelles Thema: Dachgepäckträger (Abschnitt 7.2a)  
+**Stand dieses Dokuments:** 2026-09-24 · Box-Planung pausiert · Dach nur Gepäck, Dachzelt auf den Anhänger (Abschnitt 7.1)  
 **Maße:** Literaturwerte + Innenraumfotos/Dokumente · **Fotobeleg:** willhaben + eigene Fotos
 
 ---
@@ -29,7 +29,9 @@ Die Campingbox bleibt so, bis am Bus nachgemessen wird. Kein Materialzuschnitt i
 
 **Skizzen:** [`docs/skizzen/seitenansicht-masse.png`](skizzen/seitenansicht-masse.png), [`docs/skizzen/heckansicht-masse.png`](skizzen/heckansicht-masse.png).
 
-**Noch nicht entschieden:** Zurrpunkte, Materialliste, Zuschnitt. Anhänger und Dachzelt sind Phase 2 und 3. Aktuelles Thema ist der Dachgepäckträger (Abschnitt 7.2a).
+**Schlafen, Richtung ab 2026-09-24:** zwei Erwachsene im Bus, bis zu drei Kinder im Dachzelt auf dem Anhänger. Das Busdach bleibt Gepäckfläche (Abschnitt 7.2a).
+
+**Noch nicht entschieden:** Zurrpunkte, Materialliste, Zuschnitt, konkreter Anhänger.
 
 ---
 
@@ -39,7 +41,7 @@ Die Campingbox bleibt so, bis am Bus nachgemessen wird. Kein Materialzuschnitt i
 2. **Sammlerwert schützen:** Originale Sitze, Gurte, Verkleidungen und Feuerwehr-Historie bleiben erhalten (Sitze ausbauen und einlagern, nicht verkaufen).
 3. **Alltagstauglich:** Mindestens **5 Sitzplätze** bleiben nutzbar und angegurtet.
 4. **Modular:** Campingbox per **Zurrgurte** fixiert; in <30 Min. ausbaubar für Transport / Verkauf / Werkstatt. *(Zurrösen-Detail: später)*
-5. **Gewicht & Syncro:** Hecklast und Dachlast bewusst planen (Anhänger für sperriges Gepäck; Dachzelt nur wenn Zulassung/Achslasten passen).
+5. **Gewicht & Syncro:** Hecklast und Dachlast bewusst planen. Sperriges Gepäck und das Kinder-Dachzelt gehören auf den Anhänger. Das Busdach trägt nur Gepäck innerhalb der Dachlast.
 
 ---
 
@@ -65,7 +67,7 @@ Verkaufsanzeige (verkauft): [willhaben 1313902263](https://www.willhaben.at/iad/
 | Zustand | fast kein Rost, großteils Originallack, Innenraum gut | Inserat + Fotos |
 | Kaufpreis | **18.900 €** | Inserat |
 | Sammlerwert-Ziel | 30–50.000 € Marktspanne (Erhalt) | Nutzerangabe |
-| Dach aktuell | 2× Blaulicht + Sirene/Lautsprecher mittig; Regenrinne durchgehend | willhaben 01–04 → Phase 3 Dachzelt |
+| Dach aktuell | 2× Blaulicht + Sirene/Lautsprecher mittig; Regenrinne durchgehend | willhaben 01–04. Bei der Zivilanmeldung abbauen und einlagern |
 | Typcode | **255** | §57a-Gutachten |
 | FIN / VIN | **WV2ZZZ25ZMG011581** | Rechnung + §57a |
 | Motornummer | **MV08708** | Rechnung Gegenleitner |
@@ -184,9 +186,10 @@ KDO-F-Sonderaufbauten können abweichen (z. B. 2+3+2+2). Beim ersten Zugang kurz
 | Bereich | Ziel |
 | --- | --- |
 | Schlafen Erwachsene | 2 Personen in Campingbox / Liegefläche hinten |
-| Schlafen Kinder | optional 3 Kinder im Dachzelt (Phase 3) |
+| Schlafen Kinder | bis zu 3 Kinder im Dachzelt **auf dem Anhänger** (Richtung, Abschnitt 7.1) |
 | Tagsüber / Fahrt | ≥ 5 Sitzplätze (Fahrer + Beifahrer + mind. 3 hinten) |
-| Gepäck sperrig / Räder | Anhänger (Phase 2) |
+| Gepäck sperrig / Räder | Anhänger, neben dem Zeltplatz auf der Ladefläche |
+| Gepäck auf dem Busdach | Reisegepäck auf dem Westfalia-Träger, innerhalb der Dachlast |
 | Koch / Nasszelle | bewusst **nicht** im Bus (Erhalt + Platz) – Kocher am Camp oder Anhänger-Box |
 | Standheizung | Webasto bleibt nutzbar; Box darf Luftführung nicht blockieren |
 
@@ -365,7 +368,7 @@ Priorisierte Packliste (nur was wirklich im Bus bleiben soll):
 | 0 | **LifeSaver Jerrycan 18,5 l** | eigenes Heckfach, stehend, 349×171×476 mm |
 | 0b | **Doppel-Gaskocher** | Heckauszug, Fach ≥ 560×400×150 mm |
 | 5 | Werkzeug / Recovery klein | 1 Fach, zugänglich von Heck |
-| — | Rucksäcke, Zeltgroß, Fahrräder | **→ Anhänger** |
+| — | Rucksäcke, Kinder-Dachzelt, Fahrräder | **→ Anhänger**; Busdach nur Reisegepäck |
 
 Eurobox-Raster (Planung): 600×400 und 400×300 mm – Schotten darauf auslegen.
 
@@ -449,7 +452,7 @@ Kochen nur bei **offener Heckklappe** und ausgezogenem Kocher, nicht im geschlos
 | Reihe 2 | 3 Sitze | bleibt; Lehnenrückseite = Bettverlängerung |
 | Heck | Campingbox ~1550×1500–1700 mm | Modul, gurtsfixiert |
 | Seitenverkleidung | Serie / Feuerwehr | erhalten; keine neuen Einbauten fest |
-| Dach | später Dachzelt (Dachlast oft 100 kg) | nur freigegebene Träger |
+| Dach | Gepäck auf Westfalia-Träger (Dachlast oft 100 kg inkl. Träger) | kein Dachzelt auf dem Bus |
 | Boden | Serie | Gummiauflage unter Box, sonst original |
 
 ### 5.2 Komfort ohne Substanzverlust
@@ -473,7 +476,7 @@ Kochen nur bei **offener Heckklappe** und ausgezogenem Kocher, nicht im geschlos
 
 - Ausgebaute Sitze: mitführen der Schrauben/Teile für Rückbau; Fahrzeugschein Sitze ggf. unverändert – praktisch fahrt ihr mit weniger Personen.  
 - Campingbox ist **Ladung**: vorschriftsmäßig verzurren (StVO/Ladungssicherung).  
-- Achslasten: beladene Box + Insassen + Dachzelt später nicht überschreiten – wiegen (Achslastwaage / Deichselwaage).  
+- Achslasten: beladene Box + Insassen + Dachgepäck nicht überschreiten. Anhänger mit Zelt, Rädern und Gepäck gegen Anhängelast und Stützlast laut Schein halten. Wiegen (Achslastwaage / Deichselwaage).  
 - Diff-Sperren / Syncro: Zuladung und Anhängerbetrieb in der Bedienungsanleitung beachten.  
 - Feuerlöscher / Verbandskasten: wie bisher zugänglich halten (KDO-F-Erbe oft schon gut gelöst).
 
@@ -481,17 +484,22 @@ Kochen nur bei **offener Heckklappe** und ausgezogenem Kocher, nicht im geschlos
 
 ## 7. Offene Module (später detaillieren)
 
-### 7.1 Anhänger (Phase 2) – Platzhalter
+### 7.1 Anhänger mit Dachzelt (Richtung ab 2026-09-24)
 
-Ziel: Fahrräder + sperrige Rucksäcke / Lagermaterial.
+Zwei Erwachsene schlafen im Bus. Bis zu drei Kinder schlafen im **Dachzelt auf dem Anhänger**. Das Busdach bleibt frei für Gepäck.
 
-Suchkriterien (später ausarbeiten):
+Damit trägt der Anhänger zwei Aufgaben: Schlafplatz der Kinder und das sperrige Gut (Rucksäcke, Fahrräder). Ein Zelt belegt die Ladefläche, die Räder brauchen deshalb einen eigenen Platz an der Deichsel oder auf einem längeren Anhänger neben bzw. hinter der Zeltplattform.
 
-- gebremst, passend zu Anhängelast + Stützlast laut Schein  
-- Plane oder Deckel, Zurrschienen, ggf. Radhalter  
-- Maße: 2–4 Fahrräder + Softgepäck  
-- Syncro-taugliche Bodenfreiheit / Auffahrwinkel nicht kritisch am Anhänger, aber Deichsel/Kupplungshöhe prüfen  
-- Kandidaten sammeln unter: `docs/anhaenger-auswahl.md` (noch anzulegen)
+| Punkt | Stand |
+| --- | --- |
+| Zelt | Familien-Dachzelt für 3 Kinder. Geschlossen oft grob 140 × 210–240 cm und ca. 50–80 kg. Konkretes Modell später |
+| Plattform | Ebene, steife Ladefläche oder Zelt-Querträger. Der Westfalia-Lattenrost des Busses ist dafür die falsche Fläche |
+| Stand | Bugrad plus Stützen an den Ecken, sonst kippt ein seitlich öffnendes Zelt den Anhänger |
+| Fahrt | Zelt geschlossen und verriegelt. Geschlafen wird nur im Stand |
+| Zuglast | Syncro oft **1500 kg** gebremst / **600 kg** ungebremst, Stützlast oft ca. **50 kg**. Schein sticht. Ungebremst wird mit Zelt, Anhänger-Eigengewicht und Rädern eng |
+| Gelände | Der Anhänger begrenzt, was der Syncro im Gelände kann. Kupplungshöhe und Auffahrwinkel der Deichsel prüfen |
+
+Kandidaten später unter `docs/anhaenger-auswahl.md`. Noch nicht angelegt.
 
 ### 7.2a Dachgepäckträger (neu, ab 2026-09-24)
 
@@ -508,22 +516,16 @@ Vorbild ist der Westfalia-Style mit **3 Bögen**, nicht eine geschlossene Dachbo
 | 4-Bögen-Westfalia-Nachbau | gibt es für **T1/T2** (z. B. Abstand der Endbögen 200 cm). Der passt nicht auf die T3-Regenrinne |
 | Machbarer Weg | T3-Träger als **Sonderanfertigung mit 4 Bögen** und längerem Lattenrost. Seefeldt schreibt ausdrücklich, die T3-Version sei mit 2, 3 oder auf Sonderbestellung mit **4 Befestigungsbögen** lieferbar |
 | Befestigung | Klammern in der **geraden** Regenrinne, nicht in der Rundung vorn oder hinten. Keine Bohrung ins Dach |
-| Dachlast | in vielen T3-Blättern **100 kg** inklusive Träger. Schein prüfen. Mehr Bögen erhöhen die Fläche, nicht die erlaubte Last |
-| Dach jetzt | 2× Blaulicht und Sirene mittig. Ein langer Träger braucht diese Aufbauten abgebaut und eingelagert, sonst kollidiert der Lattenrost |
+| Dachlast | in vielen T3-Blättern **100 kg** inklusive Träger. Schein prüfen. Die 3-Bögen-Version wiegt ca. 19,5 kg, der Rest bis 100 kg ist Gepäck. Mehr Bögen erhöhen die Fläche, nicht die erlaubte Last |
+| Nutzung | **nur Gepäck.** Das Dachzelt steht auf dem Anhänger (Abschnitt 7.1). Der Träger braucht keine Zelt-Aufnahme |
+| Dach jetzt | 2× Blaulicht und Sirene mittig. Beides kommt bei der **Zivilanmeldung** herunter und wird mit der Feuerwehr-Historie eingelagert. Danach ist die Rinne für den Lattenrost frei |
 | Fläche | 4 Bögen auf der kurzen 3-Bögen-Länge bringen nur mehr Steifigkeit. Mehr Fläche heißt **längerer Rost**, die Bögen über die nutzbare Rinne verteilt. Länge am Bus messen, bevor bestellt wird |
 
 Nächster Schritt zu diesem Thema: nutzbare Rinnenlänge messen und bei B.B.T. sowie Seefeldt die 4-Bögen-Sonderlänge anfragen.
 
-### 7.2 Dachzelt (Phase 3) – Platzhalter
+### 7.2 Dachzelt auf dem Bus – nicht mehr vorgesehen
 
-Ziel: bis 3 Kinder.
-
-Suchkriterien:
-
-- Leergewicht niedrig (Ziel eher &lt; 50–60 kg) wegen Syncro-Dachlast  
-- passende Querträger für T3 (Marken/Freigaben beachten)  
-- Aufstellhöhe / Wind / Gelände mit Diff-Sperren  
-- Dokument: `docs/dachzelt-auswahl.md` (noch anzulegen)
+Ein Dachzelt auf dem T3 würde die Dachlast von oft **100 kg** zusammen mit dem Träger weitgehend aufbrauchen. Die Richtung ist deshalb: Zelt auf den Anhänger, Busdach nur Gepäck. Auswahl des Zelts läuft über Abschnitt 7.1, nicht über einen eigenen Bus-Dachzelt-Träger.
 
 ---
 
@@ -541,7 +543,9 @@ Suchkriterien:
 | Trinkwasser | LifeSaver Jerrycan im Heckfach | 18,5 l, von der Heckklappe ziehbar |
 | Kocher | 2-Flammer im Heckauszug | geschlossen ~49×32×10 cm; nur bei offener Klappe |
 | Zugriff vorn | 300 mm seitlich an der rechten Schiebetür, Rest von oben | Türöffnung deckt den Kasten nicht auf ganzer Länge |
-| Status | **pausiert** | Stand in Abschnitt 0, Nachmessen am Bus vor dem Bau |
+| Schlafen Kinder | Dachzelt auf dem Anhänger | Busdach bleibt innerhalb der Dachlast für Gepäck |
+| Busdach | Westfalia-Gepäckträger, min. 4 Bögen | kein Zelt; Blaulicht und Sirene bei der Zivilanmeldung runter |
+| Status Box | **pausiert** | Stand in Abschnitt 0, Nachmessen am Bus vor dem Bau |
 
 ---
 
@@ -570,8 +574,8 @@ Suchkriterien:
 3. [ ] Am Bus nachmessen: Länge hinter der Mittelbank, Motordeckelhöhe, B-Säule der Schiebetür  
 4. [ ] Zurrkonzept (Abschnitt 4.5) – später  
 5. [ ] Danach erst Materialliste, Schablone, Bau  
-6. [ ] Phase 2 Anhänger / Phase 3 Dachzelt  
-7. [ ] Dachträger: nutzbare gerade Rinnenlänge messen, Blaulicht/Sirene einplanen, 4-Bögen-Sonderlänge bei B.B.T. und Seefeldt anfragen
+6. [ ] Anhänger: Dachzelt für 3 Kinder plus Platz für Räder und sperriges Gepäck; Anhängelast im Schein prüfen  
+7. [ ] Dachträger: nutzbare gerade Rinnenlänge messen, 4-Bögen-Sonderlänge bei B.B.T. und Seefeldt anfragen. Blaulicht und Sirene kommen mit der Zivilanmeldung herunter und werden eingelagert
 
 ---
 
@@ -598,6 +602,7 @@ Suchkriterien:
 | 2026-09-24 | Zugriff vordere Box: 300 mm seitlich an der Tür, Rest von oben unter der Matratze |
 | 2026-09-24 | Box-Planung pausiert; Abschnitt 0 und Entscheidungsprotokoll auf den aktuellen Stand gebracht |
 | 2026-09-24 | Dachträger: Westfalia-Style, mindestens 4 Bögen und mehr Fläche; T3-Sonderanfertigung, T2-Träger passt nicht |
+| 2026-09-24 | Schlafen: Erwachsene im Bus, Kinder im Dachzelt auf dem Anhänger; Busdach nur Gepäck. Blaulicht und Sirene bei der Zivilanmeldung abbauen |
 
 ---
 
