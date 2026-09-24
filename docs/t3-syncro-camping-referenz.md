@@ -502,7 +502,7 @@ Der 230er Heavy ist der Stahl-Tieflader der Serie, im aktuellen Katalog [EPA 230
 **Räder**
 
 - Zwei normale Mountainbikes an einem **Deichselträger**. Kein Träger auf der Kupplung des Busses, die Kupplung hält den Hänger.
-- Kinderräder **in** der Mulde, unter dem Zelt.
+- Kinderräder **in** der Mulde, unter dem Zelt. Die vorhandenen **Aufsatzbordwände** geben die Stehhöhe. Katalog: 600 mm ca. 76 kg oder 800 mm, auf die 400-mm-Grundwand gesteckt.
 
 **Stützlast, grob**
 
@@ -516,7 +516,23 @@ Zwei normale Mountainbikes wiegen zusammen etwa 26–30 kg, ein Deichselträger 
 
 Geschlossen soll das Zelt in **223 × 125 cm** passen. Die Breite ist der engere Wert. Viele 3-Personen-Zelte sind etwa 140 cm breit und damit breiter als der Boden. Dann liegen Querträger auf den Bordwänden, das Zelt sitzt auf den Wänden und darf seitlich etwas überstehen, solange es innerhalb der Außenbreite von 178 cm bleibt und Licht und Kennzeichen frei hält. Länger als 220 cm blockiert die Heckklappe.
 
-Der Siebdruckboden trägt das Zelt nicht allein. Die Querträger gehören in den Stahlrahmen. Darunter bleiben 40 cm lichte Höhe: Kinderräder liegen, sie stehen nicht. Reicht das nicht, gibt es bei Pongratz Aufsatzwände.
+Der Siebdruckboden trägt das Zelt nicht allein. Die Querträger gehören in den Stahlrahmen. Mit den Aufsatzwänden stehen die Kinderräder darunter.
+
+**Deckel oder Träger**
+
+Pongratz hat beides, ein Dachzelt trägt davon nur der Lastenträger, und auch den nur nach einer Lastangabe von Pongratz.
+
+| Teil | Was es ist | Fürs Zelt |
+| --- | --- | --- |
+| [Polyesterdeckel EPA 230/12](https://pongratztrailers.com/anhaenger/polyesterdeckel-kippbar-versperrbar-hebehilfe-epa-230-12/) | ca. 40 kg, ca. 882 €, nach vorn klappbar, versperrbar, Hebehilfe. Mit Aufsatzwänden freigegeben, dafür vorne an den seitlichen Wänden ein Ausschnitt 30×25 mm ([Zusatzanleitung](https://pongratztrailers.com/media/f0/1b/dd/1759145849/Zusatz-Montageanleitung_PE-Deckel_EPA_mit_AW.pdf?ts=1759145849)) | schließt die Mulde ab. Das Zelt gehört nicht auf die Schale |
+| [Dachträger für Deckel](https://pongratztrailers.com/anhaenger/dachtraeger-fuer-deckel/) | ca. 2,75 kg, ca. 98 €. Acht Schrauben M6 durch den Polyesterdeckel, Anbindebügel ([Anleitung 06/2015](https://pongratztrailers.com/media/09/63/27/1762772193/Montageanleitung_fuer_Dachtraeger_am_Polyesterdeckel_06_2015.pdf?ts=1762772193)) | leichtes Gut auf dem geschlossenen Deckel. Keine Traglast im Blatt. Für 50–80 kg Zelt zu schwach, und der Deckel ließe sich nicht mehr öffnen |
+| Lastenträger EPA | sitzt mittig auf den Bordwänden und wird mit Klemmplatten und M8 geklemmt ([Anleitung](https://pongratztrailers.com/media/60/85/99/1759145827/Montageanleitung_fuer_Lastentraeger_EPA.pdf?ts=1759145827)) | das ist der Träger **statt** Deckel. Im Shop aktuell nicht gelistet, Traglast steht in der Anleitung nicht. Vor dem Zelt bei Pongratz nachfragen, ob er für den 230/12 noch gebaut wird und welches Gewicht er darf |
+| Deckel mit 2 Dachträgern | ca. 48 kg, ca. 1.356 €, im Shop bei LPA-Zubehör einsortiert | nicht dem Heavy 230/12 zuordnen, bevor Pongratz den Typ bestätigt |
+| [Gitterplanengestell EPA 230/12](https://pongratztrailers.com/anhaenger/gitterplanengestell-100-mm-mit-plane-mit-hebehilfe-epa-230-12/) | ca. 32 kg, Plane mit Hebehilfe | Abdeckung, kein Träger |
+
+Alu- und Blechdeckel stehen in älteren Prospekten, im aktuellen Shop zum EPA 230/12 liegt der Polyesterdeckel.
+
+Fürs Dachzelt bleiben zwei brauchbare Wege. Lastenträger auf den Stahlwänden, falls Pongratz die Zeltlast freigibt, Zugriff auf die Räder über die Heckklappe. Oder eigene Querträger im Stahlrahmen, ebenfalls auf den Wänden, der Polyesterdeckel entfällt. Ein Deckel unter einem fest montierten Zelt kann nicht nach vorn aufschwingen.
 
 **Stand und Fahrt**
 
@@ -585,6 +601,7 @@ Ein Dachzelt auf dem T3 würde die Dachlast von oft **100 kg** zusammen mit dem 
 | Rechnung Gegenleitner R 604/15.03.2023 | VIN, Motor MV08708, Revision € 4.793,70 |
 | §57a Gutachten 07.05.2026 | Typ 255, 2109 ccm, Prüfgewicht 1860 kg, Pickerl bis 05/2027 |
 | [Pongratz EPA 230/12 G-RS-STK](https://pongratztrailers.com/anhaenger/epa-230-12-g-rs-stk.1300/) | 230er-Heavy-Serie: 2230×1250×400 mm, 1300/286/1014 kg |
+| Pongratz Anleitungen Lastenträger, Dachträger am Polyesterdeckel, PE-Deckel mit Aufsatzwand | Träger statt Deckel klemmt auf die Bordwand; Dachträger am Deckel ist Leichtgut |
 
 ---
 
@@ -597,7 +614,7 @@ Ein Dachzelt auf dem T3 würde die Dachlast von oft **100 kg** zusammen mit dem 
 3. [ ] Am Bus nachmessen: Länge hinter der Mittelbank, Motordeckelhöhe, B-Säule der Schiebetür  
 4. [ ] Zurrkonzept (Abschnitt 4.5) – später  
 5. [ ] Danach erst Materialliste, Schablone, Bau  
-6. [ ] Pongratz: Leerstützlast wiegen, Bus-Schein gegen 75 kg und 1300 kg halten, Zelt auf 223×125 cm aussuchen, Querträger und Abstellstützen, Deichselträger für 2 MTB  
+6. [ ] Pongratz: Leerstützlast wiegen, Bus-Schein gegen 75 kg und 1300 kg halten, Zelt auf 223×125 cm aussuchen. Lastenträger-Traglast erfragen oder eigene Querträger auf die Stahlwände, Abstellstützen, Deichselträger für 2 MTB  
 7. [ ] Dachträger: nutzbare gerade Rinnenlänge messen, 4-Bögen-Sonderlänge bei B.B.T. und Seefeldt anfragen. Blaulicht und Sirene kommen mit der Zivilanmeldung herunter und werden eingelagert
 
 ---
@@ -627,6 +644,7 @@ Ein Dachzelt auf dem T3 würde die Dachlast von oft **100 kg** zusammen mit dem 
 | 2026-09-24 | Dachträger: Westfalia-Style, mindestens 4 Bögen und mehr Fläche; T3-Sonderanfertigung, T2-Träger passt nicht |
 | 2026-09-24 | Schlafen: Erwachsene im Bus, Kinder im Dachzelt auf dem Anhänger; Busdach nur Gepäck. Blaulicht und Sirene bei der Zivilanmeldung abbauen |
 | 2026-09-24 | Anhänger festgelegt: Pongratz 230er Heavy, Stützlast 75 kg; 2 MTB an der Deichsel, Kinderräder in der Mulde |
+| 2026-09-24 | Heavy 230/125 mit Aufsatzwänden: Kinderräder stehen. Zelt auf Lastenträger oder eigene Querträger, nicht auf den Polyesterdeckel |
 
 ---
 
