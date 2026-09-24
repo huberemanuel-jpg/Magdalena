@@ -29,10 +29,10 @@
   <text x="308" y="554" text-anchor="middle" font-size="12" font-weight="700" fill="#1e3a5f">Wasser 20 l</text>
   <text x="308" y="572" text-anchor="middle" font-size="11" fill="#1e3a5f">170 mm flach</text>
 
-  <!-- stove bay 150 mm = 69 px -->
-  <rect x="404" y="530" width="503" height="69" rx="3" fill="#fff" stroke="#6e2414" stroke-width="2"/>
-  <text x="655" y="560" text-anchor="middle" font-size="13" font-weight="700" fill="#6e2414">Doppelkocher, Fach ca. 150 mm</text>
-  <text x="655" y="580" text-anchor="middle" font-size="11" fill="#6e2414">Heckauszug, daneben der Kanister</text>
+  <!-- stove drawer across the van is only ~450 mm = 207 px. The 800 mm length runs into the page. -->
+  <rect x="700" y="530" width="207" height="69" rx="3" fill="#fff" stroke="#6e2414" stroke-width="2"/>
+  <text x="803" y="558" text-anchor="middle" font-size="12" font-weight="700" fill="#6e2414">Kocher längs</text>
+  <text x="803" y="576" text-anchor="middle" font-size="11" fill="#6e2414">quer 450, tief 800</text>
 
   <!-- Heckteil width: box x=218..917 -->
   <line x1="218" y1="601" x2="218" y2="648" stroke="#b8432a" stroke-width="1"/>
