@@ -9,36 +9,26 @@
 
   <rect x="210" y="100" width="715" height="501" fill="#f4f1ec" stroke="#888" stroke-width="1.2"/>
 
-  <!-- free headroom 460 mm = 212 px, y=100 to 312 -->
-  <text x="567" y="190" text-anchor="middle" font-size="15" font-weight="700" fill="#333">frei über der Matratze ca. 460 mm</text>
-  <text x="567" y="214" text-anchor="middle" font-size="12" fill="#555">liegen ja, aufrecht sitzen eng</text>
+  <!-- free headroom 770 mm = 354 px, y=100 to 454 -->
+  <text x="567" y="250" text-anchor="middle" font-size="15" font-weight="700" fill="#333">frei über der Matratze ca. 770 mm</text>
+  <text x="567" y="274" text-anchor="middle" font-size="12" fill="#555">Sitzen mit geneigtem Kopf</text>
 
-  <!-- mattress 100 mm = 46 px, y=312..358 -->
-  <rect x="218" y="312" width="699" height="46" rx="3" fill="#3a3a3a"/>
-  <text x="567" y="340" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">Matratze ca. 100 mm</text>
+  <!-- mattress 100 mm = 46 px, y=454..500 -->
+  <rect x="218" y="454" width="699" height="46" rx="3" fill="#3a3a3a"/>
+  <text x="567" y="482" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">Matratze ca. 100 mm</text>
 
-  <!-- box 530 mm = 244 px, y=358..602 -->
-  <rect x="218" y="358" width="699" height="243" fill="#f3c7b8" stroke="#b8432a" stroke-width="2"/>
+  <!-- box 220 mm = 101 px, y=500..601 -->
+  <rect x="218" y="500" width="699" height="101" fill="#f3c7b8" stroke="#b8432a" stroke-width="2"/>
 
-  <!-- LifeSaver: vehicle right = left of view. 349 mm wide = 161 px, 476 mm = 219 px
-       floor y=601, top y=382. Platform at 358, so 24 px clearance under lid. -->
-  <rect x="228" y="382" width="161" height="211" rx="3" fill="#d6e4f0" stroke="#1e4a78" stroke-width="2"/>
-  <text x="308" y="470" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a5f">LifeSaver</text>
-  <text x="308" y="490" text-anchor="middle" font-size="12" fill="#1e3a5f">349 × 476 mm</text>
-  <text x="308" y="508" text-anchor="middle" font-size="11" fill="#1e3a5f">stehend</text>
-  <text x="308" y="575" text-anchor="middle" font-size="11" fill="#1e3a5f">Schiebetürseite</text>
+  <!-- flat can: 350 mm wide = 161 px, 170 mm = 78 px, sitting on engine deck y=601 -->
+  <rect x="228" y="515" width="161" height="78" rx="3" fill="#d6e4f0" stroke="#1e4a78" stroke-width="2"/>
+  <text x="308" y="548" text-anchor="middle" font-size="12" font-weight="700" fill="#1e3a5f">Wasser 20 l</text>
+  <text x="308" y="566" text-anchor="middle" font-size="11" fill="#1e3a5f">170 mm flach</text>
 
-  <!-- storage above drawer: from x=400 to 908, y=366 to 528 -->
-  <rect x="404" y="368" width="503" height="152" rx="3" fill="#faf0eb" stroke="#b8432a" stroke-width="1.4"/>
-  <text x="655" y="440" text-anchor="middle" font-size="14" font-weight="700" fill="#6e2414">Stauraum Eurobox / Kühlbox</text>
-  <text x="655" y="462" text-anchor="middle" font-size="12" fill="#6e2414">über dem Auszug</text>
-
-  <!-- drawer 150 mm = 69 px, y=532..601, width except lifesaver -->
-  <rect x="404" y="528" width="503" height="68" rx="3" fill="#fff" stroke="#6e2414" stroke-width="2"/>
-  <text x="560" y="556" text-anchor="middle" font-size="13" font-weight="700" fill="#6e2414">Doppelkocher ca. 490 × 100</text>
-  <text x="800" y="556" text-anchor="middle" font-size="13" font-weight="700" fill="#6e2414">Gas</text>
-  <text x="655" y="578" text-anchor="middle" font-size="11" fill="#6e2414">Heckauszug, Höhe ca. 150 mm</text>
-  <text x="820" y="400" text-anchor="middle" font-size="11" fill="#333">Fahrerseite</text>
+  <!-- stove bay beside the can, 150 mm = 69 px -->
+  <rect x="404" y="524" width="503" height="69" rx="3" fill="#fff" stroke="#6e2414" stroke-width="2"/>
+  <text x="655" y="554" text-anchor="middle" font-size="13" font-weight="700" fill="#6e2414">Doppelkocher, Fach ca. 150 mm, daneben</text>
+  <text x="655" y="574" text-anchor="middle" font-size="11" fill="#6e2414">Heckauszug</text>
 
   <!-- width dim -->
   <line x1="210" y1="650" x2="925" y2="650" stroke="#333" stroke-width="1.3"/>
@@ -47,10 +37,10 @@
   <text x="567" y="672" text-anchor="middle" font-size="13" font-weight="700">Innenbreite hinten ca. 1555 mm</text>
 
   <!-- box height dim -->
-  <line x1="155" y1="358" x2="155" y2="601" stroke="#b8432a" stroke-width="1.4"/>
-  <polygon points="155,358 151,368 159,368" fill="#b8432a"/>
+  <line x1="155" y1="500" x2="155" y2="601" stroke="#b8432a" stroke-width="1.4"/>
+  <polygon points="155,500 151,510 159,510" fill="#b8432a"/>
   <polygon points="155,601 151,591 159,591" fill="#b8432a"/>
-  <text x="138" y="490" transform="rotate(-90 138 490)" font-size="12" font-weight="700" fill="#b8432a">Box ca. 530</text>
+  <text x="138" y="560" transform="rotate(-90 138 560)" font-size="12" font-weight="700" fill="#b8432a">Box ca. 220</text>
 
   <!-- height above engine -->
   <line x1="960" y1="100" x2="960" y2="601" stroke="#555" stroke-width="1.3"/>

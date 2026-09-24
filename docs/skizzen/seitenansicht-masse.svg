@@ -50,29 +50,24 @@
   <text x="330" y="378" text-anchor="middle" font-size="10" font-weight="700" fill="#1a4a8a">Blick nach vorne</text>
 
   <!-- level mattress: top is 100mm above platform.
-       Platform is 530 above engine deck. Engine deck y=383.
-       530*0.26=138, so platform y=383-138=245
-       mattress 100*0.26=26, mattress y=245-26=219
+       Platform is 220 above engine deck. Engine deck y=383.
+       220*0.26=57, so platform y=383-57=326
+       mattress 100*0.26=26, mattress y=326-26=300
        Bed starts just behind backrest x=448, ends at cargo end 973
   -->
-  <rect x="448" y="219" width="525" height="26" rx="3" fill="#3a3a3a"/>
-  <text x="710" y="237" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Matratze ca. 1880 × 100 mm, Bank bleibt stehen</text>
+  <rect x="448" y="300" width="525" height="26" rx="3" fill="#3a3a3a"/>
+  <text x="710" y="318" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">Matratze ca. 100 mm, darüber ca. 770 mm</text>
 
-  <!-- front box part on LOW floor: from x=448 to engine x=736, from platform y=245 down to floor y=491 -->
-  <rect x="448" y="245" width="288" height="246" fill="#f6d3b8" stroke="#b8432a" stroke-width="2.5"/>
-  <text x="592" y="330" text-anchor="middle" font-size="14" font-weight="700" fill="#6e2414">vorderer Boxteil</text>
-  <text x="592" y="352" text-anchor="middle" font-size="12" fill="#6e2414">auf tiefem Boden</text>
-  <text x="592" y="374" text-anchor="middle" font-size="12" fill="#6e2414">ca. 980 mm lang</text>
-  <text x="592" y="396" text-anchor="middle" font-size="12" fill="#6e2414">Stauraumhöhe ca. 900 mm</text>
-  <text x="592" y="430" text-anchor="middle" font-size="11" fill="#8a3218">hier weiter planen</text>
+  <!-- front box part on LOW floor: from x=448 to engine x=736, from platform y=326 down to floor y=491 -->
+  <rect x="448" y="326" width="288" height="165" fill="#f6d3b8" stroke="#b8432a" stroke-width="2.5"/>
+  <text x="592" y="378" text-anchor="middle" font-size="14" font-weight="700" fill="#6e2414">vorderer Boxteil</text>
+  <text x="592" y="398" text-anchor="middle" font-size="12" fill="#6e2414">auf tiefem Boden</text>
+  <text x="592" y="418" text-anchor="middle" font-size="12" fill="#6e2414">ca. 980 mm lang</text>
+  <text x="592" y="438" text-anchor="middle" font-size="12" fill="#6e2414">Stauraumhöhe ca. 595 mm</text>
 
-  <!-- rear box on engine: x=736 to 973, platform y=245 to engine deck y=383 -->
-  <rect x="736" y="245" width="237" height="138" fill="#f3c7b8" stroke="#b8432a" stroke-width="2.5"/>
-  <text x="854" y="290" text-anchor="middle" font-size="12" font-weight="700" fill="#6e2414">Heckteil auf Motor</text>
-  <text x="854" y="310" text-anchor="middle" font-size="11" fill="#6e2414">Boxhöhe ca. 530 mm</text>
-  <!-- heckauszug hint -->
-  <rect x="750" y="330" width="210" height="42" rx="3" fill="#fff" stroke="#6e2414" stroke-width="1.6"/>
-  <text x="855" y="356" text-anchor="middle" font-size="11" font-weight="700" fill="#6e2414">Heckauszug · schon geplant</text>
+  <!-- rear box on engine: x=736 to 973, platform y=326 to engine deck y=383 -->
+  <rect x="736" y="326" width="237" height="57" fill="#f3c7b8" stroke="#b8432a" stroke-width="2.5"/>
+  <text x="854" y="360" text-anchor="middle" font-size="11" font-weight="700" fill="#6e2414">Heckteil ca. 220 mm</text>
 
   <!-- Schiebetür rechts. Öffnung 1060×1315 mm, angesetzt am Laderaumanfang (x=250).
        1060*0.26=276, Höhe 1315*0.26=342, Unterkante Boden y=491, Oberkante y=149.
@@ -80,8 +75,8 @@
   <rect x="250" y="149" width="276" height="342" fill="#1a4a8a" fill-opacity="0.10" stroke="#1a4a8a" stroke-width="2.6" stroke-dasharray="8 4"/>
   <text x="388" y="172" text-anchor="middle" font-size="13" font-weight="700" fill="#1a4a8a">Schiebetür rechts, offen</text>
   <text x="388" y="190" text-anchor="middle" font-size="11" fill="#1a4a8a">Öffnung ca. 1060 × 1315 mm</text>
-  <rect x="448" y="245" width="78" height="246" fill="#2e7d32" fill-opacity="0.22" stroke="#1b5e20" stroke-width="1.5"/>
-  <text x="487" y="470" text-anchor="middle" font-size="11" font-weight="700" fill="#1b5e20" transform="rotate(-90 487 470)">Türzugang ca. 300 mm</text>
+  <rect x="448" y="326" width="78" height="165" fill="#2e7d32" fill-opacity="0.22" stroke="#1b5e20" stroke-width="1.5"/>
+  <text x="487" y="408" text-anchor="middle" font-size="11" font-weight="700" fill="#1b5e20" transform="rotate(-90 487 408)">Türzugang ca. 300 mm</text>
 
   <!-- hatch -->
   <path d="M973 110 L1040 190" stroke="#222" stroke-width="2.5" fill="none"/>

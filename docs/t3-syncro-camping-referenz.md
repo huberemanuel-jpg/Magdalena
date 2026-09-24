@@ -17,11 +17,11 @@ Die Campingbox bleibt so, bis am Bus nachgemessen wird. Kein Materialzuschnitt i
 
 **Längen:** Laderaum ohne Bänke ca. 2780 mm. Hinter einer Fondbank ca. 1890 mm. Hinter beiden Fondbänken ca. 1000 mm.
 
-**Höhen:** 1465 mm gelten vom tiefen Boden. Der Motordeckel liegt ca. 375 mm höher. Vom Motordeckel bis zum Himmel ca. 1090 mm. Frei über der Matratze hinten ca. 460 mm.
+**Höhen:** 1465 mm gelten vom tiefen Boden. Der Motordeckel liegt ca. 375 mm höher. Vom Motordeckel bis zum Himmel ca. 1090 mm. Frei über der Matratze hinten ca. 770 mm, Sitzen mit geneigtem Kopf.
 
-**Box:** Liege oben, eben. Vorderer Teil ca. 980 mm auf dem tiefen Boden, Stauraum dort ca. 900 mm hoch. Heckteil auf der Motorabdeckung, Höhe ca. 530 mm, damit der LifeSaver stehend hineinpasst.
+**Box:** Liege oben, eben. Vorderer Teil ca. 980 mm auf dem tiefen Boden, Stauraum dort ca. 595 mm hoch. Heckteil auf der Motorabdeckung, Höhe ca. 220 mm.
 
-**Heckauszug** (von der Heckklappe): LifeSaver Jerrycan 18,5 l (349 × 171 × 476 mm) im eigenen Fach. Doppel-Gaskocher im Auszug (Fach mind. 560 × 400 × 150 mm). Kochen nur bei offener Heckklappe.
+**Heckauszug** (von der Heckklappe): flacher Wasserkanister, Zielhöhe max. 170 mm, ca. 20 l, neben dem Doppel-Gaskocher (Fach mind. 560 × 400 × 150 mm). Der LifeSaver Jerrycan ist raus. Kochen nur bei offener Heckklappe.
 
 **Schiebetür** nur rechts, Öffnung ca. 1060 × 1315 mm. Davon liegen ca. 300 mm des vorderen Boxteils in der Tür. Zugriff: seitliches Fach an der Tür für den Alltag, der Rest von oben nach Wegklappen des vorderen Matratzenstücks. Äußere Lehne der Mittelbank kann nach vorn klappen.
 
@@ -286,10 +286,10 @@ Bezug: Multivan-Werksbett **1880 × 1600 mm**; verfügbare Heckzone hinter der e
 | Liegefläche gesamt L × B | **ca. 1880 × 1400–1550 mm** | liegt auf der Box hinter der aufrechten Mittelbank; die ca. 1890 mm reichen |
 | Verlängerungsplatte | nur Reserve | falls die gemessene Länge unter ca. 1850 mm bleibt: Brett an die Lehnenrückseite |
 | Matratze | 2× 70 cm oder 1× 140–155 × 190 cm, 10–12 cm | belüftet (Latten / Noppenfolie) |
-| Box-Höhe Außen | **ca. 530 mm** | LifeSaver stehend 476 mm + Boden/Deckel; vorher 450–550 |
+| Box-Höhe über dem Motor | **ca. 220 mm** | flacher 20-l-Kanister 170 mm + Boden/Deckel; Kocherfach 150 mm daneben |
 | Zone über Motor | Aussparung / Klappe **~910 × 1190 mm** | analog Westfalia-Motorraumpolster |
 | Höhe über dem Motordeckel | ca. **1090 mm** bis Himmel | Heckansicht; 1465 mm sind der tiefe Boden weiter vorn |
-| Frei über der Matratze hinten | ca. **460 mm** | 1090 − Box 530 − Matratze 100; liegen ja, aufrecht sitzen eng |
+| Frei über der Matratze hinten | ca. **770 mm** | 1090 − Box 220 − Matratze 100; Sitzen mit geneigtem Kopf |
 | Gewicht Box leer | **Ziel ≤ 40–50 kg** | handhabbar zu zweit |
 | Stauraum unter Deckel | Eurobox 600×400 Raster | 2–3 Boxen quer/längs + Kühlbox-Fach |
 
@@ -306,7 +306,7 @@ Heckklappe  ← Beladehöhe ~820 mm | Öffnung nutzt Innenbreite ~1555 mm
 │ │  Liegefläche auf Box-Deckel             │ │  Box ~1550 mm breit
 │ │  + Verlängerung → Σ Länge ~1880–1900 mm │ │  Box ~1500–1700 mm tief
 │ └─────────────────────────────────────────┘ │
-│ │ Stauraum Eurobox / Kühlbox ~450–550 mm H│ │
+│ │ Stauraum flach, Kanister + Kocher ~220 mm H│ │
 └─────────────────────────────────────────────┘
          ↑ Zurrgurte (Detail später)
 ┌─────────────────────────────────────────────┐
@@ -366,39 +366,32 @@ Priorisierte Packliste (nur was wirklich im Bus bleiben soll):
 | 2 | Wechselkleidung 2 Erwachsene | 1× Eurobox 600×400 |
 | 3 | Küchen-Minimum (Gas abseits Fahrzeugregeln beachten) | 1× flache Box |
 | 4 | Kühlbox 12 V (kompressor, schmal) | z. B. ~20–30 l, Quereinbau |
-| 0 | **LifeSaver Jerrycan 18,5 l** | eigenes Heckfach, stehend, 349×171×476 mm |
+| 0 | **flacher Wasserkanister, ca. 20 l** | Heckfach, liegend, Höhe max. 170 mm |
 | 0b | **Doppel-Gaskocher** | Heckauszug, Fach ≥ 560×400×150 mm |
 | 5 | Werkzeug / Recovery klein | 1 Fach, zugänglich von Heck |
 | — | Rucksäcke, Kinder-Dachzelt, Fahrräder | **→ Anhänger**; Busdach nur Reisegepäck |
 
 Eurobox-Raster (Planung): 600×400 und 400×300 mm – Schotten darauf auslegen.
 
-### 4.6a LifeSaver Jerrycan (Trinkwasser)
+### 4.6a Trinkwasser (flach, ab 2026-09-24)
 
-Fest eingeplant: **LifeSaver Jerrycan** (Ultrafiltration, kein Kraftstoffkanister).
+Der LifeSaver Jerrycan ist raus. Stehend ist er 476 mm hoch und hat die Box auf 530 mm gezwungen. Über der Matratze blieben dann nur 460 mm, zu wenig zum Sitzen.
 
-| Merkmal | Wert | Quelle |
-| --- | --- | --- |
-| Fassungsvermögen | **18,5 l** | [iconlifesaver.com](https://iconlifesaver.com/products/lifesaver-jerrycan) |
-| Außenmaß B × T × H | **349 × 171 × 476 mm** | Hersteller |
-| Gewicht leer / voll | **3,9 kg / ca. 22,4 kg** | 3,9 + 18,5 l Wasser |
-| Filterleistung | bis 20.000 l (Kartusche tauschbar) | Hersteller |
-| Pumpe | oben, ca. 4 l/min | Hersteller |
+Der Heckteil wird auf **ca. 220 mm** über dem Motordeckel gelegt. Das ist der 170-mm-Kanister plus Boden und Deckel. Der Kocherauszug (150 mm) liegt daneben, nicht darüber. Frei über der Matratze: **ca. 770 mm**. Das ist Sitzen mit geneigtem Kopf. Kerzengerade, etwa 900 mm, ließe über dem Motor fast keinen Stauraum.
 
-**Einbau in die Box**
+Der vordere Boxteil wird mit der ebenen Liege niedriger: Stauraum dort ca. **595 mm** statt vorher ca. 900 mm. Euroboxen liegen dann, sie stehen nicht auf der 600-mm-Kante.
 
-- Eigenes Fach an einer Seite (Vorschlag: **rechts**, zur Schiebetür), Öffnung **zur Heckklappe**.
-- Kanister **stehend**, nach hinten herausziehbar. Pumpe sitzt oben – zum Zapfen den Kanister so weit herausziehen, dass der Pumpkopf frei ist. Matratze bleibt liegen.
-- Lichte Fachmaße: **mind. 380 × 220 × 520 mm** (Spiel zum Greifen und für den Pumpkopf).
-- Darum Plattformhöhe der Box auf **ca. 530 mm** legen (oberes Ende der bisherigen 450–550 mm). Sonst passt die 476-mm-Höhe stehend nicht unter den Deckel.
-- Im Fach ein Gurt oder Keil, damit die ~22 kg bei Bremsung nicht nach vorn schießen.
-- Kein zweiten „Kanister“-Look für Benzin daneben – Verwechslung vermeiden. Zapfhahn/Schlauch optional (LifeSaver-Duschaufsatz) nur außerhalb des Betts.
+| Kanister | Maße | Höhe im Fach | Menge |
+| --- | --- | --- | --- |
+| Flacher PE-Kanister, z. B. [Nakatanenga 20 l](https://www.dachzelt24.de/kunststoff-wasserkanister-wassertank-mit-ausgusshahn-20l-oder-10l/NAWTAN020-GRY) | 350 × 460 × **170 mm**, ca. 1,9 kg, Hahn | **170 mm**, Planmaß | 20 l |
+| dieselbe Reihe, 10 l | 260 × 370 × **140 mm** | 140 mm | 10 l |
+| [RotopaX 2 Gallon Water](https://www.rotopax.com/products/2-gallon-water) | 457 × 356 × **76 mm** (18 × 14 × 3 Zoll) | 76 mm | 7,6 l, zwei Stück ca. 15 l |
 
-**Grenzen**
+Planung: ein **20-l-Flachkanister** auf der 170-mm-Seite, Fach licht mind. 400 × 500 × 200 mm, zur Heckklappe herausziehbar, verzurrt. Der Hahn zeigt nach hinten, zum Zapfen den Kanister nur einen Spalt herausziehen. Kein Benzinkanister daneben.
 
-- 18,5 l reichen zum Trinken/Kochen für 2 Erwachsene + Kinder ein paar Tage, nicht als großer Frischwassertank.
-- Bei Frost leeren (Hersteller: Betrieb über 0 °C, Lagerung nicht unter ca. −10 °C).
-- Gewicht voll liegt im Heck – bei der Achslast mitrechnen, aber unkritisch gegenüber der Gesamtzuladung.
+Diese Kanister filtern nicht. Der LifeSaver-Jerrycan war Filter und Vorrat in einem. Der Vorrat ist jetzt der flache Kanister, gefüllt aus der Leitung oder über eine kleine Filterflasche.
+
+Reliance Aqua-Tainer 15 l ist 29 × 29 × 27,5 cm und bleibt zu hoch. Der 26-l-Kanister ist 40 cm hoch.
 
 ### 4.6b Doppel-Gaskocher im Heckauszug
 
@@ -410,7 +403,7 @@ Der Heckauszug nimmt neben dem Stauraum einen **2-Flammen-Kocher** auf. Richtma�
 | Lichtes Fach | **mind. 560 × 400 × 150 mm**, damit auch ein etwas größerer 2-Flammer geschlossen hineinpasst |
 | Betrieb | Auszug ganz heraus, bis der Kocher **vor der Ladekante** steht und der Deckel frei aufklappen kann (offen ca. 35 cm hoch) |
 | Gas | eine Kartusche oder kleine Flasche **im selben Auszug**, stehend und verzurrt, nicht lose unter der Matratze |
-| LifeSaver | bleibt im eigenen hohen Fach daneben; der Kocherauszug ist flach und blockiert den Kanister nicht |
+| Wasser | flacher Kanister im Nachbarfach, Höhe max. 170 mm; der Kocherauszug blockiert ihn nicht |
 
 Kochen nur bei **offener Heckklappe** und ausgezogenem Kocher, nicht im geschlossenen Bus. Die Geräte dieser Klasse sind laut Hersteller nicht für geschlossene Räume. Keine feste Gasanlage, kein Einbaukocher – der Kocher bleibt ein herausnehmbares Campinggerät.
 
@@ -573,11 +566,11 @@ Ein Dachzelt auf dem T3 würde die Dachlast von oft **100 kg** zusammen mit dem 
 | Befestigung | Zurrgurte (Detail später) | Erhalt, Reversibilität |
 | Sitze Campingmodus | Front 3 + Mitte 3; hinten 3 aus + Holzkiste raus | **6 Plätze**; Box beerbt Kisten-Zone |
 | Box-Typ | Volle Heckbox Variante A | Schlaf 2 + Stauraum |
-| Box | vorne ca. 980 mm auf tiefem Boden, hinten auf Motor, Deckel ca. 530 mm über Motor | Liege eben, LifeSaver stehend |
+| Box | vorne ca. 980 mm auf tiefem Boden, hinten auf Motor, Deckel ca. 220 mm über Motor | Liege eben, ca. 770 mm zum Sitzen |
 | Liege | ca. 1880 mm auf der Box, Bank bleibt aufrecht | hinter einer Bank ca. 1890 mm |
 | Bettverlängerung | nur Reserve | falls Messung unter ca. 1850 mm |
 | Küche fest | nein | Kocher bleibt loses Gerät im Auszug |
-| Trinkwasser | LifeSaver Jerrycan im Heckfach | 18,5 l, von der Heckklappe ziehbar |
+| Trinkwasser | flacher Kanister ca. 20 l, Höhe max. 170 mm | LifeSaver Jerrycan zu hoch fürs Sitzen |
 | Kocher | 2-Flammer im Heckauszug | geschlossen ~49×32×10 cm; nur bei offener Klappe |
 | Zugriff vorn | 300 mm seitlich an der rechten Schiebetür, Rest von oben | Türöffnung deckt den Kasten nicht auf ganzer Länge |
 | Schlafen Kinder | Dachzelt auf dem Pongratz 230er Heavy | Ladefläche 223 × 125 cm; Busdach nur Gepäck |
@@ -601,6 +594,8 @@ Ein Dachzelt auf dem T3 würde die Dachlast von oft **100 kg** zusammen mit dem 
 | Rechnung Gegenleitner R 604/15.03.2023 | VIN, Motor MV08708, Revision € 4.793,70 |
 | §57a Gutachten 07.05.2026 | Typ 255, 2109 ccm, Prüfgewicht 1860 kg, Pickerl bis 05/2027 |
 | [Pongratz EPA 230/12 G-RS-STK](https://pongratztrailers.com/anhaenger/epa-230-12-g-rs-stk.1300/) | 230er-Heavy-Serie: 2230×1250×400 mm, 1300/286/1014 kg |
+| [Nakatanenga Wasserkanister](https://www.dachzelt24.de/kunststoff-wasserkanister-wassertank-mit-ausgusshahn-20l-oder-10l/NAWTAN020-GRY) | 20 l: 350×460×170 mm; 10 l: 260×370×140 mm |
+| [RotopaX 2 Gallon Water](https://www.rotopax.com/products/2-gallon-water) | 7,6 l, 457×356×76 mm |
 | Pongratz Anleitungen Lastenträger, Dachträger am Polyesterdeckel, PE-Deckel mit Aufsatzwand | Träger statt Deckel klemmt auf die Bordwand; Dachträger am Deckel ist Leichtgut |
 
 ---
@@ -645,6 +640,7 @@ Ein Dachzelt auf dem T3 würde die Dachlast von oft **100 kg** zusammen mit dem 
 | 2026-09-24 | Schlafen: Erwachsene im Bus, Kinder im Dachzelt auf dem Anhänger; Busdach nur Gepäck. Blaulicht und Sirene bei der Zivilanmeldung abbauen |
 | 2026-09-24 | Anhänger festgelegt: Pongratz 230er Heavy, Stützlast 75 kg; 2 MTB an der Deichsel, Kinderräder in der Mulde |
 | 2026-09-24 | Heavy 230/125 mit Aufsatzwänden: Kinderräder stehen. Zelt auf Lastenträger oder eigene Querträger, nicht auf den Polyesterdeckel |
+| 2026-09-24 | LifeSaver Jerrycan raus. Heckteil ca. 220 mm, flacher 20-l-Kanister, ca. 770 mm über der Matratze |
 | 2026-09-24 | Box-Follow-up: Geometrie bleibt pausiert; Anhänger ist entschieden, Kocher bleibt im Heckauszug |
 
 ---
