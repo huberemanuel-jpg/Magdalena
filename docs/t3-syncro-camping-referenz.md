@@ -252,8 +252,8 @@ Bezug: Multivan-Werksbett **1880 × 1600 mm**; verfügbare Heckzone hinter der e
 | Parameter | Planungswert | Begründung |
 | --- | --- | --- |
 | Box-Grundfläche L × B | **ca. 1550 × 1500 mm** (± am Bus) | Länge ≈ Raum Reihe-3-Fußabdruck + 1000 mm Kofferraum; Breite ≤ 1555 mm hinten |
-| Liegefläche gesamt L × B | **ca. 1880–1900 × 1400–1550 mm** | Box + Verlängerungsplatte; Breite wie Multivan/Joker-Niveau |
-| davon Verlängerungsplatte | **ca. 350–500 mm** Tiefe | legt auf Lehnenrückseite Reihe 2; schließt auf ~1880–1900 mm |
+| Liegefläche gesamt L × B | **ca. 1880 × 1400–1550 mm** | liegt auf der Box hinter der aufrechten Mittelbank; die ca. 1890 mm reichen |
+| Verlängerungsplatte | nur Reserve | falls die gemessene Länge unter ca. 1850 mm bleibt: Brett an die Lehnenrückseite |
 | Matratze | 2× 70 cm oder 1× 140–155 × 190 cm, 10–12 cm | belüftet (Latten / Noppenfolie) |
 | Box-Höhe Außen | **ca. 530 mm** | LifeSaver stehend 476 mm + Boden/Deckel; vorher 450–550 |
 | Zone über Motor | Aussparung / Klappe **~910 × 1190 mm** | analog Westfalia-Motorraumpolster |
@@ -289,12 +289,14 @@ Außen: 4570 × 1845 × ~1990 mm | Radstand Syncro 2455 mm
 
 **Schlaf-Richtung:** **längs** (Köpfe zur Mitte oder zum Heck). Quer-Schlafen scheidet aus: Innenbreite ~1550–1590 mm &lt; 1900 mm Körperlänge.
 
-**Verlängerungsplatte (empfohlen, fast Pflicht für 1,90 m):**
+**Verlängerungsplatte (nur Reserve):** Die Mittelbank bleibt zum Schlafen aufrecht. Die Matratze wird auf den Boxdeckel gelegt bzw. aufgeklappt. Ein Umlegen der Bank ist nicht vorgesehen. Die Platte nur bauen, wenn die gemessene Länge hinter der Bank unter ca. 1850 mm liegt.
+
+**Verlängerungsplatte, falls nötig:**
 
 - ca. **350–500 × 1400–1550 mm**, ein- oder zweiteilig  
 - Nachts auf Lehnenrückseite Reihe 2, mit Gurten/Polster fixiert  
 - Tags an Box-Front oder unter Deckel verstaut  
-- Ohne Platte bleibt die reine Box oft bei ~1,50–1,70 m – zu kurz für zwei Erwachsene
+- Hinter der aufrechten Bank sind ca. 1890 mm geplant. Die Platte schließt nur eine Lücke, falls das Maß am Bus kürzer ausfällt.
 
 ### 4.4 Aufbau der Box (Sandwich)
 
@@ -531,6 +533,7 @@ Suchkriterien:
 | 2026-09-24 | Heckansicht mit ca.-Maßen (Breite, Höhe, Box, LifeSaver, Kocher) |
 | 2026-09-24 | Heckhöhe korrigiert: ca. 1090 mm ab Motordeckel, nicht 1465 mm ab tiefem Boden |
 | 2026-09-24 | Laderaum: 2780 mm ohne Bänke, ca. 1890 mm hinter einer Fondbank, 1000 mm hinter beiden |
+| 2026-09-24 | Schlafen auf der Box hinter der aufrechten Mittelbank; Verlängerungsplatte nur Reserve |
 
 ---
 
