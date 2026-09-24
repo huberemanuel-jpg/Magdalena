@@ -299,6 +299,16 @@ Außen: 4570 × 1845 × ~1990 mm | Radstand Syncro 2455 mm
 - Tags an Box-Front oder unter Deckel verstaut  
 - Hinter der aufrechten Bank sind ca. 1890 mm geplant. Die Platte schließt nur eine Lücke, falls das Maß am Bus kürzer ausfällt.
 
+### 4.3a Zugriff auf den vorderen Boxteil
+
+Die Schiebetür rechts gibt nur die ersten **ca. 300 mm** des vorderen Boxteils frei. Die restlichen **ca. 680 mm** liegen hinter dem festen Seitenfenster. Die Stirnseite zur Mittelbank ist durch die aufrechte Lehne verdeckt. Der Heckauszug bedient den hinteren Teil auf dem Motor, nicht diesen vorderen Kasten.
+
+| Zugang | Was | Wofür |
+| --- | --- | --- |
+| Seitlich, Schiebetür | rechtes Fach, ca. 300 mm tief, Klappe oder kurzer Auszug | Dinge im Stehen: Jacke, Schuhe, Tageszeug |
+| Von oben | vorderes Matratzenstück wegklappen, Deckel auf | der große Stauraum, ca. 680 mm, beim Campen von innen |
+| Optional | äußere Lehne der Mittelbank nach vorn klappen (auf den Fotos schon so) | dann ist auch die Stirnseite der Box frei |
+
 ### 4.4 Aufbau der Box (Sandwich)
 
 Von unten nach oben:
@@ -537,6 +547,7 @@ Suchkriterien:
 | 2026-09-24 | Schlafen auf der Box hinter der aufrechten Mittelbank; Verlängerungsplatte nur Reserve |
 | 2026-09-24 | Seitenansicht mit Maßen: vorderer Boxteil ca. 980 mm auf tiefem Boden, Heckteil auf dem Motor |
 | 2026-09-24 | Schiebetür nur rechts eingezeichnet: ca. 300 mm des vorderen Boxteils liegen in der Öffnung |
+| 2026-09-24 | Zugriff vordere Box: 300 mm seitlich an der Tür, Rest von oben unter der Matratze |
 
 ---
 
