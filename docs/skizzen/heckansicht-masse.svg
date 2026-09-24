@@ -1,87 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 860" font-family="Helvetica, Arial, sans-serif">
-  <rect width="1100" height="860" fill="#faf9f7"/>
-  <text x="550" y="36" text-anchor="middle" font-size="22" font-weight="700" fill="#1a1a1a">Heckansicht – Magdalena, Campingbox</text>
-  <text x="550" y="58" text-anchor="middle" font-size="13" fill="#555">Blick von hinten in die offene Heckklappe · Maße ca., Planwerte</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 820" font-family="Helvetica, Arial, sans-serif">
+  <rect width="1180" height="820" fill="#faf9f7"/>
+  <text x="590" y="34" text-anchor="middle" font-size="22" font-weight="700" fill="#1a1a1a">Heckansicht – über der Motorabdeckung</text>
+  <text x="590" y="56" text-anchor="middle" font-size="13" fill="#555">Blick von hinten · Boden der Ansicht = Oberkante Motordeckel · Maße ca.</text>
 
-  <!-- scale: 0.40 px per mm. Interior 1555 x 1465 → 622 x 586
-       origin interior: x=200, y=90 is ceiling, floor at y=90+586=676 -->
-  <!-- body shell -->
-  <rect x="170" y="70" width="682" height="640" rx="6" fill="none" stroke="#222" stroke-width="3"/>
-  <text x="511" y="88" text-anchor="middle" font-size="11" fill="#666">Hecköffnung</text>
+  <!-- scale 0.46 px/mm. Width 1555 → 715. Height above engine 1090 → 501.
+       Interior x=210..925, ceiling y=100, engine deck y=601 -->
+  <rect x="180" y="78" width="775" height="545" rx="6" fill="none" stroke="#222" stroke-width="3"/>
 
-  <!-- interior opening inset 15 px (~ wall) -->
-  <rect x="200" y="100" width="622" height="586" fill="#f4f1ec" stroke="#888" stroke-width="1.2"/>
+  <rect x="210" y="100" width="715" height="501" fill="#f4f1ec" stroke="#888" stroke-width="1.2"/>
 
-  <!-- mattress on platform: platform top at floor - 530mm = 676 - 212 = 464; mattress 100mm = 40px so top at 424 -->
-  <rect x="208" y="424" width="606" height="40" rx="3" fill="#3a3a3a"/>
-  <text x="511" y="449" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">Matratze ca. 100 mm · Liegebreite bis ca. 1550 mm</text>
+  <!-- free headroom 460 mm = 212 px, y=100 to 312 -->
+  <text x="567" y="190" text-anchor="middle" font-size="15" font-weight="700" fill="#333">frei über der Matratze ca. 460 mm</text>
+  <text x="567" y="214" text-anchor="middle" font-size="12" fill="#555">liegen ja, aufrecht sitzen eng</text>
 
-  <!-- box body under mattress from y=464 to y=676 (212 px = 530 mm) -->
-  <rect x="208" y="464" width="606" height="212" fill="#f3c7b8" stroke="#b8432a" stroke-width="2"/>
+  <!-- mattress 100 mm = 46 px, y=312..358 -->
+  <rect x="218" y="312" width="699" height="46" rx="3" fill="#3a3a3a"/>
+  <text x="567" y="340" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">Matratze ca. 100 mm</text>
 
-  <!-- LifeSaver on Schiebetürseite = vehicle right = LEFT of this view
-       bay width 380mm = 152 px, height 476mm = 190 px, sitting on floor: top at 676-190=486 -->
-  <rect x="216" y="486" width="152" height="182" rx="3" fill="#d6e4f0" stroke="#1e4a78" stroke-width="2"/>
-  <text x="292" y="560" text-anchor="middle" font-size="12" font-weight="700" fill="#1e3a5f">LifeSaver</text>
-  <text x="292" y="578" text-anchor="middle" font-size="11" fill="#1e3a5f">349 × 476</text>
-  <text x="292" y="594" text-anchor="middle" font-size="10" fill="#1e3a5f">stehend</text>
+  <!-- box 530 mm = 244 px, y=358..602 -->
+  <rect x="218" y="358" width="699" height="243" fill="#f3c7b8" stroke="#b8432a" stroke-width="2"/>
 
-  <!-- stove drawer: vehicle left side of opening = RIGHT of view, width 560mm=224px, height 150mm=60px, on floor -->
-  <rect x="560" y="608" width="244" height="60" rx="3" fill="#fff" stroke="#6e2414" stroke-width="2"/>
-  <text x="682" y="634" text-anchor="middle" font-size="12" font-weight="700" fill="#6e2414">Kocher-Auszug</text>
-  <text x="682" y="650" text-anchor="middle" font-size="11" fill="#6e2414">ca. 560 × 150 mm</text>
+  <!-- LifeSaver: vehicle right = left of view. 349 mm wide = 161 px, 476 mm = 219 px
+       floor y=601, top y=382. Platform at 358, so 24 px clearance under lid. -->
+  <rect x="228" y="382" width="161" height="211" rx="3" fill="#d6e4f0" stroke="#1e4a78" stroke-width="2"/>
+  <text x="308" y="470" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a5f">LifeSaver</text>
+  <text x="308" y="490" text-anchor="middle" font-size="12" fill="#1e3a5f">349 × 476 mm</text>
+  <text x="308" y="508" text-anchor="middle" font-size="11" fill="#1e3a5f">stehend</text>
+  <text x="308" y="575" text-anchor="middle" font-size="11" fill="#1e3a5f">Schiebetürseite</text>
 
-  <!-- storage above stove drawer, same column, up to platform -->
-  <rect x="378" y="472" width="426" height="128" rx="3" fill="#faf0eb" stroke="#b8432a" stroke-width="1.4"/>
-  <text x="591" y="530" text-anchor="middle" font-size="13" font-weight="700" fill="#6e2414">Stauraum</text>
-  <text x="591" y="548" text-anchor="middle" font-size="11" fill="#6e2414">Eurobox / Kühlbox</text>
-  <text x="591" y="566" text-anchor="middle" font-size="11" fill="#6e2414">ca. 1000 × 320 mm</text>
+  <!-- storage above drawer: from x=400 to 908, y=366 to 528 -->
+  <rect x="404" y="368" width="503" height="152" rx="3" fill="#faf0eb" stroke="#b8432a" stroke-width="1.4"/>
+  <text x="655" y="440" text-anchor="middle" font-size="14" font-weight="700" fill="#6e2414">Stauraum Eurobox / Kühlbox</text>
+  <text x="655" y="462" text-anchor="middle" font-size="12" fill="#6e2414">über dem Auszug</text>
 
-  <!-- small gap column between LS and storage is included in storage start.
-       LS is 216-368. Storage starts 378. Stove is 560-804. 
-       There's a gap 378-560 above the... wait stove is only at the bottom right.
-       Left of stove under the storage should also be storage. I drew storage from 378 covering above stove. Good.
-       Area x=378 to 560, y=608 to 668 is NOT the stove (stove starts 560). That's empty in my drawing - should be part of drawer or storage.
-       Widen stove drawer to start at 378 so the pull-out is the full width except LifeSaver.
-       378 to 804 = 426 px = 1065 mm. Stove needs only 560, rest of drawer can hold gas cartridge.
-       Let me fix by overlaying a wider drawer. I'll redraw drawer from 378.
-  -->
-  <rect x="378" y="608" width="426" height="60" rx="3" fill="#fff" stroke="#6e2414" stroke-width="2"/>
-  <text x="500" y="632" text-anchor="middle" font-size="12" font-weight="700" fill="#6e2414">Kocher ca. 490 × 100</text>
-  <text x="700" y="632" text-anchor="middle" font-size="12" font-weight="700" fill="#6e2414">Gas</text>
-  <text x="591" y="652" text-anchor="middle" font-size="11" fill="#6e2414">Heckauszug, lichte Höhe ca. 150 mm · Breite ca. 1060 mm</text>
+  <!-- drawer 150 mm = 69 px, y=532..601, width except lifesaver -->
+  <rect x="404" y="528" width="503" height="68" rx="3" fill="#fff" stroke="#6e2414" stroke-width="2"/>
+  <text x="560" y="556" text-anchor="middle" font-size="13" font-weight="700" fill="#6e2414">Doppelkocher ca. 490 × 100</text>
+  <text x="800" y="556" text-anchor="middle" font-size="13" font-weight="700" fill="#6e2414">Gas</text>
+  <text x="655" y="578" text-anchor="middle" font-size="11" fill="#6e2414">Heckauszug, Höhe ca. 150 mm</text>
+  <text x="820" y="400" text-anchor="middle" font-size="11" fill="#333">Fahrerseite</text>
 
-  <!-- side labels -->
-  <text x="292" y="668" text-anchor="middle" font-size="10" fill="#1e3a5f">rechts · Schiebetür</text>
-  <text x="730" y="460" text-anchor="middle" font-size="10" fill="#333">links · Fahrerseite</text>
+  <!-- width dim -->
+  <line x1="210" y1="650" x2="925" y2="650" stroke="#333" stroke-width="1.3"/>
+  <polygon points="210,650 220,646 220,654" fill="#333"/>
+  <polygon points="925,650 915,646 915,654" fill="#333"/>
+  <text x="567" y="672" text-anchor="middle" font-size="13" font-weight="700">Innenbreite hinten ca. 1555 mm</text>
 
-  <!-- headroom label -->
-  <text x="511" y="280" text-anchor="middle" font-size="13" fill="#444">frei über der Matratze ca. 830 mm</text>
-  <text x="511" y="300" text-anchor="middle" font-size="12" fill="#777">Innenhöhe gesamt ca. 1465 mm</text>
+  <!-- box height dim -->
+  <line x1="155" y1="358" x2="155" y2="601" stroke="#b8432a" stroke-width="1.4"/>
+  <polygon points="155,358 151,368 159,368" fill="#b8432a"/>
+  <polygon points="155,601 151,591 159,591" fill="#b8432a"/>
+  <text x="138" y="490" transform="rotate(-90 138 490)" font-size="12" font-weight="700" fill="#b8432a">Box ca. 530</text>
 
-  <!-- dimension: interior width -->
-  <line x1="200" y1="730" x2="822" y2="730" stroke="#333" stroke-width="1.3"/>
-  <polygon points="200,730 210,726 210,734" fill="#333"/>
-  <polygon points="822,730 812,726 812,734" fill="#333"/>
-  <text x="511" y="752" text-anchor="middle" font-size="13" font-weight="700">Innenbreite hinten ca. 1555 mm</text>
+  <!-- height above engine -->
+  <line x1="960" y1="100" x2="960" y2="601" stroke="#555" stroke-width="1.3"/>
+  <polygon points="960,100 956,110 964,110" fill="#555"/>
+  <polygon points="960,601 956,591 964,591" fill="#555"/>
+  <text x="978" y="360" transform="rotate(90 978 360)" font-size="12" font-weight="700" fill="#222">Motordeckel bis Himmel ca. 1090 mm</text>
 
-  <!-- dimension: box height -->
-  <line x1="150" y1="464" x2="150" y2="676" stroke="#b8432a" stroke-width="1.4"/>
-  <polygon points="150,464 146,474 154,474" fill="#b8432a"/>
-  <polygon points="150,676 146,666 154,666" fill="#b8432a"/>
-  <text x="132" y="580" transform="rotate(-90 132 580)" font-size="12" font-weight="700" fill="#b8432a">Box ca. 530</text>
+  <!-- engine bar -->
+  <rect x="210" y="601" width="715" height="28" fill="#c8c8c8" stroke="#555" stroke-width="1.5"/>
+  <text x="567" y="620" text-anchor="middle" font-size="12" font-weight="700" fill="#333">Oberkante Motorabdeckung · Ladekante hinten ca. 820 mm über der Fahrbahn</text>
 
-  <!-- dimension: interior height -->
-  <line x1="860" y1="100" x2="860" y2="676" stroke="#555" stroke-width="1.3"/>
-  <polygon points="860,100 856,110 864,110" fill="#555"/>
-  <polygon points="860,676 856,666 864,666" fill="#555"/>
-  <text x="878" y="400" transform="rotate(90 878 400)" font-size="12" fill="#333">Innenhöhe ca. 1465 mm</text>
-
-  <!-- load height -->
-  <line x1="200" y1="676" x2="822" y2="676" stroke="#222" stroke-width="3"/>
-  <text x="210" y="698" font-size="12" fill="#333">Ladekante ca. 820 mm über der Fahrbahn</text>
-
-  <!-- exterior width note -->
-  <text x="550" y="800" text-anchor="middle" font-size="12" fill="#444">Außenbreite Syncro ca. 1845 mm · Kocher-Tiefe im Auszug ca. 400 mm · LifeSaver-Tiefe ca. 171 mm</text>
-  <text x="550" y="824" text-anchor="middle" font-size="11" fill="#888">Blick von hinten: links im Bild = Fahrzeugrechts (Schiebetür). Maße sind Planwerte, nicht für den Zuschnitt.</text>
+  <text x="590" y="710" text-anchor="middle" font-size="12" fill="#444">1465 mm Innenhöhe gelten vom tiefen Laderaumboden. Der Motordeckel liegt ca. 375 mm höher (820 − 445 mm Beladehöhe).</text>
+  <text x="590" y="732" text-anchor="middle" font-size="12" fill="#444">1090 = 1465 − 375. Am Bus nachmessen, Syncro-Kabine ist nicht höher als der 2WD.</text>
+  <text x="590" y="758" text-anchor="middle" font-size="11" fill="#888">Links im Bild = Fahrzeugrechts (Schiebetür). Planwerte, nicht für den Zuschnitt.</text>
 </svg>

@@ -91,7 +91,10 @@ Karosserieinnenraum von Kastenwagen, Kombi und Bus ist im Rohbau gleich; Sitze u
 | Laderaumbreite hinten (max.) | **1555 mm** | militärfahrzeuge.ch |
 | Schiebetür-Öffnung Breite | **1060 mm** | militärfahrzeuge.ch |
 | Schiebetür-Öffnung Höhe | **1315 mm** | militärfahrzeuge.ch |
-| Innenhöhe Laderaum (Normaldach) | **1465 mm** | Wikipedia T3 / militärfahrzeuge.ch |
+| Innenhöhe Laderaum (Normaldach, tiefer Boden) | **1465 mm** | Wikipedia T3 / militärfahrzeuge.ch |
+| Beladehöhe seitlich / hinten | ca. **445 / 820 mm** | militärfahrzeuge.ch |
+| Motordeckel über dem tiefen Boden | ca. **375 mm** | 820 − 445 |
+| **Oberkante Motordeckel bis Himmel** | ca. **1090 mm** | 1465 − 375; gilt für die Heckansicht |
 | Beladehöhe Heckklappe | ca. **820 mm** über Fahrbahn | militärfahrzeuge.ch |
 | Beladehöhe Schiebetür | ca. **445 mm** | militärfahrzeuge.ch |
 
@@ -254,7 +257,8 @@ Bezug: Multivan-Werksbett **1880 × 1600 mm**; verfügbare Heckzone hinter Reihe
 | Matratze | 2× 70 cm oder 1× 140–155 × 190 cm, 10–12 cm | belüftet (Latten / Noppenfolie) |
 | Box-Höhe Außen | **ca. 530 mm** | LifeSaver stehend 476 mm + Boden/Deckel; vorher 450–550 |
 | Zone über Motor | Aussparung / Klappe **~910 × 1190 mm** | analog Westfalia-Motorraumpolster |
-| Innenhöhe über Matratze | Rest aus **1465 mm** − Box − Matratze ≈ **900–1000 mm** | sitzend ok, nicht stehend |
+| Höhe über dem Motordeckel | ca. **1090 mm** bis Himmel | Heckansicht; 1465 mm sind der tiefe Boden weiter vorn |
+| Frei über der Matratze hinten | ca. **460 mm** | 1090 − Box 530 − Matratze 100; liegen ja, aufrecht sitzen eng |
 | Gewicht Box leer | **Ziel ≤ 40–50 kg** | handhabbar zu zweit |
 | Stauraum unter Deckel | Eurobox 600×400 Raster | 2–3 Boxen quer/längs + Kühlbox-Fach |
 
@@ -525,6 +529,7 @@ Suchkriterien:
 | 2026-09-22 | LifeSaver Jerrycan 18,5 l als stehendes Heckfach eingeplant; Boxhöhe ca. 530 mm |
 | 2026-09-24 | Doppel-Gaskocher im Heckauszug eingeplant (Fach ≥ 560×400×150 mm) |
 | 2026-09-24 | Heckansicht mit ca.-Maßen (Breite, Höhe, Box, LifeSaver, Kocher) |
+| 2026-09-24 | Heckhöhe korrigiert: ca. 1090 mm ab Motordeckel, nicht 1465 mm ab tiefem Boden |
 
 ---
 
