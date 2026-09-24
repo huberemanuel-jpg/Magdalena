@@ -31,7 +31,7 @@ Die Campingbox bleibt so, bis am Bus nachgemessen wird. Kein Materialzuschnitt i
 
 **Schlafen, Richtung ab 2026-09-24:** zwei Erwachsene im Bus, bis zu drei Kinder im Dachzelt auf dem vorhandenen Pongratz 230er Heavy. Das Busdach bleibt Gepäckfläche (Abschnitt 7.2a).
 
-**Noch nicht entschieden:** Zurrpunkte, Materialliste, Zuschnitt, konkreter Anhänger.
+**Noch nicht entschieden an der Box:** Zurrpunkte, Materialliste, Zuschnitt. Der Anhänger ist der Pongratz 230er Heavy (Abschnitt 7.1).
 
 ---
 
@@ -191,7 +191,7 @@ KDO-F-Sonderaufbauten können abweichen (z. B. 2+3+2+2). Beim ersten Zugang kurz
 | Tagsüber / Fahrt | ≥ 5 Sitzplätze (Fahrer + Beifahrer + mind. 3 hinten) |
 | Gepäck sperrig / Räder | Pongratz 230er Heavy: 2 MTB an der Deichsel, Kinderräder in der Mulde |
 | Gepäck auf dem Busdach | Reisegepäck auf dem Westfalia-Träger, innerhalb der Dachlast |
-| Koch / Nasszelle | bewusst **nicht** im Bus (Erhalt + Platz) – Kocher am Camp oder Anhänger-Box |
+| Koch / Nasszelle | keine feste Küche. Doppelkocher lose im Heckauszug, nur bei offener Heckklappe |
 | Standheizung | Webasto bleibt nutzbar; Box darf Luftführung nicht blockieren |
 
 ### 3.1 Sitzlayout Ist-Zustand (Innenraumfotos)
@@ -645,6 +645,7 @@ Ein Dachzelt auf dem T3 würde die Dachlast von oft **100 kg** zusammen mit dem 
 | 2026-09-24 | Schlafen: Erwachsene im Bus, Kinder im Dachzelt auf dem Anhänger; Busdach nur Gepäck. Blaulicht und Sirene bei der Zivilanmeldung abbauen |
 | 2026-09-24 | Anhänger festgelegt: Pongratz 230er Heavy, Stützlast 75 kg; 2 MTB an der Deichsel, Kinderräder in der Mulde |
 | 2026-09-24 | Heavy 230/125 mit Aufsatzwänden: Kinderräder stehen. Zelt auf Lastenträger oder eigene Querträger, nicht auf den Polyesterdeckel |
+| 2026-09-24 | Box-Follow-up: Geometrie bleibt pausiert; Anhänger ist entschieden, Kocher bleibt im Heckauszug |
 
 ---
 
