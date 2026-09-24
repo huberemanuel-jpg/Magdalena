@@ -19,7 +19,7 @@ Die Campingbox bleibt so, bis am Bus nachgemessen wird. Kein Materialzuschnitt i
 
 **Höhen:** 1465 mm gelten vom tiefen Boden. Der Motordeckel liegt ca. 375 mm höher. Vom Motordeckel bis zum Himmel ca. 1090 mm. Frei über der Matratze hinten ca. 460 mm. Darauf sitzen ist nicht das Ziel.
 
-**Box:** Liege oben, eben. Vorderer Teil ca. 980 mm auf dem tiefen Boden, Stauraum dort ca. 900 mm hoch. Heckteil auf der Motorabdeckung, Höhe ca. 530 mm, dieselbe Höhe wie zuvor für den LifeSaver. Der hohe Kasten ist Stauraum, nicht Sitzfreiheit.
+**Box:** Liege oben, eben. Vorderer Teil ca. 980 mm auf dem tiefen Boden, Stauraum dort ca. 900 mm hoch. Heckteil auf der Motorabdeckung ca. **910 × 1550 × 530 mm** (Länge × Breite × Höhe). Die Motorabdeckung selbst ist nur ca. 1190 mm breit, der Kasten geht bis an die Seiten. Der hohe Kasten ist Stauraum, nicht Sitzfreiheit.
 
 **Heckauszug** (von der Heckklappe): flacher Wasserkanister, Höhe max. 170 mm, ca. 20 l, neben dem Doppel-Gaskocher (Fach mind. 560 × 400 × 150 mm). Darüber der große Stauraum. Der LifeSaver Jerrycan bleibt draußen. Kochen nur bei offener Heckklappe.
 
@@ -656,6 +656,7 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | 2026-09-24 | Heavy 230/125 mit Aufsatzwänden: Kinderräder stehen. Zelt auf Lastenträger oder eigene Querträger, nicht auf den Polyesterdeckel |
 | 2026-09-24 | LifeSaver Jerrycan raus. Heckteil ca. 220 mm, flacher 20-l-Kanister, ca. 770 mm über der Matratze |
 | 2026-09-24 | Heckteil wieder ca. 530 mm wegen Stauraum. Sitzen zu fünft im Vorzelt, nicht auf der Liege |
+| 2026-09-24 | Heckteil bemaßt: ca. 910 × 1550 × 530 mm, in Seiten- und Heckansicht eingezeichnet |
 | 2026-09-24 | Box-Follow-up: Geometrie bleibt pausiert; Anhänger ist entschieden, Kocher bleibt im Heckauszug |
 
 ---

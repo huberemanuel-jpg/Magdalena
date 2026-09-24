@@ -67,8 +67,8 @@
 
   <!-- rear box on engine: x=736 to 973, platform y=245 to engine deck y=383 -->
   <rect x="736" y="245" width="237" height="138" fill="#f3c7b8" stroke="#b8432a" stroke-width="2.5"/>
-  <text x="854" y="300" text-anchor="middle" font-size="12" font-weight="700" fill="#6e2414">Heckteil auf Motor</text>
-  <text x="854" y="320" text-anchor="middle" font-size="11" fill="#6e2414">Boxhöhe ca. 530 mm</text>
+  <text x="854" y="305" text-anchor="middle" font-size="12" font-weight="700" fill="#6e2414">Heckteil auf Motor</text>
+  <text x="854" y="323" text-anchor="middle" font-size="11" fill="#6e2414">910 × 530 mm</text>
   <rect x="750" y="340" width="210" height="32" rx="3" fill="#fff" stroke="#6e2414" stroke-width="1.4"/>
   <text x="855" y="360" text-anchor="middle" font-size="11" font-weight="700" fill="#6e2414">Stauraum über dem Auszug</text>
 
@@ -80,6 +80,21 @@
   <text x="388" y="190" text-anchor="middle" font-size="11" fill="#1a4a8a">Öffnung ca. 1060 × 1315 mm</text>
   <rect x="448" y="245" width="78" height="246" fill="#2e7d32" fill-opacity="0.22" stroke="#1b5e20" stroke-width="1.5"/>
   <text x="487" y="470" text-anchor="middle" font-size="11" font-weight="700" fill="#1b5e20" transform="rotate(-90 487 470)">Türzugang ca. 300 mm</text>
+
+  <!-- Heckteil: Länge 910 mm über der Motorzone, Höhe 530 mm ab Motordeckel -->
+  <line x1="736" y1="198" x2="973" y2="198" stroke="#b8432a" stroke-width="1.6"/>
+  <line x1="736" y1="198" x2="736" y2="245" stroke="#b8432a" stroke-width="1"/>
+  <line x1="973" y1="198" x2="973" y2="245" stroke="#b8432a" stroke-width="1"/>
+  <polygon points="736,198 746,194 746,202" fill="#b8432a"/>
+  <polygon points="973,198 963,194 963,202" fill="#b8432a"/>
+  <text x="854" y="190" text-anchor="middle" font-size="12" font-weight="700" fill="#b8432a">Heckteil Länge ca. 910 mm</text>
+
+  <line x1="1002" y1="245" x2="1002" y2="383" stroke="#b8432a" stroke-width="1.6"/>
+  <line x1="973" y1="245" x2="1002" y2="245" stroke="#b8432a" stroke-width="1"/>
+  <line x1="973" y1="383" x2="1002" y2="383" stroke="#b8432a" stroke-width="1"/>
+  <polygon points="1002,245 998,255 1006,255" fill="#b8432a"/>
+  <polygon points="1002,383 998,373 1006,373" fill="#b8432a"/>
+  <text x="1016" y="324" transform="rotate(90 1016 324)" font-size="12" font-weight="700" fill="#b8432a">Höhe ca. 530 mm</text>
 
   <!-- hatch -->
   <path d="M973 110 L1040 190" stroke="#222" stroke-width="2.5" fill="none"/>
@@ -102,7 +117,7 @@
   <text x="710" y="662" text-anchor="middle" font-size="12" font-weight="700" fill="#8a3218">Liege hinter der Bank ca. 1890 mm</text>
 
   <line x1="448" y1="700" x2="736" y2="700" stroke="#8a3218" stroke-width="1.2"/>
-  <text x="592" y="722" text-anchor="middle" font-size="12" fill="#8a3218">davon vorderer Teil ca. 980 mm · Motorzone ca. 910 mm</text>
+  <text x="592" y="722" text-anchor="middle" font-size="12" fill="#8a3218">davon vorderer Teil ca. 980 mm</text>
 
   <!-- height dims -->
   <line x1="40" y1="110" x2="40" y2="491" stroke="#555" stroke-width="1.2"/>
