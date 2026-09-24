@@ -21,7 +21,7 @@ Die Campingbox bleibt so, bis am Bus nachgemessen wird. Kein Materialzuschnitt i
 
 **Box:** Liege oben, eben. Vorderer Teil ca. 980 mm auf dem tiefen Boden, Stauraum dort ca. 900 mm hoch. Heckteil auf der Motorabdeckung ca. **910 × 1550 × 530 mm** (Länge × Breite × Höhe). Die Motorabdeckung selbst ist nur ca. 1190 mm breit, der Kasten geht bis an die Seiten. Der hohe Kasten ist Stauraum, nicht Sitzfreiheit.
 
-**Heckauszug** (von der Heckklappe): flacher Wasserkanister, Höhe max. 170 mm, ca. 20 l, neben dem Doppel-Gaskocher. Der Kocher steht **längs** in einem Auszug von ca. **800 × 450 × 150 mm**, damit ein 2-Flammer mit ca. 600 mm Breite hineinpasst. Darüber der große Stauraum. Der LifeSaver Jerrycan bleibt draußen. Kochen nur bei offener Heckklappe.
+**Heckauszug** (von der Heckklappe): ein **Schwerlastauszug**, ca. 800 mm lang und über die Breite verteilt. Darin nebeneinander: Doppelkocher längs (ca. 600 mm in Fahrtrichtung), Kühlbox ca. 36 l zwischen Kanister und Kocher, flacher Wasserkanister 20 l. Der LifeSaver Jerrycan bleibt draußen. Kochen nur bei offener Heckklappe. Der hohe Stauraum über diesem Auszug entfällt, der bleibt im vorderen Boxteil.
 
 **Schlechtwetter:** Aufenthalt zu fünft im Vorzelt an der Schiebetür, nicht auf der Liege. Abschnitt 7.3.
 
@@ -309,7 +309,7 @@ Heckklappe  ← Beladehöhe ~820 mm | Öffnung nutzt Innenbreite ~1555 mm
 │ │  Liegefläche auf Box-Deckel             │ │  Box ~1550 mm breit
 │ │  + Verlängerung → Σ Länge ~1880–1900 mm │ │  Box ~1500–1700 mm tief
 │ └─────────────────────────────────────────┘ │
-│ │ Stauraum Eurobox / Kühlbox ~530 mm hoch    │ │
+│ │ Schwerlastauszug: Kocher, Kühlbox, Kanister │ │
 └─────────────────────────────────────────────┘
          ↑ Zurrgurte (Detail später)
 ┌─────────────────────────────────────────────┐
@@ -368,9 +368,9 @@ Priorisierte Packliste (nur was wirklich im Bus bleiben soll):
 | 1 | Schlafsäcke / Decken / Kissen (tags) | Kompressionsbeutel |
 | 2 | Wechselkleidung 2 Erwachsene | 1× Eurobox 600×400 |
 | 3 | Küchen-Minimum (Gas abseits Fahrzeugregeln beachten) | 1× flache Box |
-| 4 | Kühlbox 12 V (kompressor, schmal) | z. B. ~20–30 l, Quereinbau |
+| 4 | **Kühlbox 12 V, Kompressor, ca. 36 l** | im Schwerlastauszug, zwischen Kanister und Kocher |
 | 0 | **flacher Wasserkanister, ca. 20 l** | Heckfach, liegend, Höhe max. 170 mm |
-| 0b | **Doppel-Gaskocher** | Auszug längs, Fach ca. 800×450×150 mm |
+| 0b | **Doppel-Gaskocher** | im Schwerlastauszug, längs, daneben Kühlbox und Kanister |
 | 5 | Werkzeug / Recovery klein | 1 Fach, zugänglich von Heck |
 | — | Rucksäcke, Kinder-Dachzelt, Fahrräder | **→ Anhänger**; Busdach nur Reisegepäck |
 
@@ -398,17 +398,26 @@ Reliance Aqua-Tainer 15 l ist 29 × 29 × 27,5 cm und bleibt zu hoch. Der 26-l-K
 
 ### 4.6b Doppel-Gaskocher im Heckauszug
 
-Der Heckauszug nimmt neben dem Stauraum einen **2-Flammen-Kocher** auf. Der Heckteil ist ca. 910 mm tief, der Auszug liegt **längs** darin, ca. 800 mm lang. Damit passt ein Doppelkocher mit ca. **600 mm Breite**: die 600 mm zeigen in Fahrtrichtung, nicht quer. In den restlichen ca. 200 mm des Auszugs stehen Kartusche und eine flache Besteckrolle.
+Der Heckauszug ist ein **Schwerlast-Vollauszug**. Darauf stehen nebeneinander der Kocher, die Kühlbox und der Wasserkanister. Der Heckteil ist 910 mm tief und 1550 mm breit, der Deckel liegt 530 mm über dem Motor.
 
-Zum Vergleich die kleinere Klasse Campingaz Camping Kitchen 2: geschlossen **490 × 320 × 100 mm**, offen **490 × 350 × 350 mm**. Die passt auch. Die Fachhöhe bleibt 150 mm, geschlossen. Offen ist der Kocher ca. 35 cm hoch und steht dafür vor der Ladekante.
+Für fünf Personen wäre eine Kühlbox um 45 l angenehm. Die gängige Klasse in der Größe, zum Beispiel die [Dometic CFX3 45](https://www.campingshop.ch/dometic-cfx3-45-ac-dc-kompressor-kuehlbox-46-liter/CS151783), ist außen 694 × 398 × **476 mm** hoch. Mit Führung unter dem Boden passt das nicht mehr unter den 530-mm-Deckel. Die nächste Klasse, die hineinpasst, ist ca. **36 l** und ca. **407 mm** hoch, Beispiel [Dometic CFX3 35](https://www.kuehlboxtests.de/kuehlboxen/dometic-cfx3-35/): 694 × 398 × 407 mm, leer ca. 17 kg. Das ist der Vorrat für Milch, Aufschnitt und ein paar Getränke über zwei bis drei Tage, nicht der Getränkekeller für eine Woche.
+
+Hinter dem Kanister hat die Kühlbox keinen Platz. Der Auszug ist 800 mm tief, der Kanister belegt davon ca. 460 mm, die Kühlbox ist selbst ca. 694 mm lang. 460 + 694 liegen über 800. Sie steht deshalb **zwischen Kanister und Kocher**, quer nebeneinander:
+
+| Platz von links nach rechts | Maß | Höhe |
+| --- | --- | --- |
+| Wasserkanister 20 l, flach | Grundfläche ca. 350 × 460 mm | 170 mm |
+| Kühlbox ca. 36 l | ca. 694 × 398 mm | 407 mm |
+| Doppelkocher, 600 mm in Fahrtrichtung | quer ca. 450 mm, längs 800 mm Fach | geschlossen 100–110 mm, Fachhöhe 150 mm |
+
+Der Kocher bleibt längs. In seinen 800 mm bleiben hinter den 600 mm ca. 200 mm für Kartusche und Besteckrolle. Die Kühlbox füllt ihre Spur fast auf ganzer Tiefe.
 
 | | Plan |
 | --- | --- |
-| Lage | im **Heckauszug**, **längs**, Deckel nach oben. Die 600 mm Breite laufen in Fahrtrichtung |
-| Lichtes Fach | ca. **800 × 450 × 150 mm** (Länge × Breite quer × Höhe). 800 mm lassen im 910-mm-Heckteil ca. 110 mm für Stirnwand und Führung |
-| Betrieb | Auszug so weit heraus, dass der Kocher **vor der Ladekante** steht und der Deckel frei aufklappen kann. Voll ausgezogen hängen ca. 80 cm hinter dem Heck. Der Kasten ist nur verzurrt, der Auszug wird beim Kochen nicht als Tisch belastet |
-| Gas und Besteck | im selben Auszug hinter dem Kocher, in den ca. 200 mm. Kartusche stehend und verzurrt. Eine kleine Kartusche wie die CV 300 Plus ist ca. Ø 90 × 105 mm |
-| Wasser | flacher Kanister im Nachbarfach, Höhe max. 170 mm. Darüber und neben dem Auszug liegt der Stauraum der 530-mm-Box |
+| Auszug | ca. **800 × 1400 × 450 mm** lichte Spur (Länge × Breite × Höhe bis unter den Deckel). Schwerlast-Vollauszug, Tragkraft mit Reserve über 100 kg, bei der Breite eine Führung links, rechts und in der Mitte |
+| Gewicht grob | Kühlbox beladen ca. 30 kg, Wasser 20 kg, Kocher mit Kartusche ca. 5 kg, plus Auszug. Beim Kochen kommt das nach hinten heraus. Gurte am Kasten müssen das halten. Kein Tisch |
+| Betrieb | Auszug so weit heraus, dass der Kocher vor der Ladekante steht und der Deckel aufgehen kann (offen ca. 35 cm). Die Kühlbox fährt mit |
+| Strom | 12 V über eigene Sicherung, nicht dauerhaft am nackten Zigarettenanzünder. Die 36-l-Klasse zieht im Betrieb grob 4–5 A |
 
 Kochen nur bei **offener Heckklappe** und ausgezogenem Kocher, nicht im geschlossenen Bus. Die Geräte dieser Klasse sind laut Hersteller nicht für geschlossene Räume. Keine feste Gasanlage, kein Einbaukocher – der Kocher bleibt ein herausnehmbares Campinggerät.
 
@@ -585,7 +594,8 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | Küche fest | nein | Kocher bleibt loses Gerät im Auszug |
 | Trinkwasser | flacher Kanister ca. 20 l, Höhe max. 170 mm | LifeSaver bleibt draußen. Die 530 mm Höhe bleibt für den Stauraum |
 | Aufenthalt Regen | Vorzelt an der Schiebetür, 5 Personen | im Bus wird gelegen, nicht gesessen |
-| Kocher | 2-Flammer längs im Heckauszug, Fach ca. 800×450×150 mm | 60-cm-Breite passt in die 91 cm Tiefe; nur bei offener Klappe |
+| Kocher | 2-Flammer längs im Schwerlastauszug | 600 mm in Fahrtrichtung, Kartusche in den restlichen 200 mm |
+| Kühlbox | ca. 36 l, ca. 407 mm hoch, zwischen Kanister und Kocher | 45 l ist ca. 476 mm hoch und passt nicht unter den 530-mm-Deckel |
 | Zugriff vorn | 300 mm seitlich an der rechten Schiebetür, Rest von oben | Türöffnung deckt den Kasten nicht auf ganzer Länge |
 | Schlafen Kinder | Dachzelt auf dem Pongratz 230er Heavy | Ladefläche 223 × 125 cm; Busdach nur Gepäck |
 | Räder | 2 MTB an der Deichsel, Kinderräder im Hänger | Stützlast eingetragen 75 kg; mit Waage prüfen |
@@ -610,6 +620,8 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | [Pongratz EPA 230/12 G-RS-STK](https://pongratztrailers.com/anhaenger/epa-230-12-g-rs-stk.1300/) | 230er-Heavy-Serie: 2230×1250×400 mm, 1300/286/1014 kg |
 | [Nakatanenga Wasserkanister](https://www.dachzelt24.de/kunststoff-wasserkanister-wassertank-mit-ausgusshahn-20l-oder-10l/NAWTAN020-GRY) | 20 l: 350×460×170 mm; 10 l: 260×370×140 mm |
 | [RotopaX 2 Gallon Water](https://www.rotopax.com/products/2-gallon-water) | 7,6 l, 457×356×76 mm |
+| [Dometic CFX3 35](https://www.kuehlboxtests.de/kuehlboxen/dometic-cfx3-35/) | Kühlbox-Klasse 36 l: 694×398×407 mm |
+| [Dometic CFX3 45](https://www.campingshop.ch/dometic-cfx3-45-ac-dc-kompressor-kuehlbox-46-liter/CS151783) | 46 l: 694×398×476 mm, zu hoch für 530 mm Deckel |
 | Pongratz Anleitungen Lastenträger, Dachträger am Polyesterdeckel, PE-Deckel mit Aufsatzwand | Träger statt Deckel klemmt auf die Bordwand; Dachträger am Deckel ist Leichtgut |
 
 ---
@@ -659,6 +671,7 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | 2026-09-24 | Heckteil wieder ca. 530 mm wegen Stauraum. Sitzen zu fünft im Vorzelt, nicht auf der Liege |
 | 2026-09-24 | Heckteil bemaßt: ca. 910 × 1550 × 530 mm, in Seiten- und Heckansicht eingezeichnet |
 | 2026-09-24 | Kocherauszug längs, ca. 800 mm, damit ein 2-Flammer mit ca. 600 mm Breite hineinpasst |
+| 2026-09-24 | Schwerlastauszug: Kühlbox ca. 36 l zwischen Kanister und Kocher. 45 l ist zu hoch |
 | 2026-09-24 | Box-Follow-up: Geometrie bleibt pausiert; Anhänger ist entschieden, Kocher bleibt im Heckauszug |
 
 ---

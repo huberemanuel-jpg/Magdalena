@@ -20,19 +20,21 @@
   <!-- box 530 mm = 243 px, y=358..601 -->
   <rect x="218" y="358" width="699" height="243" fill="#f3c7b8" stroke="#b8432a" stroke-width="2"/>
 
-  <rect x="228" y="368" width="679" height="145" rx="3" fill="#faf0eb" stroke="#b8432a" stroke-width="1.4"/>
-  <text x="567" y="440" text-anchor="middle" font-size="14" font-weight="700" fill="#6e2414">Stauraum, Euroboxen, Besteck</text>
-  <text x="567" y="462" text-anchor="middle" font-size="12" fill="#6e2414">über Kanister und Kocher</text>
+  <!-- heavy drawer, cooler 407 mm = 187 px sets the height. Order: can, cooler, stove -->
+  <rect x="228" y="414" width="679" height="187" rx="2" fill="none" stroke="#6e2414" stroke-width="1.6"/>
 
-  <!-- flat can 170 mm = 78 px, on the engine deck -->
-  <rect x="228" y="521" width="161" height="78" rx="3" fill="#d6e4f0" stroke="#1e4a78" stroke-width="2"/>
-  <text x="308" y="554" text-anchor="middle" font-size="12" font-weight="700" fill="#1e3a5f">Wasser 20 l</text>
-  <text x="308" y="572" text-anchor="middle" font-size="11" fill="#1e3a5f">170 mm flach</text>
+  <rect x="238" y="521" width="150" height="78" rx="3" fill="#d6e4f0" stroke="#1e4a78" stroke-width="2"/>
+  <text x="313" y="554" text-anchor="middle" font-size="12" font-weight="700" fill="#1e3a5f">Wasser 20 l</text>
+  <text x="313" y="572" text-anchor="middle" font-size="11" fill="#1e3a5f">170 mm flach</text>
 
-  <!-- stove drawer across the van is only ~450 mm = 207 px. The 800 mm length runs into the page. -->
-  <rect x="700" y="530" width="207" height="69" rx="3" fill="#fff" stroke="#6e2414" stroke-width="2"/>
-  <text x="803" y="558" text-anchor="middle" font-size="12" font-weight="700" fill="#6e2414">Kocher längs</text>
-  <text x="803" y="576" text-anchor="middle" font-size="11" fill="#6e2414">quer 450, tief 800</text>
+  <rect x="404" y="422" width="183" height="175" rx="3" fill="#d9ead3" stroke="#2e7d32" stroke-width="2"/>
+  <text x="495" y="500" text-anchor="middle" font-size="13" font-weight="700" fill="#1b5e20">Kühlbox</text>
+  <text x="495" y="520" text-anchor="middle" font-size="12" fill="#1b5e20">ca. 36 l</text>
+  <text x="495" y="538" text-anchor="middle" font-size="11" fill="#1b5e20">407 mm hoch</text>
+
+  <rect x="602" y="530" width="207" height="67" rx="3" fill="#fff" stroke="#6e2414" stroke-width="2"/>
+  <text x="705" y="558" text-anchor="middle" font-size="12" font-weight="700" fill="#6e2414">Kocher längs</text>
+  <text x="705" y="576" text-anchor="middle" font-size="11" fill="#6e2414">600 mm in der Tiefe</text>
 
   <!-- Heckteil width: box x=218..917 -->
   <line x1="218" y1="601" x2="218" y2="648" stroke="#b8432a" stroke-width="1"/>

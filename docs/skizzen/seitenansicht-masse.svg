@@ -67,11 +67,11 @@
 
   <!-- rear box on engine: x=736 to 973, platform y=245 to engine deck y=383 -->
   <rect x="736" y="245" width="237" height="138" fill="#f3c7b8" stroke="#b8432a" stroke-width="2.5"/>
-  <text x="854" y="285" text-anchor="middle" font-size="12" font-weight="700" fill="#6e2414">Heckteil auf Motor</text>
-  <text x="854" y="303" text-anchor="middle" font-size="11" fill="#6e2414">910 × 530 mm, Stauraum oben</text>
-  <!-- drawer 800 mm = 208 px, from the tail x=973 inward. 150 mm = 39 px -->
-  <rect x="765" y="344" width="208" height="39" rx="2" fill="#fff" stroke="#6e2414" stroke-width="1.6"/>
-  <text x="869" y="368" text-anchor="middle" font-size="11" font-weight="700" fill="#6e2414">Auszug längs ca. 800 mm</text>
+  <!-- heavy drawer 800 mm = 208 px from the tail, height 450 mm = 117 px -->
+  <rect x="765" y="266" width="208" height="117" rx="2" fill="#fff" stroke="#6e2414" stroke-width="1.6"/>
+  <text x="869" y="312" text-anchor="middle" font-size="11" font-weight="700" fill="#6e2414">Schwerlastauszug</text>
+  <text x="869" y="328" text-anchor="middle" font-size="11" fill="#6e2414">ca. 800 mm lang</text>
+  <text x="869" y="346" text-anchor="middle" font-size="10" fill="#6e2414">Kocher, Kühlbox, Kanister</text>
 
   <!-- Schiebetür rechts. Öffnung 1060×1315 mm, angesetzt am Laderaumanfang (x=250).
        1060*0.26=276, Höhe 1315*0.26=342, Unterkante Boden y=491, Oberkante y=149.
