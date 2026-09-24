@@ -102,7 +102,7 @@ Karosserieinnenraum von Kastenwagen, Kombi und Bus ist im Rohbau gleich; Sitze u
 
 | Abgeleitetes Maß | Planungswert | Herleitung |
 | --- | --- | --- |
-| Nutzlänge Heckklappe → Vorderkante Reihe 2 | **ca. 1500–1700 mm** | 1000 mm hinter Reihe 3 + Tiefe der ausgebauten 3er-Bank (~450–600 mm) + Spalt; am Fahrzeug ±50 mm prüfen |
+| Nutzlänge hinter **einer** Fondbank | **ca. 1890 mm** | 2780 − (2780−1000)/2; beide Fondbänke teilen sich 1780 mm, eine Bank ca. 890 mm. Am Bus prüfen |
 | Nutzbreite Liegefläche über Radkästen | **ca. 1550–1590 mm** max. Wand–Wand | Katalogbreite; Verkleidung/Gurte können 20–40 mm nehmen |
 | Nutzbreite **zwischen** Radkästen (Boden) | **ca. 1100–1200 mm** (Schätzung) | keine harte Werkszahl gefunden; Westfalia-Motorraumpolster **1190 mm** breit → brauchbarer Proxy für ebene Heckfläche |
 | Höhe Radkasten über Boden | **ca. 300–400 mm** (Schätzung) | typisch T3; Box-Höhe darauf abstimmen |
@@ -247,7 +247,7 @@ Vorbild: [`fotos/referenz-heckzugang.jpg`](fotos/referenz-heckzugang.jpg) (blaue
 
 ### 4.2 Liegefläche – Zielmaße (aus Literatur kalibriert)
 
-Bezug: Multivan-Werksbett **1880 × 1600 mm**; verfügbare Heckzone hinter Reihe 2 ca. **1500–1700 mm** lang, max. Breite **~1555 mm**.
+Bezug: Multivan-Werksbett **1880 × 1600 mm**; verfügbare Heckzone hinter der einen verbleibenden Bank ca. **1890 mm** lang, max. Breite **~1555 mm**.
 
 | Parameter | Planungswert | Begründung |
 | --- | --- | --- |
@@ -530,6 +530,7 @@ Suchkriterien:
 | 2026-09-24 | Doppel-Gaskocher im Heckauszug eingeplant (Fach ≥ 560×400×150 mm) |
 | 2026-09-24 | Heckansicht mit ca.-Maßen (Breite, Höhe, Box, LifeSaver, Kocher) |
 | 2026-09-24 | Heckhöhe korrigiert: ca. 1090 mm ab Motordeckel, nicht 1465 mm ab tiefem Boden |
+| 2026-09-24 | Laderaum: 2780 mm ohne Bänke, ca. 1890 mm hinter einer Fondbank, 1000 mm hinter beiden |
 
 ---
 
