@@ -2,7 +2,7 @@
 
 **Fahrzeug:** VW T3 Syncro · EZ 05/1991 · 95 PS · 14″ · **3 Sperren** · G-Gang · Webasto · ehem. KDO-F St. Nikola  
 **Kauf:** 18.900 € (willhaben) · **Zielwert Erhalt:** Sammlerzustand (Markt 30–50.000 €)  
-**Stand dieses Dokuments:** 2026-09-24 · Box-Planung pausiert, Stand ist festgehalten  
+**Stand dieses Dokuments:** 2026-09-24 · Box-Planung pausiert · aktuelles Thema: Dachgepäckträger (Abschnitt 7.2a)  
 **Maße:** Literaturwerte + Innenraumfotos/Dokumente · **Fotobeleg:** willhaben + eigene Fotos
 
 ---
@@ -29,7 +29,7 @@ Die Campingbox bleibt so, bis am Bus nachgemessen wird. Kein Materialzuschnitt i
 
 **Skizzen:** [`docs/skizzen/seitenansicht-masse.png`](skizzen/seitenansicht-masse.png), [`docs/skizzen/heckansicht-masse.png`](skizzen/heckansicht-masse.png).
 
-**Noch nicht entschieden:** Zurrpunkte, Materialliste, Zuschnitt. Anhänger und Dachzelt sind Phase 2 und 3.
+**Noch nicht entschieden:** Zurrpunkte, Materialliste, Zuschnitt. Anhänger und Dachzelt sind Phase 2 und 3. Aktuelles Thema ist der Dachgepäckträger (Abschnitt 7.2a).
 
 ---
 
@@ -493,6 +493,27 @@ Suchkriterien (später ausarbeiten):
 - Syncro-taugliche Bodenfreiheit / Auffahrwinkel nicht kritisch am Anhänger, aber Deichsel/Kupplungshöhe prüfen  
 - Kandidaten sammeln unter: `docs/anhaenger-auswahl.md` (noch anzulegen)
 
+### 7.2a Dachgepäckträger (neu, ab 2026-09-24)
+
+Vorbild ist der Westfalia-Style mit **3 Bögen**, nicht eine geschlossene Dachbox:
+
+- [Werk34 / B.B.T., Art. 021 251 022](https://www.werk34.de/de/dachgepaecktraeger-westfalia-style-nachfertigung-in-spitzen-qualitaet-passend-fuer-t3-mit-3-boegen-021-251-022.html), ca. **990 €**, passend für T3
+- gleicher Typ bei [Seefeldt](https://www.seefeldt.de/de/dachgepaecktraeger-edelstahl-bus-t3-3-bogen-version-05-79-08-92.html): Edelstahl, Seriendach 05/79–08/92, 3 Bögen ca. **1.100 €**, Gewicht der 3-Bögen-Version ca. 19,5 kg
+
+**Wunsch:** dieselbe Bauart (Edelstahl-Bögen, Holzlatten, Reling, Klammern an der Regenrinne), aber **mehr Ladefläche und mindestens 4 Bögen**.
+
+| Punkt | Stand |
+| --- | --- |
+| Fertiger 4-Bögen-Träger für den **T3** | im Handel nicht als Lagerware gefunden |
+| 4-Bögen-Westfalia-Nachbau | gibt es für **T1/T2** (z. B. Abstand der Endbögen 200 cm). Der passt nicht auf die T3-Regenrinne |
+| Machbarer Weg | T3-Träger als **Sonderanfertigung mit 4 Bögen** und längerem Lattenrost. Seefeldt schreibt ausdrücklich, die T3-Version sei mit 2, 3 oder auf Sonderbestellung mit **4 Befestigungsbögen** lieferbar |
+| Befestigung | Klammern in der **geraden** Regenrinne, nicht in der Rundung vorn oder hinten. Keine Bohrung ins Dach |
+| Dachlast | in vielen T3-Blättern **100 kg** inklusive Träger. Schein prüfen. Mehr Bögen erhöhen die Fläche, nicht die erlaubte Last |
+| Dach jetzt | 2× Blaulicht und Sirene mittig. Ein langer Träger braucht diese Aufbauten abgebaut und eingelagert, sonst kollidiert der Lattenrost |
+| Fläche | 4 Bögen auf der kurzen 3-Bögen-Länge bringen nur mehr Steifigkeit. Mehr Fläche heißt **längerer Rost**, die Bögen über die nutzbare Rinne verteilt. Länge am Bus messen, bevor bestellt wird |
+
+Nächster Schritt zu diesem Thema: nutzbare Rinnenlänge messen und bei B.B.T. sowie Seefeldt die 4-Bögen-Sonderlänge anfragen.
+
 ### 7.2 Dachzelt (Phase 3) – Platzhalter
 
 Ziel: bis 3 Kinder.
@@ -549,7 +570,8 @@ Suchkriterien:
 3. [ ] Am Bus nachmessen: Länge hinter der Mittelbank, Motordeckelhöhe, B-Säule der Schiebetür  
 4. [ ] Zurrkonzept (Abschnitt 4.5) – später  
 5. [ ] Danach erst Materialliste, Schablone, Bau  
-6. [ ] Phase 2 Anhänger / Phase 3 Dachzelt
+6. [ ] Phase 2 Anhänger / Phase 3 Dachzelt  
+7. [ ] Dachträger: nutzbare gerade Rinnenlänge messen, Blaulicht/Sirene einplanen, 4-Bögen-Sonderlänge bei B.B.T. und Seefeldt anfragen
 
 ---
 
@@ -575,6 +597,7 @@ Suchkriterien:
 | 2026-09-24 | Schiebetür nur rechts eingezeichnet: ca. 300 mm des vorderen Boxteils liegen in der Öffnung |
 | 2026-09-24 | Zugriff vordere Box: 300 mm seitlich an der Tür, Rest von oben unter der Matratze |
 | 2026-09-24 | Box-Planung pausiert; Abschnitt 0 und Entscheidungsprotokoll auf den aktuellen Stand gebracht |
+| 2026-09-24 | Dachträger: Westfalia-Style, mindestens 4 Bögen und mehr Fläche; T3-Sonderanfertigung, T2-Träger passt nicht |
 
 ---
 
