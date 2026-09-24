@@ -218,7 +218,8 @@ Foto [`innenraum/07-heck-holzkiste-motor.jpg`](fotos/innenraum/07-heck-holzkiste
 
 | Ansicht | Datei |
 | --- | --- |
-| **Seitenansicht** (korrigiert, Blick nach vorne) | [`skizzen/t3-seitenansicht-campingbox.png`](skizzen/t3-seitenansicht-campingbox.png) |
+| **Seitenansicht mit Maßen** (vorderer Teil) | [`skizzen/seitenansicht-masse.png`](skizzen/seitenansicht-masse.png) |
+| Seitenansicht (früher) | [`skizzen/t3-seitenansicht-campingbox.png`](skizzen/t3-seitenansicht-campingbox.png) |
 | **Heckansicht mit Maßen** | [`skizzen/heckansicht-masse.png`](skizzen/heckansicht-masse.png) |
 | Heckansicht Zugang (früher) | [`skizzen/heckansicht-zugang.png`](skizzen/heckansicht-zugang.png) |
 | Übersicht Grundriss + Schnitt | [`skizzen/t3-campingbox-skizze.png`](skizzen/t3-campingbox-skizze.png) |
@@ -534,6 +535,7 @@ Suchkriterien:
 | 2026-09-24 | Heckhöhe korrigiert: ca. 1090 mm ab Motordeckel, nicht 1465 mm ab tiefem Boden |
 | 2026-09-24 | Laderaum: 2780 mm ohne Bänke, ca. 1890 mm hinter einer Fondbank, 1000 mm hinter beiden |
 | 2026-09-24 | Schlafen auf der Box hinter der aufrechten Mittelbank; Verlängerungsplatte nur Reserve |
+| 2026-09-24 | Seitenansicht mit Maßen: vorderer Boxteil ca. 980 mm auf tiefem Boden, Heckteil auf dem Motor |
 
 ---
 
