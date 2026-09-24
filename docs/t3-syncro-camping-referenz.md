@@ -536,6 +536,7 @@ Suchkriterien:
 | 2026-09-24 | Laderaum: 2780 mm ohne Bänke, ca. 1890 mm hinter einer Fondbank, 1000 mm hinter beiden |
 | 2026-09-24 | Schlafen auf der Box hinter der aufrechten Mittelbank; Verlängerungsplatte nur Reserve |
 | 2026-09-24 | Seitenansicht mit Maßen: vorderer Boxteil ca. 980 mm auf tiefem Boden, Heckteil auf dem Motor |
+| 2026-09-24 | Schiebetür nur rechts eingezeichnet: ca. 300 mm des vorderen Boxteils liegen in der Öffnung |
 
 ---
 
