@@ -216,7 +216,8 @@ Foto [`innenraum/07-heck-holzkiste-motor.jpg`](fotos/innenraum/07-heck-holzkiste
 | Ansicht | Datei |
 | --- | --- |
 | **Seitenansicht** (korrigiert, Blick nach vorne) | [`skizzen/t3-seitenansicht-campingbox.png`](skizzen/t3-seitenansicht-campingbox.png) |
-| **Heckansicht** Zugang Stauraum | [`skizzen/heckansicht-zugang.png`](skizzen/heckansicht-zugang.png) |
+| **Heckansicht mit Maßen** | [`skizzen/heckansicht-masse.png`](skizzen/heckansicht-masse.png) |
+| Heckansicht Zugang (früher) | [`skizzen/heckansicht-zugang.png`](skizzen/heckansicht-zugang.png) |
 | Übersicht Grundriss + Schnitt | [`skizzen/t3-campingbox-skizze.png`](skizzen/t3-campingbox-skizze.png) |
 | Grundriss Campingmodus (SVG) | [`skizzen/grundriss-campingmodus.svg`](skizzen/grundriss-campingmodus.svg) |
 | Referenzfoto Heckzugang | [`fotos/referenz-heckzugang.jpg`](fotos/referenz-heckzugang.jpg) |
@@ -523,6 +524,7 @@ Suchkriterien:
 | 2026-09-22 | Seitenansicht neu gezeichnet (Lehne heckseitig); Stauraum öffnet zur Heckklappe |
 | 2026-09-22 | LifeSaver Jerrycan 18,5 l als stehendes Heckfach eingeplant; Boxhöhe ca. 530 mm |
 | 2026-09-24 | Doppel-Gaskocher im Heckauszug eingeplant (Fach ≥ 560×400×150 mm) |
+| 2026-09-24 | Heckansicht mit ca.-Maßen (Breite, Höhe, Box, LifeSaver, Kocher) |
 
 ---
 
