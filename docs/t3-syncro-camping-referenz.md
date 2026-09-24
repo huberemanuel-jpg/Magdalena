@@ -319,6 +319,7 @@ Priorisierte Packliste (nur was wirklich im Bus bleiben soll):
 | 3 | Küchen-Minimum (Gas abseits Fahrzeugregeln beachten) | 1× flache Box |
 | 4 | Kühlbox 12 V (kompressor, schmal) | z. B. ~20–30 l, Quereinbau |
 | 0 | **LifeSaver Jerrycan 18,5 l** | eigenes Heckfach, stehend, 349×171×476 mm |
+| 0b | **Doppel-Gaskocher** | Heckauszug, Fach ≥ 560×400×150 mm |
 | 5 | Werkzeug / Recovery klein | 1 Fach, zugänglich von Heck |
 | — | Rucksäcke, Zeltgroß, Fahrräder | **→ Anhänger** |
 
@@ -350,6 +351,20 @@ Fest eingeplant: **LifeSaver Jerrycan** (Ultrafiltration, kein Kraftstoffkaniste
 - 18,5 l reichen zum Trinken/Kochen für 2 Erwachsene + Kinder ein paar Tage, nicht als großer Frischwassertank.
 - Bei Frost leeren (Hersteller: Betrieb über 0 °C, Lagerung nicht unter ca. −10 °C).
 - Gewicht voll liegt im Heck – bei der Achslast mitrechnen, aber unkritisch gegenüber der Gesamtzuladung.
+
+### 4.6b Doppel-Gaskocher im Heckauszug
+
+Der Heckauszug nimmt neben dem Stauraum einen **2-Flammen-Kocher** auf. Richtmaß ist die verbreitete Klasse Campingaz Camping Kitchen 2 (geschlossen **490 × 320 × 100 mm**, offen **490 × 350 × 350 mm**, ca. 3,1–3,6 kg). Die größere Maxi-Variante liegt geschlossen bei ca. 530 × 360 × 110 mm.
+
+| | Plan |
+| --- | --- |
+| Lage | im **Heckauszug**, quer, Deckel nach oben |
+| Lichtes Fach | **mind. 560 × 400 × 150 mm**, damit auch ein etwas größerer 2-Flammer geschlossen hineinpasst |
+| Betrieb | Auszug ganz heraus, bis der Kocher **vor der Ladekante** steht und der Deckel frei aufklappen kann (offen ca. 35 cm hoch) |
+| Gas | eine Kartusche oder kleine Flasche **im selben Auszug**, stehend und verzurrt, nicht lose unter der Matratze |
+| LifeSaver | bleibt im eigenen hohen Fach daneben; der Kocherauszug ist flach und blockiert den Kanister nicht |
+
+Kochen nur bei **offener Heckklappe** und ausgezogenem Kocher, nicht im geschlossenen Bus. Die Geräte dieser Klasse sind laut Hersteller nicht für geschlossene Räume. Keine feste Gasanlage, kein Einbaukocher – der Kocher bleibt ein herausnehmbares Campinggerät.
 
 ### 4.7 Materialien (Stückliste Entwurf)
 
@@ -459,6 +474,7 @@ Suchkriterien:
 | Bettverlängerung | Platte an Reihe 2 | reine Box zu kurz |
 | Küche fest | nein | Sammlerwert, Platz |
 | Trinkwasser | LifeSaver Jerrycan im Heckfach | 18,5 l filterbar, von der Heckklappe ziehbar |
+| Kocher | 2-Flammer im Heckauszug | geschlossen ~49×32×10 cm; Betrieb nur bei offener Klappe |
 | Nächster Schritt | Materialliste + Schablonenplan | Maße literaturseitig gesetzt |
 
 ---
@@ -506,6 +522,7 @@ Suchkriterien:
 | 2026-09-22 | Seitenansicht korrigiert: Reihe 2 blickt nach vorne |
 | 2026-09-22 | Seitenansicht neu gezeichnet (Lehne heckseitig); Stauraum öffnet zur Heckklappe |
 | 2026-09-22 | LifeSaver Jerrycan 18,5 l als stehendes Heckfach eingeplant; Boxhöhe ca. 530 mm |
+| 2026-09-24 | Doppel-Gaskocher im Heckauszug eingeplant (Fach ≥ 560×400×150 mm) |
 
 ---
 
