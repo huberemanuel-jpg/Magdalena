@@ -2,8 +2,34 @@
 
 **Fahrzeug:** VW T3 Syncro · EZ 05/1991 · 95 PS · 14″ · **3 Sperren** · G-Gang · Webasto · ehem. KDO-F St. Nikola  
 **Kauf:** 18.900 € (willhaben) · **Zielwert Erhalt:** Sammlerzustand (Markt 30–50.000 €)  
-**Stand dieses Dokuments:** 2026-09-19 · Fokus Phase 1: Campingbox + Innenraum  
-**Maße:** Literaturwerte + Innenraumfotos/Dokumente (AirDrop) · **Fotobeleg:** willhaben + eigene Fotos
+**Stand dieses Dokuments:** 2026-09-24 · Box-Planung pausiert, Stand ist festgehalten  
+**Maße:** Literaturwerte + Innenraumfotos/Dokumente · **Fotobeleg:** willhaben + eigene Fotos
+
+---
+
+## 0. Stand der Box-Planung (pausiert am 2026-09-24)
+
+Die Campingbox bleibt so, bis am Bus nachgemessen wird. Kein Materialzuschnitt in diesem Stand.
+
+**Sitzen:** Front 3 und Mittelbank 3 bleiben (**6 Plätze**). Hintere 3er-Bank und die Feuerwehr-Holzkiste kommen raus und werden eingelagert. Die KDO-Trennwand bleibt.
+
+**Schlafen:** Matratze auf der Box hinter der aufrechten Mittelbank, längs, ca. 1880 × 1400–1550 mm. Die Bank wird nicht umgelegt. Eine Verlängerungsplatte nur, falls die gemessene Länge unter ca. 1850 mm liegt.
+
+**Längen:** Laderaum ohne Bänke ca. 2780 mm. Hinter einer Fondbank ca. 1890 mm. Hinter beiden Fondbänken ca. 1000 mm.
+
+**Höhen:** 1465 mm gelten vom tiefen Boden. Der Motordeckel liegt ca. 375 mm höher. Vom Motordeckel bis zum Himmel ca. 1090 mm. Frei über der Matratze hinten ca. 460 mm.
+
+**Box:** Liege oben, eben. Vorderer Teil ca. 980 mm auf dem tiefen Boden, Stauraum dort ca. 900 mm hoch. Heckteil auf der Motorabdeckung, Höhe ca. 530 mm, damit der LifeSaver stehend hineinpasst.
+
+**Heckauszug** (von der Heckklappe): LifeSaver Jerrycan 18,5 l (349 × 171 × 476 mm) im eigenen Fach. Doppel-Gaskocher im Auszug (Fach mind. 560 × 400 × 150 mm). Kochen nur bei offener Heckklappe.
+
+**Schiebetür** nur rechts, Öffnung ca. 1060 × 1315 mm. Davon liegen ca. 300 mm des vorderen Boxteils in der Tür. Zugriff: seitliches Fach an der Tür für den Alltag, der Rest von oben nach Wegklappen des vorderen Matratzenstücks. Äußere Lehne der Mittelbank kann nach vorn klappen.
+
+**Befestigung:** nur Zurrgurte, keine neuen Bohrungen. Ösen-Detail später.
+
+**Skizzen:** [`docs/skizzen/seitenansicht-masse.png`](skizzen/seitenansicht-masse.png), [`docs/skizzen/heckansicht-masse.png`](skizzen/heckansicht-masse.png).
+
+**Noch nicht entschieden:** Zurrpunkte, Materialliste, Zuschnitt. Anhänger und Dachzelt sind Phase 2 und 3.
 
 ---
 
@@ -487,13 +513,14 @@ Suchkriterien:
 | Befestigung | Zurrgurte (Detail später) | Erhalt, Reversibilität |
 | Sitze Campingmodus | Front 3 + Mitte 3; hinten 3 aus + Holzkiste raus | **6 Plätze**; Box beerbt Kisten-Zone |
 | Box-Typ | Volle Heckbox Variante A | Schlaf 2 + Stauraum |
-| Box-Planmaß | ca. 1550 × 1500–1700 × 450–550 mm | Katalog-Innenmaße 9-Sitzer |
-| Liege inkl. Platte | ca. 1880–1900 × 1400–1550 mm | Multivan-Werksmaß als Ziel |
-| Bettverlängerung | Platte an Reihe 2 | reine Box zu kurz |
-| Küche fest | nein | Sammlerwert, Platz |
-| Trinkwasser | LifeSaver Jerrycan im Heckfach | 18,5 l filterbar, von der Heckklappe ziehbar |
-| Kocher | 2-Flammer im Heckauszug | geschlossen ~49×32×10 cm; Betrieb nur bei offener Klappe |
-| Nächster Schritt | Materialliste + Schablonenplan | Maße literaturseitig gesetzt |
+| Box | vorne ca. 980 mm auf tiefem Boden, hinten auf Motor, Deckel ca. 530 mm über Motor | Liege eben, LifeSaver stehend |
+| Liege | ca. 1880 mm auf der Box, Bank bleibt aufrecht | hinter einer Bank ca. 1890 mm |
+| Bettverlängerung | nur Reserve | falls Messung unter ca. 1850 mm |
+| Küche fest | nein | Kocher bleibt loses Gerät im Auszug |
+| Trinkwasser | LifeSaver Jerrycan im Heckfach | 18,5 l, von der Heckklappe ziehbar |
+| Kocher | 2-Flammer im Heckauszug | geschlossen ~49×32×10 cm; nur bei offener Klappe |
+| Zugriff vorn | 300 mm seitlich an der rechten Schiebetür, Rest von oben | Türöffnung deckt den Kasten nicht auf ganzer Länge |
+| Status | **pausiert** | Stand in Abschnitt 0, Nachmessen am Bus vor dem Bau |
 
 ---
 
@@ -518,12 +545,11 @@ Suchkriterien:
 1. [x] Literaturmaße T3 Syncro / 9-Sitzer recherchieren und eintragen  
 1b. [x] Verkaufsinserat/Fotos auswerten (Frontlayout, Getriebe, Dach)  
 1c. [x] Innenraumfotos + Dokumente archivieren / Layout Ist-Zustand  
-2. [ ] Materialliste + Kostenschätzung auf Basis Planmaße  
-3. [ ] Pappschablonen-Zuschnittliste vorbereiten (Box + Motoraussparung)  
-4. [ ] Zurrkonzept (Abschnitt 4.5) – **später**  
-5. [ ] Nach Urlaub: Schablone am Bus, Sitze Reihe 3 aus, Feintoleranz  
-6. [ ] Prototyp-Rahmen → fertige Box  
-7. [ ] Phase 2 Anhänger / Phase 3 Dachzelt
+2. [x] Box-Konzept dokumentiert und pausiert (Abschnitt 0)  
+3. [ ] Am Bus nachmessen: Länge hinter der Mittelbank, Motordeckelhöhe, B-Säule der Schiebetür  
+4. [ ] Zurrkonzept (Abschnitt 4.5) – später  
+5. [ ] Danach erst Materialliste, Schablone, Bau  
+6. [ ] Phase 2 Anhänger / Phase 3 Dachzelt
 
 ---
 
@@ -548,6 +574,7 @@ Suchkriterien:
 | 2026-09-24 | Seitenansicht mit Maßen: vorderer Boxteil ca. 980 mm auf tiefem Boden, Heckteil auf dem Motor |
 | 2026-09-24 | Schiebetür nur rechts eingezeichnet: ca. 300 mm des vorderen Boxteils liegen in der Öffnung |
 | 2026-09-24 | Zugriff vordere Box: 300 mm seitlich an der Tür, Rest von oben unter der Matratze |
+| 2026-09-24 | Box-Planung pausiert; Abschnitt 0 und Entscheidungsprotokoll auf den aktuellen Stand gebracht |
 
 ---
 
