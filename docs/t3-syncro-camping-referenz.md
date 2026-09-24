@@ -17,11 +17,13 @@ Die Campingbox bleibt so, bis am Bus nachgemessen wird. Kein Materialzuschnitt i
 
 **Längen:** Laderaum ohne Bänke ca. 2780 mm. Hinter einer Fondbank ca. 1890 mm. Hinter beiden Fondbänken ca. 1000 mm.
 
-**Höhen:** 1465 mm gelten vom tiefen Boden. Der Motordeckel liegt ca. 375 mm höher. Vom Motordeckel bis zum Himmel ca. 1090 mm. Frei über der Matratze hinten ca. 770 mm, Sitzen mit geneigtem Kopf.
+**Höhen:** 1465 mm gelten vom tiefen Boden. Der Motordeckel liegt ca. 375 mm höher. Vom Motordeckel bis zum Himmel ca. 1090 mm. Frei über der Matratze hinten ca. 460 mm. Darauf sitzen ist nicht das Ziel.
 
-**Box:** Liege oben, eben. Vorderer Teil ca. 980 mm auf dem tiefen Boden, Stauraum dort ca. 595 mm hoch. Heckteil auf der Motorabdeckung, Höhe ca. 220 mm.
+**Box:** Liege oben, eben. Vorderer Teil ca. 980 mm auf dem tiefen Boden, Stauraum dort ca. 900 mm hoch. Heckteil auf der Motorabdeckung, Höhe ca. 530 mm, dieselbe Höhe wie zuvor für den LifeSaver. Der hohe Kasten ist Stauraum, nicht Sitzfreiheit.
 
-**Heckauszug** (von der Heckklappe): flacher Wasserkanister, Zielhöhe max. 170 mm, ca. 20 l, neben dem Doppel-Gaskocher (Fach mind. 560 × 400 × 150 mm). Der LifeSaver Jerrycan ist raus. Kochen nur bei offener Heckklappe.
+**Heckauszug** (von der Heckklappe): flacher Wasserkanister, Höhe max. 170 mm, ca. 20 l, neben dem Doppel-Gaskocher (Fach mind. 560 × 400 × 150 mm). Darüber der große Stauraum. Der LifeSaver Jerrycan bleibt draußen. Kochen nur bei offener Heckklappe.
+
+**Schlechtwetter:** Aufenthalt zu fünft im Vorzelt an der Schiebetür, nicht auf der Liege. Abschnitt 7.3.
 
 **Schiebetür** nur rechts, Öffnung ca. 1060 × 1315 mm. Davon liegen ca. 300 mm des vorderen Boxteils in der Tür. Zugriff: seitliches Fach an der Tür für den Alltag, der Rest von oben nach Wegklappen des vorderen Matratzenstücks. Äußere Lehne der Mittelbank kann nach vorn klappen.
 
@@ -192,6 +194,7 @@ KDO-F-Sonderaufbauten können abweichen (z. B. 2+3+2+2). Beim ersten Zugang kurz
 | Gepäck sperrig / Räder | Pongratz 230er Heavy: 2 MTB an der Deichsel, Kinderräder in der Mulde |
 | Gepäck auf dem Busdach | Reisegepäck auf dem Westfalia-Träger, innerhalb der Dachlast |
 | Koch / Nasszelle | keine feste Küche. Doppelkocher lose im Heckauszug, nur bei offener Heckklappe |
+| Aufenthalt bei Regen | Vorzelt an der rechten Schiebetür, zu fünft. Im Bus wird geschlafen, nicht gesessen |
 | Standheizung | Webasto bleibt nutzbar; Box darf Luftführung nicht blockieren |
 
 ### 3.1 Sitzlayout Ist-Zustand (Innenraumfotos)
@@ -286,10 +289,10 @@ Bezug: Multivan-Werksbett **1880 × 1600 mm**; verfügbare Heckzone hinter der e
 | Liegefläche gesamt L × B | **ca. 1880 × 1400–1550 mm** | liegt auf der Box hinter der aufrechten Mittelbank; die ca. 1890 mm reichen |
 | Verlängerungsplatte | nur Reserve | falls die gemessene Länge unter ca. 1850 mm bleibt: Brett an die Lehnenrückseite |
 | Matratze | 2× 70 cm oder 1× 140–155 × 190 cm, 10–12 cm | belüftet (Latten / Noppenfolie) |
-| Box-Höhe über dem Motor | **ca. 220 mm** | flacher 20-l-Kanister 170 mm + Boden/Deckel; Kocherfach 150 mm daneben |
+| Box-Höhe über dem Motor | **ca. 530 mm** | dieselbe Höhe wie zuvor für den LifeSaver. Der flache Kanister braucht sie nicht, der Stauraum schon |
 | Zone über Motor | Aussparung / Klappe **~910 × 1190 mm** | analog Westfalia-Motorraumpolster |
 | Höhe über dem Motordeckel | ca. **1090 mm** bis Himmel | Heckansicht; 1465 mm sind der tiefe Boden weiter vorn |
-| Frei über der Matratze hinten | ca. **770 mm** | 1090 − Box 220 − Matratze 100; Sitzen mit geneigtem Kopf |
+| Frei über der Matratze hinten | ca. **460 mm** | 1090 − Box 530 − Matratze 100. Liegen ja. Sitzen zu fünft ist das Vorzelt |
 | Gewicht Box leer | **Ziel ≤ 40–50 kg** | handhabbar zu zweit |
 | Stauraum unter Deckel | Eurobox 600×400 Raster | 2–3 Boxen quer/längs + Kühlbox-Fach |
 
@@ -306,7 +309,7 @@ Heckklappe  ← Beladehöhe ~820 mm | Öffnung nutzt Innenbreite ~1555 mm
 │ │  Liegefläche auf Box-Deckel             │ │  Box ~1550 mm breit
 │ │  + Verlängerung → Σ Länge ~1880–1900 mm │ │  Box ~1500–1700 mm tief
 │ └─────────────────────────────────────────┘ │
-│ │ Stauraum flach, Kanister + Kocher ~220 mm H│ │
+│ │ Stauraum Eurobox / Kühlbox ~530 mm hoch    │ │
 └─────────────────────────────────────────────┘
          ↑ Zurrgurte (Detail später)
 ┌─────────────────────────────────────────────┐
@@ -373,13 +376,13 @@ Priorisierte Packliste (nur was wirklich im Bus bleiben soll):
 
 Eurobox-Raster (Planung): 600×400 und 400×300 mm – Schotten darauf auslegen.
 
-### 4.6a Trinkwasser (flach, ab 2026-09-24)
+### 4.6a Trinkwasser (flach) und Kastenhöhe
 
-Der LifeSaver Jerrycan ist raus. Stehend ist er 476 mm hoch und hat die Box auf 530 mm gezwungen. Über der Matratze blieben dann nur 460 mm, zu wenig zum Sitzen.
+Der LifeSaver Jerrycan bleibt draußen. Der Vorrat ist ein flacher Kanister.
 
-Der Heckteil wird auf **ca. 220 mm** über dem Motordeckel gelegt. Das ist der 170-mm-Kanister plus Boden und Deckel. Der Kocherauszug (150 mm) liegt daneben, nicht darüber. Frei über der Matratze: **ca. 770 mm**. Das ist Sitzen mit geneigtem Kopf. Kerzengerade, etwa 900 mm, ließe über dem Motor fast keinen Stauraum.
+Die Kastenhöhe geht trotzdem zurück auf **ca. 530 mm** über dem Motor, dieselbe Höhe wie zuvor für den stehenden Jerrycan. Ein Absenken auf 220 mm hätte über der Matratze etwa 770 mm gelassen. Beides ist zum Sitzen zu knapp, und der vordere Stauraum wäre von etwa 900 mm auf etwa 595 mm gefallen. Der hohe Kasten bleibt deshalb Stauraum. Über der Matratze sind es wieder ca. **460 mm**. Gesessen wird bei Regen im Vorzelt (Abschnitt 7.3).
 
-Der vordere Boxteil wird mit der ebenen Liege niedriger: Stauraum dort ca. **595 mm** statt vorher ca. 900 mm. Euroboxen liegen dann, sie stehen nicht auf der 600-mm-Kante.
+Der vordere Boxteil ist wieder ca. **900 mm** hoch. Euroboxen können auf der 600-mm-Kante stehen.
 
 | Kanister | Maße | Höhe im Fach | Menge |
 | --- | --- | --- | --- |
@@ -403,7 +406,8 @@ Der Heckauszug nimmt neben dem Stauraum einen **2-Flammen-Kocher** auf. Richtma�
 | Lichtes Fach | **mind. 560 × 400 × 150 mm**, damit auch ein etwas größerer 2-Flammer geschlossen hineinpasst |
 | Betrieb | Auszug ganz heraus, bis der Kocher **vor der Ladekante** steht und der Deckel frei aufklappen kann (offen ca. 35 cm hoch) |
 | Gas | eine Kartusche oder kleine Flasche **im selben Auszug**, stehend und verzurrt, nicht lose unter der Matratze |
-| Wasser | flacher Kanister im Nachbarfach, Höhe max. 170 mm; der Kocherauszug blockiert ihn nicht |
+| Wasser | flacher Kanister im Nachbarfach, Höhe max. 170 mm. Darüber und neben dem Auszug liegt der Stauraum der 530-mm-Box |
+| Besteck | im Stauraum über dem Auszug, nicht auf dem Kocher. Im 150-mm-Fach bleiben neben dem Kocher nur 70 und 80 mm |
 
 Kochen nur bei **offener Heckklappe** und ausgezogenem Kocher, nicht im geschlossenen Bus. Die Geräte dieser Klasse sind laut Hersteller nicht für geschlossene Räume. Keine feste Gasanlage, kein Einbaukocher – der Kocher bleibt ein herausnehmbares Campinggerät.
 
@@ -557,6 +561,14 @@ Nächster Schritt zu diesem Thema: nutzbare Rinnenlänge messen und bei B.B.T. s
 
 Ein Dachzelt auf dem T3 würde die Dachlast von oft **100 kg** zusammen mit dem Träger weitgehend aufbrauchen. Die Richtung ist deshalb: Zelt auf den Anhänger, Busdach nur Gepäck. Auswahl des Zelts läuft über Abschnitt 7.1, nicht über einen eigenen Bus-Dachzelt-Träger.
 
+### 7.3 Vorzelt (Richtung ab 2026-09-24)
+
+Bei schlechtem Wetter sitzen und essen fünf Personen im **Vorzelt**, nicht auf der Liege. Im Bus wird geschlafen. Über der Matratze bleiben ca. 460 mm, das reicht zum Liegen.
+
+Das Vorzelt kommt an die **rechte** Regenrinne, dort ist die Schiebetür. Keine Bohrung ins Dach. Dieselbe Rinne trägt auch die Klammern des Dachgepäckträgers. Träger und Vorzelt-Schiene müssen sich die gerade Rinnenstrecke teilen, das wird am Bus gemessen, bevor eines von beiden bestellt wird.
+
+Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, das an der T3-Rinne klemmt und die Schiebetür frei lässt.
+
 ---
 
 ## 8. Entscheidungsprotokoll Campingbox
@@ -566,11 +578,12 @@ Ein Dachzelt auf dem T3 würde die Dachlast von oft **100 kg** zusammen mit dem 
 | Befestigung | Zurrgurte (Detail später) | Erhalt, Reversibilität |
 | Sitze Campingmodus | Front 3 + Mitte 3; hinten 3 aus + Holzkiste raus | **6 Plätze**; Box beerbt Kisten-Zone |
 | Box-Typ | Volle Heckbox Variante A | Schlaf 2 + Stauraum |
-| Box | vorne ca. 980 mm auf tiefem Boden, hinten auf Motor, Deckel ca. 220 mm über Motor | Liege eben, ca. 770 mm zum Sitzen |
+| Box | vorne ca. 980 mm auf tiefem Boden, hinten auf Motor, Deckel ca. 530 mm über Motor | Stauraum. 460 mm über der Matratze reichen nicht zum Sitzen |
 | Liege | ca. 1880 mm auf der Box, Bank bleibt aufrecht | hinter einer Bank ca. 1890 mm |
 | Bettverlängerung | nur Reserve | falls Messung unter ca. 1850 mm |
 | Küche fest | nein | Kocher bleibt loses Gerät im Auszug |
-| Trinkwasser | flacher Kanister ca. 20 l, Höhe max. 170 mm | LifeSaver Jerrycan zu hoch fürs Sitzen |
+| Trinkwasser | flacher Kanister ca. 20 l, Höhe max. 170 mm | LifeSaver bleibt draußen. Die 530 mm Höhe bleibt für den Stauraum |
+| Aufenthalt Regen | Vorzelt an der Schiebetür, 5 Personen | im Bus wird gelegen, nicht gesessen |
 | Kocher | 2-Flammer im Heckauszug | geschlossen ~49×32×10 cm; nur bei offener Klappe |
 | Zugriff vorn | 300 mm seitlich an der rechten Schiebetür, Rest von oben | Türöffnung deckt den Kasten nicht auf ganzer Länge |
 | Schlafen Kinder | Dachzelt auf dem Pongratz 230er Heavy | Ladefläche 223 × 125 cm; Busdach nur Gepäck |
@@ -610,7 +623,8 @@ Ein Dachzelt auf dem T3 würde die Dachlast von oft **100 kg** zusammen mit dem 
 4. [ ] Zurrkonzept (Abschnitt 4.5) – später  
 5. [ ] Danach erst Materialliste, Schablone, Bau  
 6. [ ] Pongratz: Leerstützlast wiegen, Bus-Schein gegen 75 kg und 1300 kg halten, Zelt auf 223×125 cm aussuchen. Lastenträger-Traglast erfragen oder eigene Querträger auf die Stahlwände, Abstellstützen, Deichselträger für 2 MTB  
-7. [ ] Dachträger: nutzbare gerade Rinnenlänge messen, 4-Bögen-Sonderlänge bei B.B.T. und Seefeldt anfragen. Blaulicht und Sirene kommen mit der Zivilanmeldung herunter und werden eingelagert
+7. [ ] Dachträger: nutzbare gerade Rinnenlänge messen, 4-Bögen-Sonderlänge bei B.B.T. und Seefeldt anfragen. Blaulicht und Sirene kommen mit der Zivilanmeldung herunter und werden eingelagert  
+8. [ ] Vorzelt: Rinnenstrecke an der Schiebetür mit dem Dachträger teilen, Modell für fünf Personen im Stehen
 
 ---
 
@@ -641,6 +655,7 @@ Ein Dachzelt auf dem T3 würde die Dachlast von oft **100 kg** zusammen mit dem 
 | 2026-09-24 | Anhänger festgelegt: Pongratz 230er Heavy, Stützlast 75 kg; 2 MTB an der Deichsel, Kinderräder in der Mulde |
 | 2026-09-24 | Heavy 230/125 mit Aufsatzwänden: Kinderräder stehen. Zelt auf Lastenträger oder eigene Querträger, nicht auf den Polyesterdeckel |
 | 2026-09-24 | LifeSaver Jerrycan raus. Heckteil ca. 220 mm, flacher 20-l-Kanister, ca. 770 mm über der Matratze |
+| 2026-09-24 | Heckteil wieder ca. 530 mm wegen Stauraum. Sitzen zu fünft im Vorzelt, nicht auf der Liege |
 | 2026-09-24 | Box-Follow-up: Geometrie bleibt pausiert; Anhänger ist entschieden, Kocher bleibt im Heckauszug |
 
 ---
