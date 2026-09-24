@@ -29,7 +29,7 @@ Die Campingbox bleibt so, bis am Bus nachgemessen wird. Kein Materialzuschnitt i
 
 **Skizzen:** [`docs/skizzen/seitenansicht-masse.png`](skizzen/seitenansicht-masse.png), [`docs/skizzen/heckansicht-masse.png`](skizzen/heckansicht-masse.png).
 
-**Schlafen, Richtung ab 2026-09-24:** zwei Erwachsene im Bus, bis zu drei Kinder im Dachzelt auf dem Anhänger. Das Busdach bleibt Gepäckfläche (Abschnitt 7.2a).
+**Schlafen, Richtung ab 2026-09-24:** zwei Erwachsene im Bus, bis zu drei Kinder im Dachzelt auf dem vorhandenen Pongratz 230er Heavy. Das Busdach bleibt Gepäckfläche (Abschnitt 7.2a).
 
 **Noch nicht entschieden:** Zurrpunkte, Materialliste, Zuschnitt, konkreter Anhänger.
 
@@ -156,7 +156,8 @@ Karosserieinnenraum von Kastenwagen, Kombi und Bus ist im Rohbau gleich; Sitze u
 | Mehrgewicht Syncro vs. 2WD | ca. **+145 kg** | Wikipedia / Prospekt-Daten |
 | Dachlast (viele T3-Angaben) | **100 kg** | diverse Typdatenblätter – **Schein prüfen** |
 | Anhängelast Syncro (häufig) | **1500 kg** gebremst / **600 kg** ungebremst | militärfahrzeuge.ch Syncro; Schein prüfen |
-| Stützlast (häufig) | ca. **50 kg** | diverse Blätter – Schein prüfen |
+| Stützlast Bus (häufig) | ca. **50 kg** | diverse Blätter – Schein prüfen. Es gilt der kleinere Wert von Bus und Hänger |
+| Stützlast Pongratz 230 (eingetragen) | **75 kg** | Angabe Nutzer, Abschnitt 7.1 |
 
 ### 2.6 Sitzlayout 9-Sitzer (Literatur)
 
@@ -188,7 +189,7 @@ KDO-F-Sonderaufbauten können abweichen (z. B. 2+3+2+2). Beim ersten Zugang kurz
 | Schlafen Erwachsene | 2 Personen in Campingbox / Liegefläche hinten |
 | Schlafen Kinder | bis zu 3 Kinder im Dachzelt **auf dem Anhänger** (Richtung, Abschnitt 7.1) |
 | Tagsüber / Fahrt | ≥ 5 Sitzplätze (Fahrer + Beifahrer + mind. 3 hinten) |
-| Gepäck sperrig / Räder | Anhänger, neben dem Zeltplatz auf der Ladefläche |
+| Gepäck sperrig / Räder | Pongratz 230er Heavy: 2 MTB an der Deichsel, Kinderräder in der Mulde |
 | Gepäck auf dem Busdach | Reisegepäck auf dem Westfalia-Träger, innerhalb der Dachlast |
 | Koch / Nasszelle | bewusst **nicht** im Bus (Erhalt + Platz) – Kocher am Camp oder Anhänger-Box |
 | Standheizung | Webasto bleibt nutzbar; Box darf Luftführung nicht blockieren |
@@ -484,22 +485,42 @@ Kochen nur bei **offener Heckklappe** und ausgezogenem Kocher, nicht im geschlos
 
 ## 7. Offene Module (später detaillieren)
 
-### 7.1 Anhänger mit Dachzelt (Richtung ab 2026-09-24)
+### 7.1 Anhänger: Pongratz 230er Heavy
 
-Zwei Erwachsene schlafen im Bus. Bis zu drei Kinder schlafen im **Dachzelt auf dem Anhänger**. Das Busdach bleibt frei für Gepäck.
+Zwei Erwachsene schlafen im Bus. Bis zu drei Kinder schlafen im Dachzelt auf dem **vorhandenen Pongratz 230er Heavy**. Das Busdach bleibt Gepäckfläche.
 
-Damit trägt der Anhänger zwei Aufgaben: Schlafplatz der Kinder und das sperrige Gut (Rucksäcke, Fahrräder). Ein Zelt belegt die Ladefläche, die Räder brauchen deshalb einen eigenen Platz an der Deichsel oder auf einem längeren Anhänger neben bzw. hinter der Zeltplattform.
+Der 230er Heavy ist der Stahl-Tieflader der Serie, im aktuellen Katalog [EPA 230/12 G-RS-STK](https://pongratztrailers.com/anhaenger/epa-230-12-g-rs-stk.1300/). Ältere Schilder können beim Eigengewicht abweichen. Der eigene Schein sticht.
 
-| Punkt | Stand |
+| Merkmal | Katalogwert EPA 230/12 G |
 | --- | --- |
-| Zelt | Familien-Dachzelt für 3 Kinder. Geschlossen oft grob 140 × 210–240 cm und ca. 50–80 kg. Konkretes Modell später |
-| Plattform | Ebene, steife Ladefläche oder Zelt-Querträger. Der Westfalia-Lattenrost des Busses ist dafür die falsche Fläche |
-| Stand | Bugrad plus Stützen an den Ecken, sonst kippt ein seitlich öffnendes Zelt den Anhänger |
-| Fahrt | Zelt geschlossen und verriegelt. Geschlafen wird nur im Stand |
-| Zuglast | Syncro oft **1500 kg** gebremst / **600 kg** ungebremst, Stützlast oft ca. **50 kg**. Schein sticht. Ungebremst wird mit Zelt, Anhänger-Eigengewicht und Rädern eng |
-| Gelände | Der Anhänger begrenzt, was der Syncro im Gelände kann. Kupplungshöhe und Auffahrwinkel der Deichsel prüfen |
+| Ladefläche innen | **2230 × 1250 mm**, Bordwand **400 mm** |
+| zGG / Eigengewicht / Nutzlast | **1300 / 286 / 1014 kg** (Variante ohne RS: Eigengewicht 269 kg, Nutzlast 1031 kg) |
+| Außen | ca. 3650 × 1780 × 935 mm, Ladekante ca. 535 mm |
+| Serie | auflaufgebremst, 14″, Stützrad, Stirnwand klappbar, 4 Zurrpunkte, Siebdruckboden, Anschraubkonsolen für Abstellstützen |
+| Stützlast | am Hänger **75 kg** eingetragen (Nutzer). Katalog-Deichsel oft bis 100 kg ausgelegt. Am Bus gilt der kleinere Wert aus Schein und Kupplung |
 
-Kandidaten später unter `docs/anhaenger-auswahl.md`. Noch nicht angelegt.
+**Räder**
+
+- Zwei normale Mountainbikes an einem **Deichselträger**. Kein Träger auf der Kupplung des Busses, die Kupplung hält den Hänger.
+- Kinderräder **in** der Mulde, unter dem Zelt.
+
+**Stützlast, grob**
+
+75 kg sind die Kraft auf der Kugel, nicht das Gewicht des Hängers. Der Hänger wiegt leer schon etwa 280 kg.
+
+Zwei normale Mountainbikes wiegen zusammen etwa 26–30 kg, ein Deichselträger etwa 8–12 kg. Diese Masse sitzt vor der Achse und geht fast vollständig in die Stützlast, zusammen etwa **35–42 kg**. Zelt und Kinderräder bleiben stützlastarm, solange sie über der Achse liegen. Was dann noch bis 75 kg frei ist, gehört der Leerstützlast. Die steht nicht im Katalog und wird mit einer Waage unter dem Stützrad gemessen. Liegt die Summe darüber, wandert Ladung ein Stück hinter die Achse. Unter etwa 25 kg wird der Zug unruhig.
+
+**Nutzlast** ist großzügig. Zelt ca. 50–80 kg, Kinderräder und Gepäck bleiben weit unter 1014 kg. Der Syncro liegt in den Typenblättern bei 1500 kg gebremster Anhängelast, der Hänger bei 1300 kg zGG. Der Schein des Busses muss mindestens 1300 kg gebremst hergeben.
+
+**Zelt auf dieser Fläche**
+
+Geschlossen soll das Zelt in **223 × 125 cm** passen. Die Breite ist der engere Wert. Viele 3-Personen-Zelte sind etwa 140 cm breit und damit breiter als der Boden. Dann liegen Querträger auf den Bordwänden, das Zelt sitzt auf den Wänden und darf seitlich etwas überstehen, solange es innerhalb der Außenbreite von 178 cm bleibt und Licht und Kennzeichen frei hält. Länger als 220 cm blockiert die Heckklappe.
+
+Der Siebdruckboden trägt das Zelt nicht allein. Die Querträger gehören in den Stahlrahmen. Darunter bleiben 40 cm lichte Höhe: Kinderräder liegen, sie stehen nicht. Reicht das nicht, gibt es bei Pongratz Aufsatzwände.
+
+**Stand und Fahrt**
+
+Stützrad plus Abstellstützen auf den serienmäßigen Konsolen, bevor das Zelt aufgeht. Ein seitlich öffnendes Zelt kann den Einachser kippen. Während der Fahrt ist das Zelt geschlossen und verzurrt. Geschlafen wird nur im Stand. Kupplungshöhe des Syncro gegen die Deichsel prüfen, damit der Hänger in Fahrt eben hängt.
 
 ### 7.2a Dachgepäckträger (neu, ab 2026-09-24)
 
@@ -543,7 +564,8 @@ Ein Dachzelt auf dem T3 würde die Dachlast von oft **100 kg** zusammen mit dem 
 | Trinkwasser | LifeSaver Jerrycan im Heckfach | 18,5 l, von der Heckklappe ziehbar |
 | Kocher | 2-Flammer im Heckauszug | geschlossen ~49×32×10 cm; nur bei offener Klappe |
 | Zugriff vorn | 300 mm seitlich an der rechten Schiebetür, Rest von oben | Türöffnung deckt den Kasten nicht auf ganzer Länge |
-| Schlafen Kinder | Dachzelt auf dem Anhänger | Busdach bleibt innerhalb der Dachlast für Gepäck |
+| Schlafen Kinder | Dachzelt auf dem Pongratz 230er Heavy | Ladefläche 223 × 125 cm; Busdach nur Gepäck |
+| Räder | 2 MTB an der Deichsel, Kinderräder im Hänger | Stützlast eingetragen 75 kg; mit Waage prüfen |
 | Busdach | Westfalia-Gepäckträger, min. 4 Bögen | kein Zelt; Blaulicht und Sirene bei der Zivilanmeldung runter |
 | Status Box | **pausiert** | Stand in Abschnitt 0, Nachmessen am Bus vor dem Bau |
 
@@ -562,6 +584,7 @@ Ein Dachzelt auf dem T3 würde die Dachlast von oft **100 kg** zusammen mit dem 
 | Innenraumfotos AirDrop 2026-09-19 | Sitzlayout 3+3+3, KDO-Trennwand, Holzkiste Heck |
 | Rechnung Gegenleitner R 604/15.03.2023 | VIN, Motor MV08708, Revision € 4.793,70 |
 | §57a Gutachten 07.05.2026 | Typ 255, 2109 ccm, Prüfgewicht 1860 kg, Pickerl bis 05/2027 |
+| [Pongratz EPA 230/12 G-RS-STK](https://pongratztrailers.com/anhaenger/epa-230-12-g-rs-stk.1300/) | 230er-Heavy-Serie: 2230×1250×400 mm, 1300/286/1014 kg |
 
 ---
 
@@ -574,7 +597,7 @@ Ein Dachzelt auf dem T3 würde die Dachlast von oft **100 kg** zusammen mit dem 
 3. [ ] Am Bus nachmessen: Länge hinter der Mittelbank, Motordeckelhöhe, B-Säule der Schiebetür  
 4. [ ] Zurrkonzept (Abschnitt 4.5) – später  
 5. [ ] Danach erst Materialliste, Schablone, Bau  
-6. [ ] Anhänger: Dachzelt für 3 Kinder plus Platz für Räder und sperriges Gepäck; Anhängelast im Schein prüfen  
+6. [ ] Pongratz: Leerstützlast wiegen, Bus-Schein gegen 75 kg und 1300 kg halten, Zelt auf 223×125 cm aussuchen, Querträger und Abstellstützen, Deichselträger für 2 MTB  
 7. [ ] Dachträger: nutzbare gerade Rinnenlänge messen, 4-Bögen-Sonderlänge bei B.B.T. und Seefeldt anfragen. Blaulicht und Sirene kommen mit der Zivilanmeldung herunter und werden eingelagert
 
 ---
@@ -603,6 +626,7 @@ Ein Dachzelt auf dem T3 würde die Dachlast von oft **100 kg** zusammen mit dem 
 | 2026-09-24 | Box-Planung pausiert; Abschnitt 0 und Entscheidungsprotokoll auf den aktuellen Stand gebracht |
 | 2026-09-24 | Dachträger: Westfalia-Style, mindestens 4 Bögen und mehr Fläche; T3-Sonderanfertigung, T2-Träger passt nicht |
 | 2026-09-24 | Schlafen: Erwachsene im Bus, Kinder im Dachzelt auf dem Anhänger; Busdach nur Gepäck. Blaulicht und Sirene bei der Zivilanmeldung abbauen |
+| 2026-09-24 | Anhänger festgelegt: Pongratz 230er Heavy, Stützlast 75 kg; 2 MTB an der Deichsel, Kinderräder in der Mulde |
 
 ---
 
