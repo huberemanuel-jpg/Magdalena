@@ -21,7 +21,7 @@ Die Campingbox bleibt so, bis am Bus nachgemessen wird. Kein Materialzuschnitt i
 
 **Box:** drei Kästen, miteinander verschraubt, darüber Lattenrost und Matratze, das Ganze mit Zurrgurten im Bus. Unterkasten auf dem tiefen Boden, Oberkante bündig mit dem Motordeckel (ca. 375 mm). Darauf der Oberkasten, gleiche Höhe wie das Heckteil (ca. 530 mm). Heckteil auf der Motorabdeckung ca. **910 × 1550 × 530 mm**. Vorderer Stauraum damit wieder ca. 900 mm hoch. Die Motorabdeckung selbst ist nur ca. 1190 mm breit, die Kästen gehen bis an die Seiten. Der hohe Kasten ist Stauraum, nicht Sitzfreiheit.
 
-**Heckauszug** (von der Heckklappe): ein **Schwerlastauszug**, ca. 800 mm lang. Nebeneinander: flacher Wasserkanister 20 l mit Geschirrfächern darüber, **Dometic CFX5 55** (720 × 455 × 480 mm) dazwischen, Doppelkocher längs mit Fach dahinter für Topf, Brett und Kartusche. Der LifeSaver bleibt draußen. Kochen nur bei offener Heckklappe. Der große Stauraum bleibt im vorderen Boxteil.
+**Heckauszug** (von der Heckklappe): ein **Schwerlastauszug**, ca. 900 mm lang. Ganz hinten, quer: **Dometic CFX5 95DZ** (962 × 530 × 472 mm), daneben der flache Wasserkanister 20 l mit Geschirrfächern. Davor der Doppelkocher quer, daneben Topf, Brett und Kartusche. Der LifeSaver bleibt draußen. Kochen nur bei offener Heckklappe. Der große Stauraum bleibt im vorderen Boxteil.
 
 **Schlechtwetter:** Aufenthalt zu fünft im Vorzelt an der Schiebetür, nicht auf der Liege. Abschnitt 7.3.
 
@@ -367,9 +367,9 @@ Der Einbau besteht aus drei Teilen. Verschraubt sind sie eine Liege, gelöst tr�
 
 Darüber ein Lattenrost und die Matratze. Über der Kühlbox ist der Rost der Luftweg, den Dometic mit den 50 mm fordert. Die Latten laufen in Fahrtrichtung und liegen auf Querriegeln, die Spannweite ist dann die Modultiefe von ca. 900 mm. Quer über die vollen 1550 mm bräuchte es einen Mittelträger.
 
-**Warum das Vordergewicht den Auszug hält.** Kühlbox beladen ca. 35–40 kg, Wasser 20 kg, Kocher, Geschirr und Schublade ca. 25 kg, zusammen ca. 80–90 kg. Voll ausgezogen liegt der Schwerpunkt dieser Last etwa 400 mm hinter der Hinterkante, auf der Mitte des 800-mm-Auszugs. Das Moment ist grob 90 kg × 0,4 m = **36 kg·m**.
+**Warum das Vordergewicht den Auszug hält.** Die CFX5 95DZ steht ganz hinten im Auszug. Beladen ca. 60 kg, der Kanister daneben 20 kg, Kocher, Geschirr und Schublade ca. 35 kg, zusammen ca. 115 kg. Voll ausgezogen liegt der Schwerpunkt von Kühlbox und Kanister etwa 0,65 m hinter der Hinterkante. Das Moment ist grob **50 kg·m**.
 
-Der vordere Teil fängt 910 mm vor dieser Kante an, sein Schwerpunkt liegt etwa 1,4 m davor. Zwei leere Vorderkästen mit zusammen ca. 35 kg geben dort etwa **50 kg·m**, der Heckkasten bleibt mit dem eigenen Gewicht auf dem Motor. Statisch kippt der verschraubte Verbund also auch leer nicht. Beladen vorn wird der Abstand größer.
+Der vordere Teil fängt 910 mm vor dieser Kante an, sein Schwerpunkt liegt etwa 1,4 m davor. Zwei leere Vorderkästen mit zusammen ca. 35 kg geben dort ebenfalls etwa **50 kg·m**. Leer vorn ist das statisch knapp ausgeglichen. Beladen vorn wird der Abstand größer. Die Gurte sind die Reserve, gerade weil die schwere Box außen sitzt.
 
 Dafür müssen die drei Kästen ein Körper sein. Stehen sie nur aufeinander, zählt für den Auszug nur das Heckteil, und dessen Gewicht liegt zu nah an der Hinterkante.
 
@@ -394,9 +394,9 @@ Priorisierte Packliste (nur was wirklich im Bus bleiben soll):
 | 1 | Schlafsäcke / Decken / Kissen (tags) | Kompressionsbeutel |
 | 2 | Wechselkleidung 2 Erwachsene | 1× Eurobox 600×400 |
 | 3 | Küchen-Minimum (Gas abseits Fahrzeugregeln beachten) | 1× flache Box |
-| 4 | **Dometic CFX5 55, 55 l** | im Schwerlastauszug, zwischen Kanister und Kocher |
+| 4 | **Dometic CFX5 95DZ, 94 l** | im Schwerlastauszug, quer, ganz hinten an der Klappe |
 | 0 | **flacher Wasserkanister, ca. 20 l** | Heckfach, liegend, Höhe max. 170 mm |
-| 0b | **Doppel-Gaskocher** | im Schwerlastauszug, längs, daneben Kühlbox und Kanister |
+| 0b | **Doppel-Gaskocher** | im Schwerlastauszug, quer, vor der Kühlbox |
 | 5 | Werkzeug / Recovery klein | 1 Fach, zugänglich von Heck |
 | — | Rucksäcke, Kinder-Dachzelt, Fahrräder | **→ Anhänger**; Busdach nur Reisegepäck |
 
@@ -424,23 +424,21 @@ Reliance Aqua-Tainer 15 l ist 29 × 29 × 27,5 cm und bleibt zu hoch. Der 26-l-K
 
 ### 4.6b Doppel-Gaskocher im Heckauszug
 
-Der Heckauszug ist ein **Schwerlast-Vollauszug**. Darauf stehen nebeneinander der Kocher, die Kühlbox und der Wasserkanister. Der Heckteil ist 910 mm tief und 1550 mm breit, der Deckel liegt 530 mm über dem Motor.
+Der Heckauszug ist ein **Schwerlast-Vollauszug**, ca. 900 mm lang. Der Heckteil ist 910 mm tief und 1550 mm breit, der Deckel liegt 530 mm über dem Motor.
 
-Die Kühlbox ist eine **[Dometic CFX5 55](https://www.dometic.com/en/product/dometic-cfx5-55-9620015960)**, 55 l, außen **720 × 455 × 480 mm** inklusive Griffen, leer ca. 21–24 kg. Für fünf Personen ist das ein brauchbarer Vorrat für mehrere Tage.
+Die Kühlbox ist eine **[Dometic CFX5 95DZ](https://www.dometic.com/en/product/dometic-cfx5-95dz-9620015963)**, 94 l in zwei Zonen (55 l und 39 l), außen **962 × 530 × 472 mm** inklusive Griffen, leer ca. 33 kg. Sie steht **quer ganz hinten**, an der Heckklappe. Die 962 mm laufen über die Breite, die 530 mm in Fahrtrichtung.
 
-Sie steht **zwischen Kanister und Kocher**. Die 720 mm laufen quer, die 455 mm in Fahrtrichtung. Im 800-mm-Auszug bleiben vor und hinter der Box zusammen ca. 345 mm, also mehr als 50 mm an beiden Stirnseiten.
+Dometic verlangt **mind. 50 mm Luft an allen Seiten** und kein geschlossenes Fach ohne Luftzug. 472 mm unter einem 530-mm-Deckel lassen 58 mm übrig. Die Box steht auf dem dünnen Auszugboden, die Führungen sitzen seitlich, nicht unter der Box. Über der Kühlbox kommt ein Rost, keine geschlossene Platte. Die Lüftungsschlitze bleiben frei. Eine zweite Luftschicht unter der Box gibt die Höhe nicht her.
 
-Dometic verlangt **mind. 50 mm Luft an allen Seiten** und kein geschlossenes Fach ohne Luftzug. 480 mm unter einem 530-mm-Deckel lassen genau 50 mm übrig, wenn der Boden des Auszugs dünn ist und die Führungen **seitlich** sitzen, nicht unter der Box. Die Box steht auf diesem Boden. Eine zweite Luftschicht darunter gibt die Höhe nicht her. Über der Kühlbox kommt ein Rost, keine geschlossene Platte. Die Lüftungsschlitze bleiben frei.
+Neben der Kühlbox bleiben von den 1550 mm nach 962 mm und 50 mm Luft etwa 450–500 mm. Da steht der flache 20-l-Kanister, 350 mm breit und 460 mm in der Tiefe, mit den Geschirrfächern darüber. Das Fach bleibt zur Kühlbox offen.
 
-In der Breite ist der Heckteil mit ca. 1550 mm außen gerade voll. Kanister 350 mm, Kühlbox 720 mm und Kocher quer ca. 320–350 mm sind zusammen schon ca. 1390–1420 mm. Für Seitenwand, Führung und die Luft neben der Box bleiben ca. 130–160 mm. Eine geschlossene Trennwand mit vollen 50 mm je Seite passt nicht mehr dazu. Die Nachbarfächer bleiben zur Kühlbox offen, das ist der seitliche Luftweg. Vor dem Zuschnitt die lichte Schubladenbreite messen.
+Vor der Kühlbox, zur Mittelbank hin, bleiben im 910-mm-Heckteil 380 mm. Davon sind 50 mm die Luft vor der Box. Für den Kocher bleiben ca. 320 mm in Fahrtrichtung. Ein 2-Flammer mit ca. 600 mm Breite liegt dort quer. Der Auszug wird dafür ca. 900 mm lang: 530 mm Kühlbox, 50 mm Luft, ca. 320 mm Kocher. Ein tieferes Kochfeld sprengt dieses Maß. Neben dem Kocher, in derselben vorderen Reihe, liegen Kartusche, Topf, Pfanne und Brett. Über der Kocherklappe nicht: der Deckel klappt ca. 35 cm hoch auf, und das erst, wenn der Auszug so weit draußen ist, dass der Kocher vor der Ladekante steht. Die Kühlbox fährt dabei mit und hängt außen.
 
-Über dem Wasserkanister (nur 170 mm hoch) bleiben ca. 300 mm für Geschirr und Besteck. Über der Kocherklappe nicht: der Deckel klappt ca. 35 cm hoch auf. Topf, Pfanne, Brett, Gewürze und die Kartusche liegen **hinter** dem Kocher, in den ca. 200 mm, die von den 800 mm nach den 600 mm Kocherlänge übrig sind. Dieses Fach kann hoch sein, es liegt neben dem hinteren Teil der Kühlbox, nicht über dem Deckel.
-
-| Platz von links nach rechts | Maß | Was noch in die Höhe |
+| Platz | Maß | Was noch in die Höhe |
 | --- | --- | --- |
-| Wasserkanister 20 l, flach, 350 × 460 × 170 mm | Spur 350 mm | darüber Fächer: Besteck, 5 Teller, 5 Becher |
-| CFX5 55, 720 × 455 × 480 mm | Spur 720 mm, Luft über die offenen Nachbarfächer | oben 50 mm Rost, Box steht auf dem Boden |
-| Doppelkocher, 600 mm in Fahrtrichtung, quer ca. 320–350 mm | Spur ca. 350 mm, vorn nur die Gerätehöhe | 200 mm dahinter, hoch: Kartusche, Topf, Pfanne, Brett |
+| Ganz hinten: CFX5 95DZ, 962 × 530 × 472 mm | 962 mm quer, 530 mm in Fahrtrichtung | oben ca. 58 mm Rost, Box steht auf dem Boden |
+| Daneben: Wasserkanister 20 l, 350 × 460 × 170 mm | Spur ca. 400 mm, offen zur Kühlbox | darüber Fächer: Besteck, 5 Teller, 5 Becher |
+| Davor: Doppelkocher, ca. 600 mm quer, ca. 320 mm tief | vordere Reihe im 900-mm-Auszug | neben dem Kocher: Kartusche, Topf, Pfanne, Brett. Über der Klappe frei |
 
 Sonst im Auszug, in diesen Fächern, und nirgends sonst:
 
@@ -452,10 +450,10 @@ Kleidung, Schlafsäcke und Werkzeug bleiben draußen. Trockenvorrat liegt im vor
 
 | | Plan |
 | --- | --- |
-| Auszug | ca. **800 × 1500 × 500 mm**. Schwerlast-Vollauszug, Tragkraft über 120 kg, Führungen seitlich und in der Mitte |
-| Gewicht grob | Kühlbox beladen ca. 35–40 kg, Wasser 20 kg, Kocher, Geschirr und Auszug dazu. Beim Kochen kommt das nach hinten heraus. Gurte halten das. Kein Tisch |
-| Betrieb | Auszug so weit heraus, dass der Kocher vor der Ladekante steht und der Deckel frei aufgeht. Die Kühlbox fährt mit |
-| Strom | 12 V, eigene Sicherung. Die CFX5 55 zieht laut Datenblatt **9,6 A bei 12 V**. Das ist zu viel für einen dauerhaften Zigarettenanzünder |
+| Auszug | ca. **900 × 1500 × 500 mm**. Schwerlast-Vollauszug, Tragkraft über 150 kg, Führungen seitlich und in der Mitte. Die 95DZ sitzt außen, die Last liegt höher als bei der 55 |
+| Gewicht grob | Kühlbox beladen ca. 60 kg, Wasser 20 kg, Kocher, Geschirr und Auszug dazu, zusammen ca. 115 kg. Beim Kochen kommt das nach hinten heraus. Gurte halten das. Kein Tisch |
+| Betrieb | Auszug so weit heraus, dass der Kocher vor der Ladekante steht und der Deckel frei aufgeht. Die Kühlbox steht dabei schon draußen |
+| Strom | 12 V, eigene Sicherung. Die CFX5 95DZ zieht laut Datenblatt **9,8 A bei 12 V**. Das ist zu viel für einen dauerhaften Zigarettenanzünder |
 
 Kochen nur bei **offener Heckklappe** und ausgezogenem Kocher, nicht im geschlossenen Bus. Die Geräte dieser Klasse sind laut Hersteller nicht für geschlossene Räume. Keine feste Gasanlage, kein Einbaukocher – der Kocher bleibt ein herausnehmbares Campinggerät.
 
@@ -632,8 +630,8 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | Küche fest | nein | Kocher bleibt loses Gerät im Auszug |
 | Trinkwasser | flacher Kanister ca. 20 l, Höhe max. 170 mm | LifeSaver bleibt draußen. Die 530 mm Höhe bleibt für den Stauraum |
 | Aufenthalt Regen | Vorzelt an der Schiebetür, 5 Personen | im Bus wird gelegen, nicht gesessen |
-| Kocher | 2-Flammer längs im Schwerlastauszug | 600 mm in Fahrtrichtung, Kartusche in den restlichen 200 mm |
-| Kühlbox | Dometic CFX5 55, 720×455×480 mm, zwischen Kanister und Kocher | 50 mm Luft an allen Seiten, Rost über der Box, Führungen seitlich |
+| Kocher | 2-Flammer quer vor der Kühlbox | ca. 320 mm in Fahrtrichtung, ca. 600 mm über die Breite. Topf daneben |
+| Kühlbox | Dometic CFX5 95DZ, 962×530×472 mm, quer ganz hinten | 50 mm Luft, Rost über der Box, Kanister daneben, Kocher davor quer |
 | Zugriff vorn | 300 mm seitlich an der rechten Schiebetür, Rest von oben | Türöffnung deckt den Kasten nicht auf ganzer Länge |
 | Schlafen Kinder | Dachzelt auf dem Pongratz 230er Heavy | Ladefläche 223 × 125 cm; Busdach nur Gepäck |
 | Räder | 2 MTB an der Deichsel, Kinderräder im Hänger | Stützlast eingetragen 75 kg; mit Waage prüfen |
@@ -658,7 +656,7 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | [Pongratz EPA 230/12 G-RS-STK](https://pongratztrailers.com/anhaenger/epa-230-12-g-rs-stk.1300/) | 230er-Heavy-Serie: 2230×1250×400 mm, 1300/286/1014 kg |
 | [Nakatanenga Wasserkanister](https://www.dachzelt24.de/kunststoff-wasserkanister-wassertank-mit-ausgusshahn-20l-oder-10l/NAWTAN020-GRY) | 20 l: 350×460×170 mm; 10 l: 260×370×140 mm |
 | [RotopaX 2 Gallon Water](https://www.rotopax.com/products/2-gallon-water) | 7,6 l, 457×356×76 mm |
-| [Dometic CFX5 55](https://www.dometic.com/en/product/dometic-cfx5-55-9620015960) | 55 l, 720×455×480 mm, leer ca. 21–24 kg, 9,6 A bei 12 V, 50 mm Luft rundum |
+| [Dometic CFX5 95DZ](https://www.dometic.com/en/product/dometic-cfx5-95dz-9620015963) | 94 l (55/39), 962×530×472 mm, leer ca. 33 kg, 9,8 A bei 12 V, 50 mm Luft rundum |
 | Pongratz Anleitungen Lastenträger, Dachträger am Polyesterdeckel, PE-Deckel mit Aufsatzwand | Träger statt Deckel klemmt auf die Bordwand; Dachträger am Deckel ist Leichtgut |
 
 ---
@@ -710,6 +708,7 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | 2026-09-24 | Kocherauszug längs, ca. 800 mm, damit ein 2-Flammer mit ca. 600 mm Breite hineinpasst |
 | 2026-09-24 | Schwerlastauszug: Kühlbox ca. 36 l zwischen Kanister und Kocher. 45 l ist zu hoch |
 | 2026-09-24 | Kühlbox wird die CFX5 55, 720×455×480 mm. Geschirr über dem Kanister, Topf hinter dem Kocher |
+| 2026-09-28 | Kühlbox wird die CFX5 95DZ, 962×530×472 mm, quer ganz hinten. Kanister daneben, Kocher davor quer, Auszug ca. 900 mm |
 | 2026-09-24 | Einbau in drei Kästen: Unterkasten bündig Motordeckel, Oberkasten und Heckteil je 530 mm, verschraubt, Rost und Matratze oben, Gurte am Rahmen |
 | 2026-09-24 | Box-Follow-up: Geometrie bleibt pausiert; Anhänger ist entschieden, Kocher bleibt im Heckauszug |
 
