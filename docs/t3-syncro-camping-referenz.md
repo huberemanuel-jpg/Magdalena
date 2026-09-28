@@ -253,6 +253,7 @@ Foto [`innenraum/07-heck-holzkiste-motor.jpg`](fotos/innenraum/07-heck-holzkiste
 | --- | --- |
 | **Seitenansicht mit Maßen** (vorderer Teil) | [`skizzen/seitenansicht-masse.png`](skizzen/seitenansicht-masse.png) |
 | Seitenansicht (früher) | [`skizzen/t3-seitenansicht-campingbox.png`](skizzen/t3-seitenansicht-campingbox.png) |
+| **Draufsicht Heckauszug** | [`skizzen/draufsicht-heckauszug.png`](skizzen/draufsicht-heckauszug.png) |
 | **Heckansicht mit Maßen** | [`skizzen/heckansicht-masse.png`](skizzen/heckansicht-masse.png) |
 | Heckansicht Zugang (früher) | [`skizzen/heckansicht-zugang.png`](skizzen/heckansicht-zugang.png) |
 | Übersicht Grundriss + Schnitt | [`skizzen/t3-campingbox-skizze.png`](skizzen/t3-campingbox-skizze.png) |
@@ -430,7 +431,7 @@ Die Kühlbox ist eine **[Dometic CFX5 95DZ](https://www.dometic.com/en/product/d
 
 Dometic verlangt **mind. 50 mm Luft an allen Seiten** und kein geschlossenes Fach ohne Luftzug. 472 mm unter einem 530-mm-Deckel lassen 58 mm übrig. Die Box steht auf dem dünnen Auszugboden, die Führungen sitzen seitlich, nicht unter der Box. Über der Kühlbox kommt ein Rost, keine geschlossene Platte. Die Lüftungsschlitze bleiben frei. Vor und hinter der Box bleiben je ca. 50 mm. Das Stirnfach schließt diese Luft nicht zu.
 
-Neben der Kühlbox bleiben nach 962 mm und 50 mm Luft etwa 450–500 mm. Da steht der flache 20-l-Kanister, 350 mm breit und 460 mm in der Tiefe, mit den Geschirrfächern darüber. Das Fach bleibt zur Kühlbox offen.
+Neben der Kühlbox bleiben nach 962 mm und 50 mm Luft etwa 450–500 mm. Der Kanister liegt dort auf der **350-mm-Seite**, die 460 mm laufen längs neben den 530 mm der Box. 962 + 50 + 350 = **1362 mm**. Vom Heckteil mit ca. 1550 mm außen bleiben ca. 190 mm für Seitenwand, Führung und die 50 mm Luft auf der anderen Seite der Kühlbox. Das geht sich aus. Mit der 460-mm-Seite quer wäre die Reihe etwa 1470 mm plus Luft und passt nicht mehr neben die Führungen. Das Geschirrfach über dem Kanister bleibt zur Kühlbox offen.
 
 An der Stirnseite, zur Heckklappe hin, liegt ein Fach von ca. **150 mm Tiefe**. Ein 2-Flammer mit geschlossen ca. 600 × 320 × 100 mm steht dort hochkant: die 320 mm werden zur Höhe, die 100 mm zur Tiefe. Lichtes Maß ca. 620 × 150 × 360 mm. Daneben, im selben flachen Fach, stehen die Kartuschen, Brett und Pfanne. Gewürze, Öl, Spülmittel, Schwamm, Abwaschbecken, Geschirrtücher, Müllbeutel und Feuerzeug bleiben in diesem Band oder über dem Kanister.
 
@@ -708,6 +709,7 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | 2026-09-24 | Kühlbox wird die CFX5 55, 720×455×480 mm. Geschirr über dem Kanister, Topf hinter dem Kocher |
 | 2026-09-28 | Kühlbox wird die CFX5 95DZ, 962×530×472 mm, quer ganz hinten. Kanister daneben, Kocher davor quer, Auszug ca. 900 mm |
 | 2026-09-28 | Kocher und Kühlbox getauscht. 95DZ weiter innen, Kocher hochkant im 150-mm-Stirnfach, Klapp-Arbeitsplatte ca. 800 × 400 mm |
+| 2026-09-28 | Draufsicht: Kanister und CFX5 95DZ nebeneinander, Kanister auf der 350-mm-Seite. 1362 mm von 1550 mm |
 | 2026-09-24 | Einbau in drei Kästen: Unterkasten bündig Motordeckel, Oberkasten und Heckteil je 530 mm, verschraubt, Rost und Matratze oben, Gurte am Rahmen |
 | 2026-09-24 | Box-Follow-up: Geometrie bleibt pausiert; Anhänger ist entschieden, Kocher bleibt im Heckauszug |
 
