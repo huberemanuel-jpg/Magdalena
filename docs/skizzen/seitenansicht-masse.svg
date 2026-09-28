@@ -72,14 +72,16 @@
 
   <!-- rear box on engine: x=736 to 973, platform y=245 to engine deck y=383 -->
   <rect x="736" y="245" width="237" height="138" fill="#f3c7b8" stroke="#b8432a" stroke-width="2.5"/>
-  <!-- drawer ~900 mm = 234 px, inset in the 910 mm rear box. Cooler 530 mm = 138 px at the tail. -->
-  <rect x="742" y="253" width="227" height="130" rx="2" fill="#fff" stroke="#6e2414" stroke-width="1.6"/>
-  <rect x="831" y="258" width="134" height="120" rx="2" fill="#d9ead3" stroke="#2e7d32" stroke-width="1.4"/>
-  <text x="786" y="308" text-anchor="middle" font-size="11" font-weight="700" fill="#6e2414">Kocher quer</text>
-  <text x="786" y="326" text-anchor="middle" font-size="10" fill="#6e2414">ca. 320 mm</text>
-  <text x="898" y="308" text-anchor="middle" font-size="11" font-weight="700" fill="#1b5e20">CFX5 95DZ</text>
-  <text x="898" y="326" text-anchor="middle" font-size="10" fill="#1b5e20">ganz hinten</text>
-  <text x="898" y="344" text-anchor="middle" font-size="10" fill="#1b5e20">530 mm tief</text>
+  <!-- drawer ~800 mm = 208 px. From the tail inward: stove slot 150 mm, air, cooler 530 mm. -->
+  <rect x="760" y="253" width="208" height="130" rx="2" fill="#fff" stroke="#6e2414" stroke-width="1.6"/>
+  <rect x="778" y="258" width="138" height="120" rx="2" fill="#d9ead3" stroke="#2e7d32" stroke-width="1.4"/>
+  <text x="847" y="308" text-anchor="middle" font-size="11" font-weight="700" fill="#1b5e20">CFX5 95DZ</text>
+  <text x="847" y="326" text-anchor="middle" font-size="10" fill="#1b5e20">weiter innen</text>
+  <rect x="929" y="295" width="36" height="84" fill="#fff" stroke="#6e2414" stroke-width="1.3"/>
+  <text x="947" y="348" text-anchor="middle" font-size="9" font-weight="700" fill="#6e2414" transform="rotate(-90 947 348)">Kocher hochkant</text>
+  <rect x="984" y="400" width="104" height="8" fill="#c4a574" stroke="#6e2414" stroke-width="1"/>
+  <line x1="968" y1="383" x2="984" y2="404" stroke="#6e2414" stroke-width="1.3"/>
+  <text x="1036" y="424" text-anchor="middle" font-size="10" font-weight="700" fill="#6e2414">Arbeitsplatte ca. 400 mm</text>
 
   <!-- Schiebetür rechts. Öffnung 1060×1315 mm, angesetzt am Laderaumanfang (x=250).
        1060*0.26=276, Höhe 1315*0.26=342, Unterkante Boden y=491, Oberkante y=149.
@@ -98,12 +100,12 @@
   <polygon points="973,198 963,194 963,202" fill="#b8432a"/>
   <text x="854" y="190" text-anchor="middle" font-size="12" font-weight="700" fill="#b8432a">Heckteil Länge ca. 910 mm</text>
 
-  <line x1="1002" y1="245" x2="1002" y2="383" stroke="#b8432a" stroke-width="1.6"/>
-  <line x1="973" y1="245" x2="1002" y2="245" stroke="#b8432a" stroke-width="1"/>
-  <line x1="973" y1="383" x2="1002" y2="383" stroke="#b8432a" stroke-width="1"/>
-  <polygon points="1002,245 998,255 1006,255" fill="#b8432a"/>
-  <polygon points="1002,383 998,373 1006,373" fill="#b8432a"/>
-  <text x="1016" y="324" transform="rotate(90 1016 324)" font-size="12" font-weight="700" fill="#b8432a">Höhe ca. 530 mm</text>
+  <line x1="1124" y1="245" x2="1124" y2="383" stroke="#b8432a" stroke-width="1.6"/>
+  <line x1="973" y1="245" x2="1124" y2="245" stroke="#b8432a" stroke-width="1"/>
+  <line x1="973" y1="383" x2="1124" y2="383" stroke="#b8432a" stroke-width="1"/>
+  <polygon points="1124,245 1120,255 1128,255" fill="#b8432a"/>
+  <polygon points="1124,383 1120,373 1128,373" fill="#b8432a"/>
+  <text x="1138" y="324" transform="rotate(90 1138 324)" font-size="12" font-weight="700" fill="#b8432a">Höhe ca. 530 mm</text>
 
   <!-- hatch -->
   <path d="M973 110 L1040 190" stroke="#222" stroke-width="2.5" fill="none"/>
