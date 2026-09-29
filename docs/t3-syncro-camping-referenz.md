@@ -2,7 +2,7 @@
 
 **Fahrzeug:** VW T3 Syncro · EZ 05/1991 · 95 PS · 14″ · **3 Sperren** · G-Gang · Webasto · ehem. KDO-F St. Nikola  
 **Kauf:** 18.900 € (willhaben) · **Zielwert Erhalt:** Sammlerzustand (Markt 30–50.000 €)  
-**Stand dieses Dokuments:** 2026-09-29 · Box-Planung pausiert · Dachzelt auf dem Bus, Pongratz für Gepäck (Abschnitt 7.2)  
+**Stand dieses Dokuments:** 2026-09-29 · Box-Planung pausiert · Dachzelt Freedom Family auf dem Bus, Approach M als Alternative, Pongratz für Gepäck (Abschnitt 7.2)  
 **Maße:** Literaturwerte + Innenraumfotos/Dokumente · **Fotobeleg:** willhaben + eigene Fotos
 
 ---
@@ -31,7 +31,7 @@ Die Campingbox bleibt so, bis am Bus nachgemessen wird. Kein Materialzuschnitt i
 
 **Skizzen:** [`docs/skizzen/seitenansicht-masse.png`](skizzen/seitenansicht-masse.png), [`docs/skizzen/heckansicht-masse.png`](skizzen/heckansicht-masse.png).
 
-**Schlafen, Richtung ab 2026-09-29:** zwei Erwachsene im Bus, bis zu drei Kinder im Dachzelt auf dem Busdach. Der Pongratz nimmt Gepäck und Räder (Abschnitt 7.1 und 7.2).
+**Schlafen, Richtung ab 2026-09-29:** zwei Erwachsene im Bus, bis zu drei Kinder im Dachzelt auf dem Busdach. Falls ein Erwachsener bei den Kindern schläft, muss das Zelt das fassen. Gewählt ist das qeedo Freedom Family, das Thule Approach M bleibt die leichtere Alternative (Abschnitt 7.2). Der Pongratz nimmt Gepäck und Räder (Abschnitt 7.1).
 
 **Noch nicht entschieden an der Box:** Zurrpunkte, Materialliste, Zuschnitt. Der Anhänger ist der Pongratz 230er Heavy (Abschnitt 7.1).
 
@@ -189,7 +189,7 @@ KDO-F-Sonderaufbauten können abweichen (z. B. 2+3+2+2). Beim ersten Zugang kurz
 | Bereich | Ziel |
 | --- | --- |
 | Schlafen Erwachsene | 2 Personen in Campingbox / Liegefläche hinten |
-| Schlafen Kinder | bis zu 3 Kinder im Dachzelt **auf dem Bus** (Abschnitt 7.2) |
+| Schlafen Kinder | bis zu 3 Kinder im qeedo Freedom Family **auf dem Bus**. Ein Erwachsener muss bei den Kindern Platz haben (Abschnitt 7.2) |
 | Tagsüber / Fahrt | ≥ 5 Sitzplätze (Fahrer + Beifahrer + mind. 3 hinten) |
 | Gepäck sperrig / Räder | Pongratz 230er Heavy: 2 MTB an der Deichsel, Kinderräder und Sperriges in der Mulde |
 | Gepäck auf dem Busdach | nur das Dachzelt. Die Dachlast ist damit belegt |
@@ -495,7 +495,7 @@ Kochen nur bei **offener Heckklappe**, auf der Arbeitsplatte. Die Geräte dieser
 | Reihe 2 | 3 Sitze | bleibt; Lehnenrückseite = Bettverlängerung |
 | Heck | Campingbox ~1550×1500–1700 mm | Modul, gurtsfixiert |
 | Seitenverkleidung | Serie / Feuerwehr | erhalten; keine neuen Einbauten fest |
-| Dach | Thule Approach M auf zwei Rinnen-Querträgern | Dachlast oft 100 kg inkl. Träger. Kein zusätzliches Dachgepäck |
+| Dach | qeedo Freedom Family auf zwei Rinnen-Querträgern | Dachlast oft 100 kg inkl. Träger. Approach M ist die leichtere Alternative. Kein zusätzliches Dachgepäck |
 | Boden | Serie | Gummiauflage unter Box, sonst original |
 
 ### 5.2 Komfort ohne Substanzverlust
@@ -579,19 +579,25 @@ Das Dach trägt das Zelt, keinen Lattenrost. Der frühere Wunsch eines Westfalia
 - [Werk34 / B.B.T., Art. 021 251 022](https://www.werk34.de/de/dachgepaecktraeger-westfalia-style-nachfertigung-in-spitzen-qualitaet-passend-fuer-t3-mit-3-boegen-021-251-022.html), ca. **990 €**, 3 Bögen, passend für T3
 - gleicher Typ bei [Seefeldt](https://www.seefeldt.de/de/dachgepaecktraeger-edelstahl-bus-t3-3-bogen-version-05-79-08-92.html): Edelstahl, Seriendach 05/79–08/92, 3 Bögen ca. **1.100 €**, ca. 19,5 kg. Seefeldt baut die T3-Version auch mit 4 Bögen auf Sonderbestellung. Ein T1/T2-Träger passt nicht auf die T3-Rinne
 
-Fürs Zelt reichen **zwei Querträger**, die ein Dachzelt tragen dürfen, geklemmt in die gerade Regenrinne. Mindestabstand beim Approach M: 80 cm. Keine Bohrung ins Dach. Ein 19,5-kg-Lattenrost plus 58 kg Zelt lässt von oft 100 kg Dachlast nur etwa 22 kg übrig. Zwei leichte Querträger lassen mehr Luft, das Gewicht steht im Trägerblatt. Zelt plus Träger müssen unter der Dachlast aus dem Schein bleiben. Weiteres Dachgepäck entfällt, das geht auf den Hänger.
+Fürs Zelt reichen **zwei Querträger**, die ein Dachzelt tragen dürfen, geklemmt in die gerade Regenrinne. Mindestabstand beim Freedom Family **80 cm**, gleich beim Approach M. Keine Bohrung ins Dach. Ein 19,5-kg-Lattenrost plus ca. 77 kg Zelt lässt von oft 100 kg Dachlast fast nichts übrig. Zwei leichte Querträger lassen den nötigen Rest, das Gewicht steht im Trägerblatt. Zelt plus Träger müssen unter der Dachlast aus dem Schein bleiben. Weiteres Dachgepäck entfällt, das geht auf den Hänger.
 
 Blaulicht und Sirene kommen bei der Zivilanmeldung herunter. Danach ist die Rinne frei. Die rechte Rinne teilt sich das Zelt mit dem Vorzelt, die nutzbare gerade Länge wird vorher gemessen.
 
 ### 7.2 Dachzelt auf dem Bus
 
-Das Zelt ist das **[Thule Approach M](https://www.thule.com/de-at/rooftop-tents-and-accessories/rooftop-tents/thule-approach-m-_-901014)**, Art. 901014. Weichschale, 3 Personen, Schlaffläche 240 × 130 cm, geschlossen **124 × 143 × 28 cm**, 58 kg, statisch 300 kg. Thule Österreich listet es mit **2.699,95 €**. Die 130 cm sind drei Kinder.
+Das Zelt ist das **[qeedo Freedom Family](https://www.qeedo.de/products/freedom-family?variant=Z4242)** (Freedom Family 4, Variante Z4242). Weichschale, Klappzelt, bis zu 4 Personen. Liegefläche **250 × 200 cm**, Innenhöhe **113 cm**, Matratze **9 cm** mit 3D-Mesh. Geschlossen **217 × 138 × 39 cm**. Die Händlertabellen, auch Skytentcamper in Götzis, nennen **ca. 71 kg ohne Leiter** und **6 kg** für die Leiter, zusammen **ca. 77 kg**. Auf der Produktseite steht „nur 75 kg Dachlast“. Geplant wird mit **77 kg plus den Querträgern**. Skytentcamper listet es mit **2.699 €** inklusive 20 % MwSt. (vorher 2.899 €). Wassersäule 3000 mm.
 
-In der Serienmontage laufen die 143 cm in Fahrtrichtung, die 124 cm quer. Geschlossen bleibt das innerhalb der Busbreite. Aufgeklappt geht es auf 240 cm zur Seite. Die Leiter kommt auf die **linke** Seite, die rechte Regenrinne bleibt für Schiebetür und Vorzelt. Geschlossen ist das Zelt 28 cm hoch plus die Querträger. Die Gesamthöhe wird am Bus gemessen, bevor eine Garage oder eine Fähre geplant wird.
+Die 200 cm Breite sind der Grund. Bis zu drei Kinder schlafen oben, und ein Erwachsener hat bei den Kindern Platz, falls das nötig wird. Die 130 cm des Approach M fassen diesen Fall nicht.
 
-Die Dachlast steht in vielen T3-Blättern bei **100 kg inklusive Träger**. Das ist die Last für die Fahrt. 58 kg Zelt plus das Trägergewicht müssen darunter bleiben. Im Stand kommen die Kinder dazu. Eine eigene Zahl für diese ruhende Last steht in den Blättern nicht, der Schein entscheidet.
+Die 217 cm laufen in Fahrtrichtung. Die Leiter kommt auf die **linke** Seite. Die Anleitung lässt den Eingang links oder rechts zu. Die rechte Regenrinne bleibt für Schiebetür und Vorzelt. Aufgeklappt stützen Leiter und Eckstützen die auskragende Hälfte am Boden. Mindestabstand der Querträger **80 cm**. qeedo rät von Klemmträgern im Türrahmen ab. An diesem Bus sind es Querträger in der Regenrinne, für ein Dachzelt zugelassen, ohne Bohrung ins Blech. Zum Auflegen braucht es vier Personen oder einen Deckenlift. Die Anleitung nennt **120 km/h** als empfohlene Höchstgeschwindigkeit. Sitzt das Zelt zu weit hinten, kann die Heckklappe anstoßen. Geschlossen ist es 39 cm hoch plus die Träger. Die Gesamthöhe wird am Bus gemessen, bevor eine Garage oder eine Fähre geplant wird. Die gerade Rinne muss die 217 cm plus die Klemmen fassen. Das wird am Bus gemessen, bevor bestellt wird.
 
-Das Approach L wiegt 68 kg und ist in Längsrichtung 184 cm lang. Es schläft auf 170 cm Breite. Es kommt nur in Frage, wenn der Schein die Dachlast hergibt und die gerade Rinne die 184 cm fasst.
+Die Dachlast steht in vielen T3-Blättern bei **100 kg inklusive Träger**. Das ist die Last für die Fahrt. 77 kg Zelt plus zwei leichte Querträger müssen darunter bleiben, der Rest ist klein. Die Leiter kann im Bus mitfahren, dann fehlen ihre 6 kg auf dem Dach. Im Stand kommen die Schlafenden dazu. Eine eigene Zahl für diese ruhende Last steht in den T3-Blättern nicht. Händler nennen für das Zelt eine Tragkraft von ca. 300 kg. Der Schein entscheidet über die Fahrt.
+
+**Alternative, falls Dachlast oder Rinnenlänge das Family nicht tragen:** das **[Thule Approach M](https://www.thule.com/de-at/rooftop-tents-and-accessories/rooftop-tents/thule-approach-m-_-901014)**, Art. 901014. Weichschale, 3 Personen, Schlaffläche 240 × 130 cm, geschlossen **124 × 143 × 28 cm**, 58 kg, statisch 300 kg. Thule Österreich listet es mit **2.699,95 €**. Es ist leichter, auf der Rinne kürzer (143 cm) und geschlossen 28 cm hoch. Die Öffnung ginge ebenfalls nach links. Die 130 cm sind drei Kinder. Für den Fall, dass ein Erwachsener mit oben schläft, bleibt es die kleinere Alternative.
+
+Das Approach L wiegt 68 kg, ist in Längsrichtung 184 cm lang und schläft auf 170 cm Breite. Das bleibt notiert. Die 170 cm liegen zwischen dem M und den 200 cm des Family.
+
+Angeschaut und nicht gewählt: das [horntools Elements Gen II 220, Midnight Stone](https://www.horntools.com/products/dachzelt-elements-gen-ll-4-personen-220-midnight-stone?variant=56429461602687), Modell HRT07II-220VZ, Angebot 3.290 €. Matratze 235 × 210 × 8 cm, geschlossen 125 × 225 × 39 cm, offen 320 × 220 × 130 cm. Dieselbe Seite nennt 91 kg ohne Leiter, im Text 104,6 kg inklusive beider Leitern (je 6,8 kg) und in der FAQ 97,8 kg inklusive Leiter. Das liegt an oder über der typischen Dachlast, bevor die Querträger dazukommen.
 
 Geschlafen wird nur im Stand, das Zelt ist auf der Fahrt geschlossen und verriegelt.
 
@@ -599,7 +605,7 @@ Geschlafen wird nur im Stand, das Zelt ist auf der Fahrt geschlossen und verrieg
 
 Bei schlechtem Wetter sitzen und essen fünf Personen im **Vorzelt**, nicht auf der Liege. Im Bus wird geschlafen. Über der Matratze bleiben ca. 460 mm, das reicht zum Liegen.
 
-Das Vorzelt kommt an die **rechte** Regenrinne, dort ist die Schiebetür. Keine Bohrung ins Dach. Dieselbe Rinne trägt auch die rechten Klammern der Zelt-Querträger. Zelt öffnet nach links, damit die rechte Seite für Tür und Vorzelt frei bleibt. Die gerade Rinnenstrecke wird am Bus gemessen, bevor Träger oder Vorzelt bestellt werden.
+Das Vorzelt kommt an die **rechte** Regenrinne, dort ist die Schiebetür. Keine Bohrung ins Dach. Dieselbe Rinne trägt auch die rechten Klammern der Zelt-Querträger. Das Freedom Family öffnet nach links, damit die rechte Seite für Tür und Vorzelt frei bleibt. Die gerade Rinnenstrecke wird am Bus gemessen, bevor Träger oder Vorzelt bestellt werden.
 
 Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, das an der T3-Rinne klemmt und die Schiebetür frei lässt.
 
@@ -621,9 +627,9 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | Kocher | hochkant im Stirnfach, Betrieb auf der Klapp-Arbeitsplatte | Fach ca. 150 mm tief. Platte ca. 800 × 400 mm für Kocher und Griller |
 | Kühlbox | Dometic CFX5 95DZ, 962×530×472 mm, quer weiter innen | 50 mm Luft, Rost über der Box, Kanister daneben. Beim Kochen bleibt sie über dem Motor |
 | Zugriff vorn | 300 mm seitlich an der rechten Schiebetür, Rest von oben | Türöffnung deckt den Kasten nicht auf ganzer Länge |
-| Schlafen Kinder | Thule Approach M auf dem Busdach | 240 × 130 cm für drei Kinder. Öffnung nach links, rechte Rinne bleibt fürs Vorzelt |
+| Schlafen Kinder | qeedo Freedom Family auf dem Busdach | 250 × 200 cm, damit ein Erwachsener bei den Kindern Platz hat. Öffnung nach links |
 | Räder | 2 MTB an der Deichsel, Kinderräder im Hänger | Stützlast eingetragen 75 kg; mit Waage prüfen |
-| Busdach | zwei Querträger fürs Approach M, kein Lattenrost | Dachlast oft 100 kg inkl. Träger. Gepäck auf den Pongratz |
+| Busdach | zwei Querträger fürs Freedom Family, kein Lattenrost | ca. 77 kg Zelt plus Träger unter oft 100 kg. Approach M ist die leichtere Alternative. Gepäck auf den Pongratz |
 | Status Box | **pausiert** | Stand in Abschnitt 0, Nachmessen am Bus vor dem Bau |
 
 ---
@@ -642,7 +648,10 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | Rechnung Gegenleitner R 604/15.03.2023 | VIN, Motor MV08708, Revision € 4.793,70 |
 | §57a Gutachten 07.05.2026 | Typ 255, 2109 ccm, Prüfgewicht 1860 kg, Pickerl bis 05/2027 |
 | [Pongratz EPA 230/12 G-RS-STK](https://pongratztrailers.com/anhaenger/epa-230-12-g-rs-stk.1300/) | 230er-Heavy-Serie: 2230×1250×400 mm, 1300/286/1014 kg |
-| [Thule Approach M, 901014](https://www.thule.com/de-at/rooftop-tents-and-accessories/rooftop-tents/thule-approach-m-_-901014) | 3 Personen, geschlossen 124×143×28 cm, offen 240×143 cm, Schlaf 240×130 cm, 58 kg. Auf dem T3 Öffnung nach links |
+| [qeedo Freedom Family, Z4242](https://www.qeedo.de/products/freedom-family?variant=Z4242) | 4 Personen, Liege 250×200 cm, Innenhöhe 113 cm, geschlossen 217×138×39 cm. Händler: ca. 71 kg ohne Leiter, Leiter 6 kg. Seite: „75 kg Dachlast“. Plan: 77 kg plus Träger, Öffnung nach links |
+| [Skytentcamper, Freedom Family 4](https://skytentcamper.at/produkt/qeedo-freedom-family-4-500185/) | 2.699 € inkl. 20 % MwSt., gleiche Maßtabelle, Tragkraft ca. 300 kg |
+| [Thule Approach M, 901014](https://www.thule.com/de-at/rooftop-tents-and-accessories/rooftop-tents/thule-approach-m-_-901014) | Alternative: 3 Personen, geschlossen 124×143×28 cm, Schlaf 240×130 cm, 58 kg, 2.699,95 €. Zu schmal, wenn ein Erwachsener bei den Kindern schläft |
+| [horntools Elements Gen II 220](https://www.horntools.com/products/dachzelt-elements-gen-ll-4-personen-220-midnight-stone?variant=56429461602687) | Angeschaut, nicht gewählt. Matratze 235×210 cm. Seite: 91 kg ohne Leiter, 104,6 kg mit beiden Leitern, FAQ 97,8 kg |
 | [Nakatanenga Wasserkanister](https://www.dachzelt24.de/kunststoff-wasserkanister-wassertank-mit-ausgusshahn-20l-oder-10l/NAWTAN020-GRY) | 20 l: 350×460×170 mm; 10 l: 260×370×140 mm |
 | [RotopaX 2 Gallon Water](https://www.rotopax.com/products/2-gallon-water) | 7,6 l, 457×356×76 mm |
 | [Dometic CFX5 95DZ](https://www.dometic.com/en/product/dometic-cfx5-95dz-9620015963) | 94 l (55/39), 962×530×472 mm, leer ca. 33 kg, 9,8 A bei 12 V, 50 mm Luft rundum |
@@ -659,8 +668,8 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 3. [ ] Am Bus nachmessen: Länge hinter der Mittelbank, Motordeckelhöhe, B-Säule der Schiebetür  
 4. [ ] Zurrkonzept (Abschnitt 4.5) – später  
 5. [ ] Danach erst Materialliste, Schablone, Bau  
-6. [ ] Dach: Schein-Dachlast gegen Approach M (58 kg) plus zwei Querträger halten, gerade Rinnenlänge messen, Öffnung nach links. Pongratz: Leerstützlast wiegen, Bus-Schein gegen 75 kg und 1300 kg halten, Polyesterdeckel, Deichselträger für 2 MTB  
-7. [ ] Dachträger: nutzbare gerade Rinnenlänge messen, 4-Bögen-Sonderlänge bei B.B.T. und Seefeldt anfragen. Blaulicht und Sirene kommen mit der Zivilanmeldung herunter und werden eingelagert  
+6. [ ] Dach: Schein-Dachlast gegen Freedom Family (ca. 77 kg) plus zwei Querträger halten, gerade Rinne gegen 217 cm messen, Heckklappe frei, Öffnung nach links. Approach M nur, wenn das nicht aufgeht. Pongratz: Leerstützlast wiegen, Bus-Schein gegen 75 kg und 1300 kg halten, Polyesterdeckel, Deichselträger für 2 MTB  
+7. [ ] Dachträger: zwei zelttaugliche Querträger, Mindestabstand 80 cm, Gewicht aus dem Trägerblatt. Blaulicht und Sirene kommen mit der Zivilanmeldung herunter und werden eingelagert  
 8. [ ] Vorzelt: Rinnenstrecke an der Schiebetür mit dem Dachträger teilen, Modell für fünf Personen im Stehen
 
 ---
@@ -702,6 +711,7 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | 2026-09-28 | Draufsicht: Kanister und CFX5 95DZ nebeneinander, Kanister auf der 350-mm-Seite. 1362 mm von 1550 mm |
 | 2026-09-29 | Dachzelt: Thule Approach M auf dem Pongratz, Öffnung nach hinten. Approach L ist mit 184 cm breiter als der Hänger |
 | 2026-09-29 | Planwechsel: Approach M aufs Busdach, Öffnung nach links. Pongratz nur noch Gepäck, Deckel statt Zeltträger. Kein Lattenrost auf dem Dach |
+| 2026-09-29 | Dachzelt: qeedo Freedom Family (250 × 200 cm, ca. 77 kg), damit ein Erwachsener bei den Kindern Platz hat. Approach M bleibt die leichtere Alternative. Elements Gen II 220 ist zu schwer |
 | 2026-09-24 | Einbau in drei Kästen: Unterkasten bündig Motordeckel, Oberkasten und Heckteil je 530 mm, verschraubt, Rost und Matratze oben, Gurte am Rahmen |
 | 2026-09-24 | Box-Follow-up: Geometrie bleibt pausiert; Anhänger ist entschieden, Kocher bleibt im Heckauszug |
 
