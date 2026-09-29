@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" font-family="Helvetica, Arial, sans-serif">
+  <rect width="1200" height="620" fill="#faf9f7"/>
+  <text x="600" y="36" text-anchor="middle" font-size="22" font-weight="700" fill="#1a1a1a">Seitenansicht – Campingmodus Magdalena</text>
+  <text x="600" y="58" text-anchor="middle" font-size="13" fill="#555">Front links · Heck rechts · Reihe 2 blickt nach vorne · Stauraum öffnet zur Heckklappe</text>
+
+  <text x="90" y="100" font-size="13" font-weight="700" fill="#222">← FRONT</text>
+  <text x="1040" y="100" font-size="13" font-weight="700" fill="#222">HECK →</text>
+
+  <!-- roof / floor -->
+  <line x1="70" y1="130" x2="1100" y2="130" stroke="#222" stroke-width="2.5"/>
+  <line x1="70" y1="500" x2="1100" y2="500" stroke="#222" stroke-width="3"/>
+  <text x="78" y="122" font-size="11" fill="#666">Dach innen</text>
+  <text x="78" y="522" font-size="11" fill="#666">Boden</text>
+
+  <!-- height -->
+  <line x1="88" y1="130" x2="88" y2="500" stroke="#888" stroke-width="1.2"/>
+  <polygon points="88,130 84,140 92,140" fill="#888"/>
+  <polygon points="88,500 84,490 92,490" fill="#888"/>
+  <text x="58" y="330" transform="rotate(-90 58 330)" font-size="12" fill="#555">Innenhöhe ≈ 1465 mm</text>
+
+  <!--
+    Reihe 2 faces FRONT (left).
+    Cushion is LEFT of the backrest.
+    Backrest is on the RIGHT (rear side) of the seat.
+    Person looks LEFT.
+  -->
+  <!-- cushion -->
+  <rect x="140" y="360" width="170" height="80" rx="8" fill="#e6e6e6" stroke="#222" stroke-width="2.4"/>
+  <!-- backrest on REAR side of cushion -->
+  <rect x="290" y="250" width="46" height="190" rx="6" fill="#cfcfcf" stroke="#222" stroke-width="2.4"/>
+  <!-- headrest on top of backrest -->
+  <rect x="296" y="220" width="34" height="36" rx="8" fill="#bbb" stroke="#222" stroke-width="2"/>
+  <text x="225" y="400" text-anchor="middle" font-size="13" font-weight="700">Reihe 2</text>
+  <text x="225" y="418" text-anchor="middle" font-size="11" fill="#333">3 Sitze · bleibt</text>
+
+  <!-- gaze arrow pointing LEFT (front) -->
+  <defs>
+    <marker id="fwd" markerWidth="8" markerHeight="8" refX="6" refY="3.5" orient="auto">
+      <path d="M0,0 L7,3.5 L0,7 Z" fill="#1a4a8a"/>
+    </marker>
+  </defs>
+  <line x1="250" y1="340" x2="155" y2="340" stroke="#1a4a8a" stroke-width="2" marker-end="url(#fwd)"/>
+  <text x="200" y="332" text-anchor="middle" font-size="11" font-weight="700" fill="#1a4a8a">Blick nach vorne</text>
+
+  <!-- Verlängerungsplatte on the BACK of the backrest (to the right of backrest) -->
+  <rect x="336" y="268" width="130" height="16" rx="2" fill="#fff4ee" stroke="#c45c3e" stroke-width="2" stroke-dasharray="7 4"/>
+  <text x="401" y="260" text-anchor="middle" font-size="11" font-weight="700" fill="#8a3218">Verlängerungsplatte</text>
+
+  <!-- mattress from plate across box -->
+  <rect x="336" y="284" width="620" height="28" rx="4" fill="#e7d3c0" stroke="#7a5238" stroke-width="2"/>
+  <text x="640" y="303" text-anchor="middle" font-size="12" font-weight="700" fill="#4a3424">Liegefläche ca. 1880–1900 mm</text>
+
+  <!-- camping box body, open toward rear -->
+  <rect x="360" y="312" width="520" height="188" rx="8" fill="#f3c7b8" stroke="#b8432a" stroke-width="3"/>
+  <text x="620" y="338" text-anchor="middle" font-size="14" font-weight="700" fill="#6e2414">Campingbox · Höhe 450–550 mm</text>
+
+  <!-- open rear face (no right wall of storage) indicated by gap and drawer pulled toward hatch -->
+  <!-- drawer pulled out to the RIGHT toward hatch -->
+  <rect x="780" y="360" width="220" height="110" rx="4" fill="#faf6f2" stroke="#6e2414" stroke-width="2.2"/>
+  <text x="890" y="410" text-anchor="middle" font-size="13" font-weight="700" fill="#6e2414">Auszug</text>
+  <text x="890" y="430" text-anchor="middle" font-size="12" fill="#6e2414">zur Heckklappe</text>
+  <!-- arrow showing pull direction -->
+  <line x1="820" y1="490" x2="980" y2="490" stroke="#b8432a" stroke-width="2" marker-end="url(#fwd)"/>
+
+  <!-- remaining storage inside box -->
+  <rect x="380" y="360" width="170" height="110" rx="4" fill="#faf0eb" stroke="#b8432a" stroke-width="1.6"/>
+  <text x="465" y="420" text-anchor="middle" font-size="12" fill="#6e2414">Eurobox</text>
+  <rect x="570" y="360" width="170" height="110" rx="4" fill="#faf0eb" stroke="#b8432a" stroke-width="1.6"/>
+  <text x="655" y="420" text-anchor="middle" font-size="12" fill="#6e2414">Kühlbox</text>
+
+  <!-- motor under rear floor, low -->
+  <path d="M900 500 L900 455 L1040 455 L1040 500 Z" fill="#d5d5d5" stroke="#555" stroke-width="2"/>
+  <text x="970" y="485" text-anchor="middle" font-size="11" font-weight="700" fill="#333">Motorzone</text>
+
+  <!-- hatch open up-right -->
+  <path d="M1040 130 L1120 210" stroke="#222" stroke-width="3" fill="none"/>
+  <text x="1060" y="200" font-size="12" font-weight="700">Heckklappe</text>
+  <text x="1045" y="218" font-size="11" fill="#b8432a" font-weight="700">Zugang hier</text>
+
+  <!-- dims -->
+  <line x1="360" y1="560" x2="880" y2="560" stroke="#666" stroke-width="1.2"/>
+  <text x="620" y="585" text-anchor="middle" font-size="12" fill="#444">Box hinter Reihe 2 · Stauraum von hinten offen / ausziehbar (wie Referenzfoto)</text>
+  <text x="600" y="608" text-anchor="middle" font-size="10" fill="#888">Lehne der Reihe 2 sitzt heckseitig · Sitzfläche zeigt zur Front</text>
+</svg>
