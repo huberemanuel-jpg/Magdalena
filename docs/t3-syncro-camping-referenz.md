@@ -558,6 +558,12 @@ Zwei normale Mountainbikes wiegen zusammen etwa 26–30 kg, ein Deichselträger 
 
 Geschlossen soll das Zelt in **223 × 125 cm** passen. Die Breite ist der engere Wert. Viele 3-Personen-Zelte sind etwa 140 cm breit und damit breiter als der Boden. Dann liegen Querträger auf den Bordwänden, das Zelt sitzt auf den Wänden und darf seitlich etwas überstehen, solange es innerhalb der Außenbreite von 178 cm bleibt und Licht und Kennzeichen frei hält. Länger als 220 cm blockiert die Heckklappe.
 
+**Empfehlung: [Thule Approach M](https://www.thule.com/de-at/rooftop-tents-and-accessories/rooftop-tents/thule-approach-m-_-901014), Art. 901014.** Weichschale, 3 Personen, Schlaffläche 240 × 130 cm, geschlossen **124 × 143 × 28 cm**, 58 kg, statisch 300 kg, Traversenabstand mind. 80 cm. Thule Österreich listet es mit **2.699,95 €**. Die 130 cm Breite sind drei Kinder. Drei Jugendliche oder die Eltern brauchen mehr.
+
+Die 143 cm laufen quer über den Hänger. Das bleibt innerhalb der Außenbreite von 178 cm, steht etwa 9 cm je Seite über dem 125-cm-Boden und liegt auf Querträgern in den Stahlwänden. Die 124 cm laufen in Fahrtrichtung, über der Achse. Die Heckklappe bleibt frei. Die Öffnung wird nach hinten gestellt, die Anleitung beschreibt den Wechsel von der seitlichen Öffnung. Seitlich auf 240 cm würde der Einachser kippen. Abstellstützen, bevor die Klappe aufgeht.
+
+Das Approach L ist geschlossen 124 × 184 cm. 184 cm sind breiter als die 178 cm Außenbreite des Hängers.
+
 Der Siebdruckboden trägt das Zelt nicht allein. Die Querträger gehören in den Stahlrahmen. Mit den Aufsatzwänden stehen die Kinderräder darunter.
 
 **Deckel oder Träger**
@@ -632,7 +638,7 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | Kocher | hochkant im Stirnfach, Betrieb auf der Klapp-Arbeitsplatte | Fach ca. 150 mm tief. Platte ca. 800 × 400 mm für Kocher und Griller |
 | Kühlbox | Dometic CFX5 95DZ, 962×530×472 mm, quer weiter innen | 50 mm Luft, Rost über der Box, Kanister daneben. Beim Kochen bleibt sie über dem Motor |
 | Zugriff vorn | 300 mm seitlich an der rechten Schiebetür, Rest von oben | Türöffnung deckt den Kasten nicht auf ganzer Länge |
-| Schlafen Kinder | Dachzelt auf dem Pongratz 230er Heavy | Ladefläche 223 × 125 cm; Busdach nur Gepäck |
+| Schlafen Kinder | Thule Approach M auf dem Pongratz 230er Heavy | 240 × 130 cm für drei Kinder. Geschlossen 124 × 143 cm, Öffnung nach hinten. Busdach nur Gepäck |
 | Räder | 2 MTB an der Deichsel, Kinderräder im Hänger | Stützlast eingetragen 75 kg; mit Waage prüfen |
 | Busdach | Westfalia-Gepäckträger, min. 4 Bögen | kein Zelt; Blaulicht und Sirene bei der Zivilanmeldung runter |
 | Status Box | **pausiert** | Stand in Abschnitt 0, Nachmessen am Bus vor dem Bau |
@@ -710,6 +716,7 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | 2026-09-28 | Kühlbox wird die CFX5 95DZ, 962×530×472 mm, quer ganz hinten. Kanister daneben, Kocher davor quer, Auszug ca. 900 mm |
 | 2026-09-28 | Kocher und Kühlbox getauscht. 95DZ weiter innen, Kocher hochkant im 150-mm-Stirnfach, Klapp-Arbeitsplatte ca. 800 × 400 mm |
 | 2026-09-28 | Draufsicht: Kanister und CFX5 95DZ nebeneinander, Kanister auf der 350-mm-Seite. 1362 mm von 1550 mm |
+| 2026-09-29 | Dachzelt: Thule Approach M auf dem Pongratz, Öffnung nach hinten. Approach L ist mit 184 cm breiter als der Hänger |
 | 2026-09-24 | Einbau in drei Kästen: Unterkasten bündig Motordeckel, Oberkasten und Heckteil je 530 mm, verschraubt, Rost und Matratze oben, Gurte am Rahmen |
 | 2026-09-24 | Box-Follow-up: Geometrie bleibt pausiert; Anhänger ist entschieden, Kocher bleibt im Heckauszug |
 
