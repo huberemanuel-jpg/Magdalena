@@ -659,6 +659,7 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | Rechnung Gegenleitner R 604/15.03.2023 | VIN, Motor MV08708, Revision € 4.793,70 |
 | §57a Gutachten 07.05.2026 | Typ 255, 2109 ccm, Prüfgewicht 1860 kg, Pickerl bis 05/2027 |
 | [Pongratz EPA 230/12 G-RS-STK](https://pongratztrailers.com/anhaenger/epa-230-12-g-rs-stk.1300/) | 230er-Heavy-Serie: 2230×1250×400 mm, 1300/286/1014 kg |
+| [Thule Approach M, 901014](https://www.thule.com/de-at/rooftop-tents-and-accessories/rooftop-tents/thule-approach-m-_-901014) | 3 Personen, geschlossen 124×143×28 cm, offen 240×143 cm, Schlaf 240×130 cm, 58 kg. Öffnung seitlich oder nach hinten |
 | [Nakatanenga Wasserkanister](https://www.dachzelt24.de/kunststoff-wasserkanister-wassertank-mit-ausgusshahn-20l-oder-10l/NAWTAN020-GRY) | 20 l: 350×460×170 mm; 10 l: 260×370×140 mm |
 | [RotopaX 2 Gallon Water](https://www.rotopax.com/products/2-gallon-water) | 7,6 l, 457×356×76 mm |
 | [Dometic CFX5 95DZ](https://www.dometic.com/en/product/dometic-cfx5-95dz-9620015963) | 94 l (55/39), 962×530×472 mm, leer ca. 33 kg, 9,8 A bei 12 V, 50 mm Luft rundum |
