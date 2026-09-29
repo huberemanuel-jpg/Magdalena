@@ -495,7 +495,7 @@ Kochen nur bei **offener Heckklappe**, auf der Arbeitsplatte. Die Geräte dieser
 | Reihe 2 | 3 Sitze | bleibt; Lehnenrückseite = Bettverlängerung |
 | Heck | Campingbox ~1550×1500–1700 mm | Modul, gurtsfixiert |
 | Seitenverkleidung | Serie / Feuerwehr | erhalten; keine neuen Einbauten fest |
-| Dach | qeedo Freedom Family auf zwei Rinnen-Querträgern | Dachlast oft 100 kg inkl. Träger. Approach M ist die leichtere Alternative. Kein zusätzliches Dachgepäck |
+| Dach | qeedo Freedom Family auf zwei SpaceBars (Art. 100039) | 77 kg Zelt plus 7 kg Träger. Dachlast oft 100 kg inkl. Träger. Kein zusätzliches Dachgepäck |
 | Boden | Serie | Gummiauflage unter Box, sonst original |
 
 ### 5.2 Komfort ohne Substanzverlust
@@ -579,19 +579,27 @@ Das Dach trägt das Zelt, keinen Lattenrost. Der frühere Wunsch eines Westfalia
 - [Werk34 / B.B.T., Art. 021 251 022](https://www.werk34.de/de/dachgepaecktraeger-westfalia-style-nachfertigung-in-spitzen-qualitaet-passend-fuer-t3-mit-3-boegen-021-251-022.html), ca. **990 €**, 3 Bögen, passend für T3
 - gleicher Typ bei [Seefeldt](https://www.seefeldt.de/de/dachgepaecktraeger-edelstahl-bus-t3-3-bogen-version-05-79-08-92.html): Edelstahl, Seriendach 05/79–08/92, 3 Bögen ca. **1.100 €**, ca. 19,5 kg. Seefeldt baut die T3-Version auch mit 4 Bögen auf Sonderbestellung. Ein T1/T2-Träger passt nicht auf die T3-Rinne
 
-Fürs Zelt reichen **zwei Querträger**, die ein Dachzelt tragen dürfen, geklemmt in die gerade Regenrinne. Mindestabstand beim Freedom Family **80 cm**, gleich beim Approach M. Keine Bohrung ins Dach. Ein 19,5-kg-Lattenrost plus ca. 77 kg Zelt lässt von oft 100 kg Dachlast fast nichts übrig. Zwei leichte Querträger lassen den nötigen Rest, das Gewicht steht im Trägerblatt. Zelt plus Träger müssen unter der Dachlast aus dem Schein bleiben. Weiteres Dachgepäck entfällt, das geht auf den Hänger.
+Fürs Zelt reichen **zwei Querträger** in der geraden Regenrinne. Mindestabstand beim Freedom Family **80 cm**, gleich beim Approach M. Keine Bohrung ins Dach. Ein 19,5-kg-Lattenrost plus ca. 77 kg Zelt lässt von oft 100 kg Dachlast fast nichts übrig. Weiteres Dachgepäck entfällt, das geht auf den Hänger.
 
-Blaulicht und Sirene kommen bei der Zivilanmeldung herunter. Danach ist die Rinne frei. Die rechte Rinne teilt sich das Zelt mit dem Vorzelt, die nutzbare gerade Länge wird vorher gemessen.
+**Gewählt:** zwei [Rolling Space SpaceBar, Art. 100039](https://www.rolling-space.de/quertraeger-vw-t3-spacebar/100039). Ein Artikel ist ein Querträger, der Bus braucht zwei. Passt laut Seite auf den T3 1979–1992, damit auf diesen Bus (EZ 05/1991, Seriendach). Profil **1385 mm**, Querschnitt **60 × 30 mm**, Nut 8 oben und unten für M8-Nutensteine. Zwei Haltefüße aus Aluminium und Edelstahl, **170 mm** hoch, klemmen in die Regenrinne, Schrauben liegen bei. **3,5 kg** pro Träger, zwei Träger **7 kg**. **189 €** inklusive MwSt. je Stück, zuzüglich Versand. Lieferzeit auf der Seite 2–7 Tage.
+
+Die Seite nennt **150 kg Traglast pro Träger**, genannt für Dachbox, Fahrrad und Kajak. Das ist die Tragzahl der Stange. Für das Zeltgewicht reicht sie. Für die Fahrt gilt die Dachlast aus dem Schein, oft **100 kg inklusive Träger**. 77 kg Zelt plus 7 kg Träger sind **84 kg**. Die Leiter kann im Bus mitfahren, dann fehlen ihre 6 kg auf dem Dach.
+
+Die geschlossene Zeltbreite ist 138 cm, das Profil 138,5 cm. Am Bus prüfen, dass die Montageschienen des Zelts auf den Profilen liegen und die Klemmen daneben Platz haben. Der Abstand der beiden Träger liegt bei mindestens 80 cm unter den 217 cm des Zelts, so dass die Heckklappe frei bleibt. Die 170-mm-Füße heben das Zelt an. Zusammen mit den 39 cm des geschlossenen Zelts wird die Fahrzeughöhe gemessen, bevor eine Garage oder eine Fähre geplant wird.
+
+Eine SpaceRack-Plattform aus Modulen zwischen den Trägern lässt sich nachbestellen. Sie bleibt vom Plan, weil jedes Zusatzgewicht an der Dachlast zehrt. Der [Westfalia-Querträger Art. 100303](https://www.rolling-space.de/quertraeger-t3-westfalia-spacebar/100303) ist für Aufstelldächer und gehört nicht auf dieses Seriendach.
+
+Blaulicht und Sirene kommen bei der Zivilanmeldung herunter. Danach ist die Rinne frei. Die rechte Rinne teilt sich die Zeltfüße mit dem Vorzelt, die nutzbare gerade Länge wird vorher gemessen.
 
 ### 7.2 Dachzelt auf dem Bus
 
-Das Zelt ist das **[qeedo Freedom Family](https://www.qeedo.de/products/freedom-family?variant=Z4242)** (Freedom Family 4, Variante Z4242). Weichschale, Klappzelt, bis zu 4 Personen. Liegefläche **250 × 200 cm**, Innenhöhe **113 cm**, Matratze **9 cm** mit 3D-Mesh. Geschlossen **217 × 138 × 39 cm**. Die Händlertabellen, auch Skytentcamper in Götzis, nennen **ca. 71 kg ohne Leiter** und **6 kg** für die Leiter, zusammen **ca. 77 kg**. Auf der Produktseite steht „nur 75 kg Dachlast“. Geplant wird mit **77 kg plus den Querträgern**. Skytentcamper listet es mit **2.699 €** inklusive 20 % MwSt. (vorher 2.899 €). Wassersäule 3000 mm.
+Das Zelt ist das **[qeedo Freedom Family](https://www.qeedo.de/products/freedom-family?variant=Z4242)** (Freedom Family 4, Variante Z4242). Weichschale, Klappzelt, bis zu 4 Personen. Liegefläche **250 × 200 cm**, Innenhöhe **113 cm**, Matratze **9 cm** mit 3D-Mesh. Geschlossen **217 × 138 × 39 cm**. Die Händlertabellen, auch Skytentcamper in Götzis, nennen **ca. 71 kg ohne Leiter** und **6 kg** für die Leiter, zusammen **ca. 77 kg**. Auf der Produktseite steht „nur 75 kg Dachlast“. Geplant wird mit **77 kg plus 7 kg** für zwei SpaceBars. Skytentcamper listet es mit **2.699 €** inklusive 20 % MwSt. (vorher 2.899 €). Wassersäule 3000 mm.
 
 Die 200 cm Breite sind der Grund. Bis zu drei Kinder schlafen oben, und ein Erwachsener hat bei den Kindern Platz, falls das nötig wird. Die 130 cm des Approach M fassen diesen Fall nicht.
 
-Die 217 cm laufen in Fahrtrichtung. Die Leiter kommt auf die **linke** Seite. Die Anleitung lässt den Eingang links oder rechts zu. Die rechte Regenrinne bleibt für Schiebetür und Vorzelt. Aufgeklappt stützen Leiter und Eckstützen die auskragende Hälfte am Boden. Mindestabstand der Querträger **80 cm**. qeedo rät von Klemmträgern im Türrahmen ab. An diesem Bus sind es Querträger in der Regenrinne, für ein Dachzelt zugelassen, ohne Bohrung ins Blech. Zum Auflegen braucht es vier Personen oder einen Deckenlift. Die Anleitung nennt **120 km/h** als empfohlene Höchstgeschwindigkeit. Sitzt das Zelt zu weit hinten, kann die Heckklappe anstoßen. Geschlossen ist es 39 cm hoch plus die Träger. Die Gesamthöhe wird am Bus gemessen, bevor eine Garage oder eine Fähre geplant wird. Die gerade Rinne muss die 217 cm plus die Klemmen fassen. Das wird am Bus gemessen, bevor bestellt wird.
+Die 217 cm laufen in Fahrtrichtung. Die Leiter kommt auf die **linke** Seite. Die Anleitung lässt den Eingang links oder rechts zu. Die rechte Regenrinne bleibt für Schiebetür und Vorzelt. Aufgeklappt stützen Leiter und Eckstützen die auskragende Hälfte am Boden. Mindestabstand der Querträger **80 cm**. qeedo rät von Klemmträgern im Türrahmen ab. An diesem Bus sind es Querträger in der Regenrinne, für ein Dachzelt zugelassen, ohne Bohrung ins Blech. Zum Auflegen braucht es vier Personen oder einen Deckenlift. Die Anleitung nennt **120 km/h** als empfohlene Höchstgeschwindigkeit. Sitzt das Zelt zu weit hinten, kann die Heckklappe anstoßen. Geschlossen ist es 39 cm hoch, die SpaceBar-Füße sind 170 mm hoch. Die Gesamthöhe wird am Bus gemessen, bevor eine Garage oder eine Fähre geplant wird. Die gerade Rinne muss die 217 cm plus die Klemmen fassen. Das wird am Bus gemessen, bevor bestellt wird.
 
-Die Dachlast steht in vielen T3-Blättern bei **100 kg inklusive Träger**. Das ist die Last für die Fahrt. 77 kg Zelt plus zwei leichte Querträger müssen darunter bleiben, der Rest ist klein. Die Leiter kann im Bus mitfahren, dann fehlen ihre 6 kg auf dem Dach. Im Stand kommen die Schlafenden dazu. Eine eigene Zahl für diese ruhende Last steht in den T3-Blättern nicht. Händler nennen für das Zelt eine Tragkraft von ca. 300 kg. Der Schein entscheidet über die Fahrt.
+Die Dachlast steht in vielen T3-Blättern bei **100 kg inklusive Träger**. Das ist die Last für die Fahrt. 77 kg Zelt plus zwei SpaceBars (7 kg) sind **84 kg**. Die Leiter kann im Bus mitfahren, dann fehlen ihre 6 kg auf dem Dach. Im Stand kommen die Schlafenden dazu. Eine eigene Zahl für diese ruhende Last steht in den T3-Blättern nicht. Händler nennen für das Zelt eine Tragkraft von ca. 300 kg. Der Schein entscheidet über die Fahrt.
 
 **Alternative, falls Dachlast oder Rinnenlänge das Family nicht tragen:** das **[Thule Approach M](https://www.thule.com/de-at/rooftop-tents-and-accessories/rooftop-tents/thule-approach-m-_-901014)**, Art. 901014. Weichschale, 3 Personen, Schlaffläche 240 × 130 cm, geschlossen **124 × 143 × 28 cm**, 58 kg, statisch 300 kg. Thule Österreich listet es mit **2.699,95 €**. Es ist leichter, auf der Rinne kürzer (143 cm) und geschlossen 28 cm hoch. Die Öffnung ginge ebenfalls nach links. Die 130 cm sind drei Kinder. Für den Fall, dass ein Erwachsener mit oben schläft, bleibt es die kleinere Alternative.
 
@@ -605,7 +613,7 @@ Geschlafen wird nur im Stand, das Zelt ist auf der Fahrt geschlossen und verrieg
 
 Bei schlechtem Wetter sitzen und essen fünf Personen im **Vorzelt**, nicht auf der Liege. Im Bus wird geschlafen. Über der Matratze bleiben ca. 460 mm, das reicht zum Liegen.
 
-Das Vorzelt kommt an die **rechte** Regenrinne, dort ist die Schiebetür. Keine Bohrung ins Dach. Dieselbe Rinne trägt auch die rechten Klammern der Zelt-Querträger. Das Freedom Family öffnet nach links, damit die rechte Seite für Tür und Vorzelt frei bleibt. Die gerade Rinnenstrecke wird am Bus gemessen, bevor Träger oder Vorzelt bestellt werden.
+Das Vorzelt kommt an die **rechte** Regenrinne, dort ist die Schiebetür. Keine Bohrung ins Dach. Dieselbe Rinne trägt auch die rechten Füße der SpaceBars. Die 170-mm-Füße haben ein Airline-Raster, Rolling Space führt dafür Markisenhalter. Ob das Vorzelt daran hängt oder eigene Rinnenklemmen braucht, hängt vom Modell ab. Das Freedom Family öffnet nach links, damit die rechte Seite für Tür und Vorzelt frei bleibt. Die gerade Rinnenstrecke wird am Bus gemessen, bevor Träger oder Vorzelt bestellt werden.
 
 Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, das an der T3-Rinne klemmt und die Schiebetür frei lässt.
 
@@ -629,7 +637,7 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | Zugriff vorn | 300 mm seitlich an der rechten Schiebetür, Rest von oben | Türöffnung deckt den Kasten nicht auf ganzer Länge |
 | Schlafen Kinder | qeedo Freedom Family auf dem Busdach | 250 × 200 cm, damit ein Erwachsener bei den Kindern Platz hat. Öffnung nach links |
 | Räder | 2 MTB an der Deichsel, Kinderräder im Hänger | Stützlast eingetragen 75 kg; mit Waage prüfen |
-| Busdach | zwei Querträger fürs Freedom Family, kein Lattenrost | ca. 77 kg Zelt plus Träger unter oft 100 kg. Approach M ist die leichtere Alternative. Gepäck auf den Pongratz |
+| Busdach | zwei Rolling Space SpaceBar, Art. 100039, kein Lattenrost | je 3,5 kg und 189 €, zusammen 7 kg. 77 kg Zelt plus Träger sind 84 kg. Gepäck auf den Pongratz |
 | Status Box | **pausiert** | Stand in Abschnitt 0, Nachmessen am Bus vor dem Bau |
 
 ---
@@ -652,6 +660,7 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | [Skytentcamper, Freedom Family 4](https://skytentcamper.at/produkt/qeedo-freedom-family-4-500185/) | 2.699 € inkl. 20 % MwSt., gleiche Maßtabelle, Tragkraft ca. 300 kg |
 | [Thule Approach M, 901014](https://www.thule.com/de-at/rooftop-tents-and-accessories/rooftop-tents/thule-approach-m-_-901014) | Alternative: 3 Personen, geschlossen 124×143×28 cm, Schlaf 240×130 cm, 58 kg, 2.699,95 €. Zu schmal, wenn ein Erwachsener bei den Kindern schläft |
 | [horntools Elements Gen II 220](https://www.horntools.com/products/dachzelt-elements-gen-ll-4-personen-220-midnight-stone?variant=56429461602687) | Angeschaut, nicht gewählt. Matratze 235×210 cm. Seite: 91 kg ohne Leiter, 104,6 kg mit beiden Leitern, FAQ 97,8 kg |
+| [Rolling Space SpaceBar, 100039](https://www.rolling-space.de/quertraeger-vw-t3-spacebar/100039) | T3 1979–1992, ein Querträger: 1385 mm, 60×30 mm, Nut 8, Füße 170 mm, 3,5 kg, 150 kg Traglast, 189 € inkl. MwSt. Zwei Stück fürs Zelt |
 | [Nakatanenga Wasserkanister](https://www.dachzelt24.de/kunststoff-wasserkanister-wassertank-mit-ausgusshahn-20l-oder-10l/NAWTAN020-GRY) | 20 l: 350×460×170 mm; 10 l: 260×370×140 mm |
 | [RotopaX 2 Gallon Water](https://www.rotopax.com/products/2-gallon-water) | 7,6 l, 457×356×76 mm |
 | [Dometic CFX5 95DZ](https://www.dometic.com/en/product/dometic-cfx5-95dz-9620015963) | 94 l (55/39), 962×530×472 mm, leer ca. 33 kg, 9,8 A bei 12 V, 50 mm Luft rundum |
@@ -668,8 +677,8 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 3. [ ] Am Bus nachmessen: Länge hinter der Mittelbank, Motordeckelhöhe, B-Säule der Schiebetür  
 4. [ ] Zurrkonzept (Abschnitt 4.5) – später  
 5. [ ] Danach erst Materialliste, Schablone, Bau  
-6. [ ] Dach: Schein-Dachlast gegen Freedom Family (ca. 77 kg) plus zwei Querträger halten, gerade Rinne gegen 217 cm messen, Heckklappe frei, Öffnung nach links. Approach M nur, wenn das nicht aufgeht. Pongratz: Leerstützlast wiegen, Bus-Schein gegen 75 kg und 1300 kg halten, Polyesterdeckel, Deichselträger für 2 MTB  
-7. [ ] Dachträger: zwei zelttaugliche Querträger, Mindestabstand 80 cm, Gewicht aus dem Trägerblatt. Blaulicht und Sirene kommen mit der Zivilanmeldung herunter und werden eingelagert  
+6. [ ] Dach: Schein-Dachlast gegen Freedom Family (ca. 77 kg) plus zwei SpaceBars (7 kg, zusammen 84 kg) halten, gerade Rinne gegen 217 cm messen, Heckklappe frei, Öffnung nach links. Approach M nur, wenn das nicht aufgeht. Pongratz: Leerstützlast wiegen, Bus-Schein gegen 75 kg und 1300 kg halten, Polyesterdeckel, Deichselträger für 2 MTB  
+7. [ ] Dachträger: zwei SpaceBar Art. 100039, Abstand mindestens 80 cm, Zeltschienen auf den 1385-mm-Profilen prüfen, Gesamthöhe mit 170-mm-Füßen messen. Blaulicht und Sirene kommen mit der Zivilanmeldung herunter und werden eingelagert  
 8. [ ] Vorzelt: Rinnenstrecke an der Schiebetür mit dem Dachträger teilen, Modell für fünf Personen im Stehen
 
 ---
@@ -712,6 +721,7 @@ Modell noch offen. Gesucht wird ein Vorzelt zum Stehen und Sitzen für fünf, da
 | 2026-09-29 | Dachzelt: Thule Approach M auf dem Pongratz, Öffnung nach hinten. Approach L ist mit 184 cm breiter als der Hänger |
 | 2026-09-29 | Planwechsel: Approach M aufs Busdach, Öffnung nach links. Pongratz nur noch Gepäck, Deckel statt Zeltträger. Kein Lattenrost auf dem Dach |
 | 2026-09-29 | Dachzelt: qeedo Freedom Family (250 × 200 cm, ca. 77 kg), damit ein Erwachsener bei den Kindern Platz hat. Approach M bleibt die leichtere Alternative. Elements Gen II 220 ist zu schwer |
+| 2026-09-29 | Dachträger: zwei Rolling Space SpaceBar Art. 100039, je 3,5 kg und 189 €. Zelt plus Träger 84 kg |
 | 2026-09-24 | Einbau in drei Kästen: Unterkasten bündig Motordeckel, Oberkasten und Heckteil je 530 mm, verschraubt, Rost und Matratze oben, Gurte am Rahmen |
 | 2026-09-24 | Box-Follow-up: Geometrie bleibt pausiert; Anhänger ist entschieden, Kocher bleibt im Heckauszug |
 
